@@ -49,11 +49,12 @@ GENOMICS_STEMS = [
     r"splicing", r"polygenic", r"variant effect", r"gene regulat", r"epigen",
 ]
 
-# Added for machine-learning feeds (most ML papers are irrelevant; keep biology/neuro ones)
+# Added for machine-learning feeds (most ML papers are irrelevant; keep biology/neuro ones).
+# Kept deliberately narrow: broad terms like "molecul" or "biolog" let through dozens of
+# generic ML papers a day. Add terms back if you want a wider net.
 AI_BIO_STEMS = [
     r"protein", r"genom", r"single-cell", r"single-nucle", r"gene expression",
-    r"biolog", r"drug discovery", r"molecul", r"connectom", r"medical imaging",
-    r"scientific literature", r"literature review", r"citation",
+    r"drug discovery", r"connectom", r"scientific literature",
 ]
 
 PROFILES = {
