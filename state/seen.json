@@ -1875,46 +1875,197 @@
    "published": "2026-10-21T04:00:00+00:00",
    "summary": "arXiv:2610.20851v2 Announce Type: replace Abstract: Understanding when neural networks learn interpretable representations is central to mechanistic interpretability. We study this through identifiability: when can supervised learning recover the true latent variables underlying the data? We introduce two data generating processes distinguished by their causal direction where either labels cause latents (generative) or latents cause labels (discriminative). When the representation has at least as many dimensions as the latent space, we prove that the optimal encoders are linear in the latents. Conversely, when dimensions are insufficient, identifiability generically fails and encoders become",
    "first_seen": "2026-10-21"
+  },
+  "https://www.nature.com/articles/s41593-026-02458-y": {
+   "title": "A corticohypothalamic circuit that mediates maternal awakening to pup cries",
+   "source": "Nature Neuroscience",
+   "published": "2026-10-21T00:00:00+00:00",
+   "summary": "Nature Neuroscience, Published online: 21 October 2026; doi:10.1038/s41593-026-02458-y Tang, Wu et al. identify a brain circuit that enables mother mice to wake selectively to pup cries. Motherhood strengthens this pathway through increased dopamine receptor D1 expression, helping mothers to be responsive to offspring during sleep.",
+   "first_seen": "2026-10-21"
+  },
+  "https://www.nature.com/articles/s41593-026-02469-9": {
+   "title": "SIK3 controls synaptic localization of NMDA receptors by phosphorylating GluN1",
+   "source": "Nature Neuroscience",
+   "published": "2026-10-21T00:00:00+00:00",
+   "summary": "Nature Neuroscience, Published online: 21 October 2026; doi:10.1038/s41593-026-02469-9 SIK3 kinase controls synaptic NMDA receptor recruitment by phosphorylating GluN1 at a single site. Loss or inhibition of SIK3 markedly reduces synaptic NMDARs, while a gain-of-function mutation increases GluN1 phosphorylation and NMDAR levels.",
+   "first_seen": "2026-10-21"
+  },
+  "https://www.nature.com/articles/s41593-026-02487-7": {
+   "title": "Dysregulated cholesterol trafficking through ABCA1 drives neurodegeneration in Parkinson’s disease",
+   "source": "Nature Neuroscience",
+   "published": "2026-10-20T00:00:00+00:00",
+   "summary": "Nature Neuroscience, Published online: 20 October 2026; doi:10.1038/s41593-026-02487-7 This study identifies ABCA1 as a driver of dysregulated cholesterol trafficking in Parkinson’s disease, showing that reducing ABCA1 in astrocytes and neurons decreases cholesterol accumulation, α-synuclein pathology and neurodegeneration in mice.",
+   "first_seen": "2026-10-21"
+  },
+  "https://www.nature.com/articles/s41593-026-02485-9": {
+   "title": "Early lineage divergence segregates sensory and motor-associative identities in the thalamus",
+   "source": "Nature Neuroscience",
+   "published": "2026-10-20T00:00:00+00:00",
+   "summary": "Nature Neuroscience, Published online: 20 October 2026; doi:10.1038/s41593-026-02485-9 Sensory and motor-associative identities in the thalamus arise from two early-diverging lineages, with sensory neurons progressing through shared intermediate states, revealing how thalamic organization emerges during development.",
+   "first_seen": "2026-10-21"
+  },
+  "https://doi.org/10.1038/s41588-026-02809-2": {
+   "title": "Genome-wide detection of genotype–environment interactions at biobank scale with fastGxE",
+   "source": "Nature Genetics",
+   "published": "2026-10-21T23:01:58+00:00",
+   "summary": "",
+   "first_seen": "2026-10-21"
+  },
+  "https://doi.org/10.1038/s41588-026-02769-7": {
+   "title": "Leveraging genomic deep learning models for the prediction of noncoding variant effects",
+   "source": "Nature Genetics",
+   "published": "2026-10-21T09:02:50+00:00",
+   "summary": "",
+   "first_seen": "2026-10-21"
+  },
+  "https://doi.org/10.1038/s41588-026-02794-6": {
+   "title": "Genome-wide analyses identify 60 loci associated with liver triglyceride content",
+   "source": "Nature Genetics",
+   "published": "2026-10-21T09:02:49+00:00",
+   "summary": "Abstract We performed a large-scale genome-wide association study meta-analysis of magnetic resonance imaging-derived liver triglyceride content across 71,488 European-ancestry participants from the UK Biobank, approximately doubling the sample size of previous genome-wide association studies 1 . We identified 60 independent loci, including 31 not previously reported, and estimated the single nucleotide polymorphism-based heritability of liver triglyceride content at 25%. Integrative fine-mapping and gene-prioritization analyses nominated candidate effector genes for 48 loci. Of the 31 newly identified variants, 14 were validated in meta-analyses of clinically diagnosed metabolic dysfunction",
+   "first_seen": "2026-10-21"
+  },
+  "https://doi.org/10.1038/s41588-026-02783-9": {
+   "title": "The landscape of gene loss and missense variation across the mammalian tree informs on gene essentiality",
+   "source": "Nature Genetics",
+   "published": "2026-10-20T09:02:45+00:00",
+   "summary": "Abstract Patterns of gene and sequence preservation across species provide insight into gene essentiality under natural selection. Here we developed two interspecies constraint metrics across 462 mammalian species: Gene Identity Score of Mammalian Orthologs (GISMO), which quantifies gene loss weighted by evolutionary distance to humans, and GISMO-mis, which measures missense constraint using the ratio of missense to synonymous variation across mammals. Both metrics are strongly correlated with human loss of function, missense and dosage constraint derived from large-scale sequencing studies, yet are largely independent of coding sequence length. GISMO and GISMO-mis identify essential genes m",
+   "first_seen": "2026-10-21"
+  },
+  "https://doi.org/10.1038/s41588-026-02799-1": {
+   "title": "Multiancestry conditional and joint analysis applied to GWAS summary statistics",
+   "source": "Nature Genetics",
+   "published": "2026-10-20T09:02:21+00:00",
+   "summary": "Abstract Conditional and joint (COJO) analysis of genome-wide association study (GWAS) data is a standard post-GWAS analysis for identifying statistically independent associations. Although GWAS meta-analyses are increasingly conducted across multiple ancestry groups, the optimal strategy for multiancestry COJO analysis remains unclear. Here we introduce Manc-COJO, a method for multiancestry COJO analysis. Simulations and real-data analyses show that Manc-COJO improves detection of independent association signals while reducing false positives compared with single-ancestry COJO implemented in genome-wide complex trait analysis (GCTA) and its ad-hoc multiancestry adaptations. We also introduc",
+   "first_seen": "2026-10-21"
+  },
+  "https://doi.org/10.1038/s41588-026-02792-8": {
+   "title": "Imputation of fluid intelligence to increase power for gene discovery",
+   "source": "Nature Genetics",
+   "published": "2026-10-20T09:02:14+00:00",
+   "summary": "",
+   "first_seen": "2026-10-21"
+  },
+  "https://doi.org/10.1038/s41588-026-02784-8": {
+   "title": "A systems perspective on monoallelic inborn errors of immunity",
+   "source": "Nature Genetics",
+   "published": "2026-10-20T09:02:13+00:00",
+   "summary": "",
+   "first_seen": "2026-10-21"
+  },
+  "https://doi.org/10.1038/s41588-026-02791-9": {
+   "title": "RNA ends connect genetic risk to brain disease",
+   "source": "Nature Genetics",
+   "published": "2026-10-19T09:03:44+00:00",
+   "summary": "",
+   "first_seen": "2026-10-21"
+  },
+  "https://doi.org/10.1038/s41588-026-02764-y": {
+   "title": "Establishing Polycomb regulatory landscapes in human early development",
+   "source": "Nature Genetics",
+   "published": "2026-10-19T09:02:49+00:00",
+   "summary": "",
+   "first_seen": "2026-10-21"
+  },
+  "https://doi.org/10.1093/brain/awag363": {
+   "title": "Prematurity insults remodel cerebellar development and behaviour",
+   "source": "Brain",
+   "published": "2026-10-21T13:50:29+00:00",
+   "summary": "Abstract Preterm survivors often develop motor and socio-cognitive impairments that implicate altered cerebellar development, yet the underlying mechanisms remain poorly understood. A key challenge is that prematurity involves overlapping perinatal insults that converge on the developing brain, making their individual effects difficult to disentangle. Here, we model two major prematurity-associated insults, maternal immune activation (MIA) and neonatal hypoxia (Hx), in mice. By controlling timing and sequence, we define how these insults shape cerebellar assembly during rapid maturation. Comparative analysis with human tissue confirmed that these insults recapitulate key features of the huma",
+   "first_seen": "2026-10-21"
+  },
+  "https://doi.org/10.1093/brain/awag361": {
+   "title": "Serum β-synuclein predicts dementia conversion and mortality beyond amyloid-β and phospho-tau",
+   "source": "Brain",
+   "published": "2026-10-21T13:48:41+00:00",
+   "summary": "Abstract Synaptic dysfunction is among the earliest pathological events in Alzheimer's disease and among the strongest neuropathological correlates of cognitive impairment, yet blood-based synaptic biomarkers are lacking. Whether serum β-synuclein provides prognostic information independent of established amyloid-β (A; CSF Aβ42/Aβ40 ratio) and tau (T1; CSF pTau181) biomarkers has not been determined. We studied 259 non-demented individuals with subjective or mild cognitive impairment from a single-centre memory clinic, classified by CSF biomarkers using externally validated cut-offs into A−T1− controls (n = 97), A−T1+ PASSED (‘pTau and Aβ surge with subtle deterioration’, n = 65), and A + T1",
+   "first_seen": "2026-10-21"
+  },
+  "https://doi.org/10.1093/brain/awag308": {
+   "title": "Preventing autoimmunity after alemtuzumab in multiple sclerosis: regulatory T cells resist expansion",
+   "source": "Brain",
+   "published": "2026-10-21T12:35:20+00:00",
+   "summary": "This scientific commentary refers to ‘Low-dose IL-2 fails to expand Tregs after alemtuzumab: insight into impaired immune tolerance in multiple sclerosis’ by Georgieva et al. (https://doi.org/10.1093/brain/awag171).",
+   "first_seen": "2026-10-21"
+  },
+  "https://doi.org/10.1001/jamaneurol.2026.3759": {
+   "title": "The Patient I Could Not Save",
+   "source": "JAMA Neurology",
+   "published": "2026-10-19T15:00:37+00:00",
+   "summary": "This essay describes the author’s experience with severe postpartum anxiety and depression, suicidal ideation, and her time on an inpatient psychiatry unit.",
+   "first_seen": "2026-10-21"
+  },
+  "https://doi.org/10.1001/jamaneurol.2026.3708": {
+   "title": "Vascular Risk Factors and Late-Onset Epilepsy",
+   "source": "JAMA Neurology",
+   "published": "2026-10-19T15:00:33+00:00",
+   "summary": "Importance Late-onset epilepsy (LOE; onset at age ≥65 years) is increasingly recognized in older adults and may be associated with vascular risk. Objective To identify vascular risk factors (VRFs) associated with incident LOE in older adults. Design, Setting, and Participants This study is an individual participant data meta-analysis of 6 US population-based prospective cohort studies (the Epilepsy-Cog Study). In 5 cohorts linked to Medicare for epilepsy case ascertainment, follow-up for LOE began when a participant had accrued 2 years of continuous fee-for-service enrollment and was 65 years of age or older and extended to the end of continuous enrollment. Claims linkage covered 1991-2018 i",
+   "first_seen": "2026-10-21"
+  },
+  "https://doi.org/10.1002/ana.78395": {
+   "title": "Accelerated Epigenetic Aging in Frontotemporal Dementia Highlights Smoking, Inflammation, and Metabolic Signals",
+   "source": "Annals of Neurology",
+   "published": "2026-10-21T11:33:48+00:00",
+   "summary": "Objective Epigenetic clocks are biomarkers of biological aging influenced by lifestyle and systemic factors. Accelerated epigenetic aging has been associated with neurodegeneration, but its relevance in frontotemporal dementia is unclear. We investigated biological aging in frontotemporal dementia using the GrimAge2 epigenetic clock, a DNA methylation‐based predictor of mortality, and examined the contribution of smoking‐related DNA methylation. Methods Peripheral blood DNA methylation data from frontotemporal dementia patients and controls from 2 independent cohorts were analyzed (Amsterdam Dementia Cohort: 313 patients, 121 controls; Genetic Investigation in Frontotemporal Dementia study: ",
+   "first_seen": "2026-10-21"
+  },
+  "https://doi.org/10.1002/ana.78381": {
+   "title": "A Recurrent 3′ UTR Variant in CAPN3 Highlights the Diagnostic Impact of Non‐Coding Variants in Limb‐Girdle Muscular Dystrophies",
+   "source": "Annals of Neurology",
+   "published": "2026-10-21T11:32:59+00:00",
+   "summary": "Objective A substantial proportion of individuals with suspected genetic conditions, including neuromuscular disorders, lack a definitive molecular diagnosis. Non‐coding variants, particularly those in the 3′ untranslated region (3´UTR), which regulate mRNA stability, translation, and localization, may underlie part of this gap. We investigated the clinical, genetic, and functional relevance of a novel 3′UTR variant in CAPN3 in individuals with persistent hyperCKemia, most of whom also presented with proximal muscle weakness. Methods Clinical assessment, including muscle biopsy and muscle magnetic resonance imaging (MRI), was performed in individuals harboring the CAPN3 c.*534T>C variant. In",
+   "first_seen": "2026-10-21"
+  },
+  "https://doi.org/10.1016/j.neurobiolaging.2026.10.004": {
+   "title": "Mechanistic Insights into Age- and Vascular-related Microstructure Differences in the Corpus Callosum Using Biophysical Modeling of Diffusion MRI",
+   "source": "Neurobiology of Aging",
+   "published": "2026-10-19T15:34:22+00:00",
+   "summary": "",
+   "first_seen": "2026-10-21"
   }
  },
  "feed_status": {
-  "Nature Neuroscience": "no entries (bad URL, blocked, or empty)",
-  "bioRxiv Neuroscience": "30 new of 30",
-  "medRxiv Neurology": "22 new of 30",
-  "arXiv q-bio.NC": "11 new of 11",
-  "Nature Medicine": "6 new of 8",
-  "Nature Genetics": "no entries (bad URL, blocked, or empty)",
-  "Nature Aging": "no entries (bad URL, blocked, or empty)",
+  "Nature Neuroscience": "4 new of 8",
+  "bioRxiv Neuroscience": "0 new of 30",
+  "medRxiv Neurology": "0 new of 30",
+  "arXiv q-bio.NC": "0 new of 11",
+  "Nature Medicine": "0 new of 8",
+  "Nature Genetics": "9 new of 9 (via Crossref)",
+  "Nature Aging": "0 new of 8",
   "Nature Reviews Neuroscience": "0 new of 8",
-  "Nature Reviews Neurology": "no entries (bad URL, blocked, or empty)",
+  "Nature Reviews Neurology": "0 new of 8",
   "Nature Methods": "0 new of 8",
-  "Nature Biotechnology": "4 new of 8",
-  "Molecular Psychiatry": "2 new of 8",
-  "Neuron": "2 new of 14",
+  "Nature Biotechnology": "0 new of 8",
+  "Molecular Psychiatry": "0 new of 8",
+  "Neuron": "0 new of 14",
   "Cell Stem Cell": "0 new of 15",
   "Stem Cell Reports": "0 new of 20",
-  "Alzheimer's & Dementia": "5 new of 56",
-  "Acta Neuropathologica": "no entries (bad URL, blocked, or empty)",
-  "Molecular Neurodegeneration": "no entries (bad URL, blocked, or empty)",
-  "Lancet Neurology": "16 new of 19",
-  "Nature": "4 new of 75",
-  "Nature Communications": "no entries (bad URL, blocked, or empty)",
-  "Scientific Reports (Neuroscience)": "no entries (bad URL, blocked, or empty)",
-  "eLife": "5 new of 50",
-  "bioRxiv Genomics": "4 new of 30",
-  "arXiv q-bio.GN": "3 new of 7",
-  "arXiv q-bio.QM": "2 new of 11",
-  "arXiv cs.LG": "78 new of 817",
+  "Alzheimer's & Dementia": "0 new of 56",
+  "Lancet Neurology": "0 new of 19",
+  "Acta Neuropathologica": "0 new of 1 (via Crossref)",
+  "Molecular Neurodegeneration": "crossref returned nothing",
+  "Brain": "3 new of 3 (via Crossref)",
+  "JAMA Neurology": "2 new of 2 (via Crossref)",
+  "Annals of Neurology": "2 new of 2 (via Crossref)",
+  "Neurobiology of Aging": "1 new of 1 (via Crossref)",
+  "Nature": "0 new of 75",
+  "Nature Communications": "0 new of 8",
+  "Scientific Reports (Neuroscience)": "no entries (HTTP 200) (SAXParseException)",
+  "eLife": "0 new of 50",
+  "bioRxiv Genomics": "0 new of 30",
+  "arXiv q-bio.GN": "0 new of 7",
+  "arXiv q-bio.QM": "0 new of 11",
+  "arXiv cs.LG": "0 new of 817",
   "Science": "0 new of 39",
-  "Science Translational Medicine": "4 new of 8",
+  "Science Translational Medicine": "0 new of 8",
   "Cell": "0 new of 22",
-  "Cell Reports": "3 new of 15",
-  "bioRxiv Genetics": "2 new of 30",
-  "bioRxiv Cell Biology": "2 new of 30",
-  "bioRxiv Molecular Biology": "2 new of 30",
-  "bioRxiv Bioinformatics": "15 new of 30",
-  "arXiv cs.AI": "39 new of 473",
-  "arXiv stat.ML": "7 new of 71"
+  "Cell Reports": "0 new of 15",
+  "bioRxiv Genetics": "0 new of 30",
+  "bioRxiv Cell Biology": "0 new of 30",
+  "bioRxiv Molecular Biology": "0 new of 30",
+  "bioRxiv Bioinformatics": "0 new of 30",
+  "arXiv cs.AI": "0 new of 473",
+  "arXiv stat.ML": "0 new of 71"
  },
- "updated": "Wed Oct 21, 6:42 PM PDT"
+ "updated": "Wed Oct 21, 7:04 PM PDT"
 }
