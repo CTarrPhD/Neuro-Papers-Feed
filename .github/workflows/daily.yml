@@ -1,0 +1,29 @@
+name: Update morning papers
+
+on:
+  schedule:
+    # 5:30 AM Pacific year-round: one of these lands on 5:30, the other is a harmless extra run
+    - cron: "30 12 * * *"   # 5:30 AM PDT (summer)
+    - cron: "30 13 * * *"   # 5:30 AM PST (winter)
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - run: python3 build_digest.py
+      - name: Commit updated page
+        run: |
+          git config user.name "digest-bot"
+          git config user.email "digest-bot@users.noreply.github.com"
+          git add docs state
+          git diff --cached --quiet || git commit -m "Update papers $(date -u +%F)"
+          git push
