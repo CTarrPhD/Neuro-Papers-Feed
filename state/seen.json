@@ -7552,50 +7552,127 @@
    "published": "2026-10-28T00:00:00+00:00",
    "summary": "Current Alzheimer's disease (AD) neuropathological metrics, including Thal phasing, and Braak staging, often do not accurately predict cognitive status: many cognitively resilient individuals have substantial pathological burdens, whereas some patients with dementia show minimal classical AD pathology. Here, we addressed this discrepancy by investigating the molecular mechanisms underlying AD dementia using single-nucleus RNA-sequencing and single-nucleus multiome datasets. To eliminate cross-modality scaling artifacts and compositional biases inherent in neurodegenerative tissues, we normalized the datasets using our novel framework, bypassing scaling issues of conventional methods that may",
    "first_seen": "2026-10-29"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.10.28.757140v1?rss=1": {
+   "title": "An energy-dependent integrate-and-fire model explains coordinated synaptic and intrinsic adaptation under metabolic stress",
+   "source": "bioRxiv Neuroscience",
+   "published": "2026-10-29T00:00:00+00:00",
+   "summary": "Neuronal computation is constrained by the energetic cost of maintaining synaptic transmission, ionic gradients and action-potential generation. Prior work has shown that food restriction in mice shifts visual cortical neurons toward a different operating regime characterized by reduced excitatory synaptic drive, increased membrane resistance and a more depolarized resting membrane potential. This preserves neuronal firing rates, but comes at the cost of reduced coding precision. Deriving an improved estimate of neuronal energy consumption, we have recently shown that these adaptations reflect an optimal trade-off between neuronal information transmission and energy consumption. However, it ",
+   "first_seen": "2026-10-29"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.10.28.762450v1?rss=1": {
+   "title": "Junctional Nanodomains Organised by Extended Synaptotagmin-1 Underlie Inflammatory Signalling in Sensory Neurons",
+   "source": "bioRxiv Neuroscience",
+   "published": "2026-10-29T00:00:00+00:00",
+   "summary": "Endoplasmic reticulum-plasma membrane (ER-PM) junctions coordinate Ca2+ signalling and nociceptor excitability during inflammation, but the molecular scaffold governing assembly of signalling complexes remains unclear. Here, we identify Extended Synaptotagmin-1 (Esyt1) as a key, dynamic regulator of inflammatory pain signalling. In nociceptive DRG neurons, Esyt1 is co-expressed with ANO1 and IP3R1. Time-resolved proximity ligation assays and super-resolution microscopy showed that bradykinin rapidly increased ANO1-Esyt1 nanoscale proximity, while IP3R1-Esyt1 interactions were dynamically reorganised during ANO1-IP3R1 complex formation. Esyt1 knockdown reduced bradykinin-evoked ANO1 activity,",
+   "first_seen": "2026-10-29"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.10.28.762478v1?rss=1": {
+   "title": "Neural Bases for Working Memory of Natural Sound Textures",
+   "source": "bioRxiv Neuroscience",
+   "published": "2026-10-29T00:00:00+00:00",
+   "summary": "Holding sound objects in mind is critical to understanding the sound world around us. Auditory texture perception is thought to rely on extracting statistical properties of sounds over time, raising the question of how encoding duration influences subsequent maintenance of auditory texture information. We investigated this question using behavioural performance and fMRI while participants performed two delayed match-to-sample tasks: a texture discrimination and a comparison loudness discrimination task. In the texture task, participants judged whether two sequentially presented sounds belonged to the same texture type, whereas in the loudness task, participants judged whether the sounds, dra",
+   "first_seen": "2026-10-29"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.10.28.762421v1?rss=1": {
+   "title": "Genetic ablation of Sarm1 attenuates axonal degeneration in a mouse model of CMT2J",
+   "source": "bioRxiv Neuroscience",
+   "published": "2026-10-29T00:00:00+00:00",
+   "summary": "Charcot-Marie-Tooth (CMT) disease is the most common inherited neuropathy, affecting approximately 1 in 2,500 individuals, and comprises a clinically and genetically heterogeneous group of disorders involving more than 100 genes. Mutations in myelin protein zero (MPZ) typically cause the demyelinating form CMT1B, whereas the T124M substitution gives rise to CMT2J, a late-onset, predominantly axonal neuropathy with minimal myelin involvement. We previously generated a MpzT124M mouse model that recapitulates key features of the human disease, including progressive axonal degeneration and fibre loss in peripheral nerves. Because SARM1 (sterile and TIR motif-containing protein 1) is a central ex",
+   "first_seen": "2026-10-29"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.10.28.762619v1?rss=1": {
+   "title": "Design Tradeoffs in High Resolution, Large Field-of-View 3D All-Optical Control of Neural Circuits",
+   "source": "bioRxiv Neuroscience",
+   "published": "2026-10-29T00:00:00+00:00",
+   "summary": "Multiphoton holographic optogenetics is an emerging technology that offers the ability to probe neural circuits with unprecedented temporal and spatial precision. When combined with in vivo imaging, it enables a host of experiments that were not previously possible. While this approach grows in popularity, the one-size-fits-all approach of most microscopes leads to systems that are not optimized for many experimental paradigms. Focusing on scanless temporally focused holographic optogenetic approaches, we explore the tradeoffs between resolution and field of view in different microscope designs. We show that simple changes in optical elements and lens order can create systems with both impro",
+   "first_seen": "2026-10-29"
+  },
+  "https://www.nature.com/articles/d41591-026-00055-x": {
+   "title": "A small-molecule TREM2 agonist for Alzheimer’s disease",
+   "source": "Nature Medicine",
+   "published": "2026-10-29T00:00:00+00:00",
+   "summary": "Nature Medicine, Published online: 29 October 2026; doi:10.1038/d41591-026-00055-x Preclinical analysis and a phase 1 trial support VG-3927 as a promising drug candidate for Alzheimer’s disease, demonstrating successful penetration of the central nervous system, target engagement and tolerability.",
+   "first_seen": "2026-10-29"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.10.28.762489v1?rss=1": {
+   "title": "Variation in hypoxia tolerance is driven by evolutionary changes in gene regulation in the eastern oyster",
+   "source": "bioRxiv Genomics",
+   "published": "2026-10-29T00:00:00+00:00",
+   "summary": "Understanding the genomic basis of stress tolerance is crucial for predicting biological responses to environmental change. Here, we investigated the genomic basis of divergence in hypoxia tolerance between two populations of eastern oyster (Crassostrea virginica) from Louisiana and Texas, USA. We combined low-coverage whole-genome sequencing data with previously generated transcriptomic evidence to understand the mechanisms underlying population-specific variation in hypoxia tolerance. Genome-wide analyses revealed substantial population differentiation (global FST = 0.21), indicative of a clear genetic break between our study populations. We combined estimates of genomic differentiation (F",
+   "first_seen": "2026-10-29"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.10.26.762095v1?rss=1": {
+   "title": "Tau is an m6A-associated RNA binding protein that causes RNA dysregulation in disease",
+   "source": "bioRxiv Molecular Biology",
+   "published": "2026-10-29T00:00:00+00:00",
+   "summary": "Coding variants in MAPT, the gene encoding tau, cause dementia, but the molecular mechanisms underlying tau pathogenicity are largely unknown. Our characterization of postmortem brain samples from patients with MAPT coding variants and iPSC-derived neurons (iNeurons) with the dementia-causing MAPT V337M mutation reveals wide-spread changes in the abundance of RNA-binding proteins. MAPT V337M iNeurons also show increased total RNA levels and differential abundance and isoform usage for certain mRNA transcripts. A CRISPRi screen for regulators of RNA levels in MAPT V337M iNeurons identifies m6A-associated proteins, including hnRNPA2B1, a known tau-interacting protein. Using eCLIP, we discover ",
+   "first_seen": "2026-10-29"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.10.27.762311v1?rss=1": {
+   "title": "mito-overview: a mitochondrial report software",
+   "source": "bioRxiv Bioinformatics",
+   "published": "2026-10-29T00:00:00+00:00",
+   "summary": "Interpreting mitochondrial DNA variation requires relating allele representation and genomic annotation to the sequencing evidence available for each sample. We developed mito-overview to integrate mitochondrial coverage, candidate allele fractions, genomic annotations and long read co-occurrence in mitochondrial genomic reports. Analysis of a subset of public GM12878 long read data from Vandiver and colleagues Cas9 enrichment study of full-length mitochondrial genomes (SRR18110025) identified 16 candidate variants. Among these candidates, co-occurrence analysis showed that m.8860A>G and m.14831G>A occurred together in all 366 jointly callable query names, demonstrating how mito-overview ext",
+   "first_seen": "2026-10-29"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.10.27.762296v1?rss=1": {
+   "title": "Ground-truth evaluation of sparse autoencoder features on spatial, single-cell and language-model embeddings",
+   "source": "bioRxiv Bioinformatics",
+   "published": "2026-10-29T00:00:00+00:00",
+   "summary": "Sparse autoencoders (SAEs) are increasingly used to extract interpretable features from the embeddings of biological foundation models. Because SAEs trained with different random seeds learn different features, reproducibility across seeds has become a common test of whether these features can be trusted. We asked whether reproducible features are also meaningful, using embeddings whose concepts are known: five spatial transcriptomics embeddings of two colorectal cancer sections and Geneformer embeddings of single-cell RNA profiles, with cell lineages as concepts; synthetic data with planted cell states; and the residual stream of a small language model, with token classes as concepts. Varim",
+   "first_seen": "2026-10-29"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.10.27.762306v1?rss=1": {
+   "title": "Evaluation of Cross-slice Imputation for Spatial Proteomics",
+   "source": "bioRxiv Bioinformatics",
+   "published": "2026-10-29T00:00:00+00:00",
+   "summary": "Spatial single-cell protein profiling is at the forefront of translational medicine research efforts that try to decipher tissue heterogeneity. However, existing experimental approaches are limited in the number of biomarkers that they measure. This has motivated extensive research into the problem of protein imputation, where proteins or biomarkers not directly measured in a given slice of biopsy tissue are learned from those measured. In this work, we focus on the specific problem of cross-slice protein imputation (CSPI). In the CSPI problem, two sets of biomarker expressions at the single-cell level are known for physically adjacent slices of tissue. Each slice has its own known set of bi",
+   "first_seen": "2026-10-29"
   }
  },
  "feed_status": {
   "Nature Neuroscience": "0 new of 8",
-  "bioRxiv Neuroscience": "21 new of 30",
-  "medRxiv Neurology": "15 new of 30",
+  "bioRxiv Neuroscience": "5 new of 30",
+  "medRxiv Neurology": "0 new of 30",
   "arXiv q-bio.NC": "no entries (HTTP 200)",
-  "Nature Medicine": "3 new of 8",
-  "Nature Genetics": "0 new of 8",
+  "Nature Medicine": "1 new of 8",
+  "Nature Genetics": "0 new of 5 (via Crossref)",
   "Nature Aging": "0 new of 8",
-  "Nature Reviews Neuroscience": "no entries (HTTP 301) (SAXParseException)",
-  "Nature Reviews Neurology": "0 new of 8",
-  "Nature Methods": "3 new of 8",
-  "Nature Biotechnology": "0 new of 8",
+  "Nature Reviews Neuroscience": "0 new of 8",
+  "Nature Reviews Neurology": "0 new of 1 (via Crossref)",
+  "Nature Methods": "no entries (HTTP 301) (SAXParseException)",
+  "Nature Biotechnology": "no entries (HTTP 301) (SAXParseException)",
   "Molecular Psychiatry": "no entries (HTTP 301) (SAXParseException)",
   "Neuron": "0 new of 14",
   "Cell Stem Cell": "0 new of 15",
   "Stem Cell Reports": "0 new of 20",
-  "Alzheimer's & Dementia": "4 new of 79",
+  "Alzheimer's & Dementia": "0 new of 79",
   "Lancet Neurology": "0 new of 19",
   "Acta Neuropathologica": "0 new of 1 (via Crossref)",
   "Molecular Neurodegeneration": "crossref returned nothing",
-  "Brain": "7 new of 9 (via Crossref)",
+  "Brain": "0 new of 9 (via Crossref)",
   "JAMA Neurology": "0 new of 9 (via Crossref)",
   "Annals of Neurology": "0 new of 1 (via Crossref)",
-  "Neurobiology of Aging": "1 new of 1 (via Crossref)",
-  "Nature": "6 new of 75",
-  "Nature Communications": "0 new of 8",
+  "Neurobiology of Aging": "0 new of 1 (via Crossref)",
+  "Nature": "no entries (HTTP 301) (SAXParseException)",
+  "Nature Communications": "no entries (HTTP 301) (SAXParseException)",
   "Scientific Reports (Neuroscience)": "no entries (HTTP 200) (SAXParseException)",
-  "eLife": "2 new of 28",
-  "bioRxiv Genomics": "2 new of 30",
+  "eLife": "0 new of 100",
+  "bioRxiv Genomics": "1 new of 30",
   "arXiv q-bio.GN": "no entries (HTTP 200)",
   "arXiv q-bio.QM": "no entries (HTTP 200)",
   "arXiv cs.LG": "no entries (HTTP 200)",
   "Science": "0 new of 41",
-  "Science Translational Medicine": "1 new of 7",
+  "Science Translational Medicine": "0 new of 7",
   "Cell": "0 new of 22",
-  "Cell Reports": "4 new of 52",
+  "Cell Reports": "0 new of 52",
   "bioRxiv Genetics": "0 new of 30",
-  "bioRxiv Cell Biology": "5 new of 30",
+  "bioRxiv Cell Biology": "0 new of 30",
   "bioRxiv Molecular Biology": "1 new of 30",
   "bioRxiv Bioinformatics": "3 new of 30",
   "arXiv cs.AI": "0 new of 407",
   "arXiv stat.ML": "no entries (HTTP 200)"
  },
- "updated": "Thu Oct 29, 6:31 AM PDT"
+ "updated": "Thu Oct 29, 7:23 AM PDT"
 }
