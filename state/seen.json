@@ -9155,21 +9155,35 @@
    "published": "2026-10-31T00:00:00+00:00",
    "summary": "Predicting the effects of individual and combined perturbations is central to identifying context-specific vulnerabilities and designing targeted interventions. Yet learning gene representations that integrate functional relationships with cellular state and transfer across perturbation tasks remains challenging. Here, we present EMBER, a gene-centric foundation model that learns context-dependent functional representations of genes. EMBER combines interaction-guided contrastive learning with masked expression reconstruction during pretraining on a single-cell corpus curated for diversity and balanced sampling across cell types and experimental batches. EMBER decouples gene representation le",
    "first_seen": "2026-11-01"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.10.30.763227v1?rss=1": {
+   "title": "Pycea: a scverse toolkit for single-cell lineage tracing analysis",
+   "source": "bioRxiv Bioinformatics",
+   "published": "2026-11-01T00:00:00+00:00",
+   "summary": "Lineage tracing enables reconstruction of cellular histories in development, regeneration, and disease, but integrating lineage data into single-cell analysis workflows remains challenging. We introduce Pycea, a Python toolkit for lineage analysis and visualization, and TreeData, an extension of AnnData that stores lineage trees alongside cellular measurements. TreeData is compatible with Scanpy and other scverse tools, enabling integrated analysis without converting between formats. Pycea provides scalable methods for tree visualization, clade identification, distance comparisons, ancestral state inference, and lineage statistics. This software is open source and available at https://github",
+   "first_seen": "2026-11-01"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.10.27.762107v1?rss=1": {
+   "title": "Cross-modal transfer enables zero-shot prediction of drug responses across cell types",
+   "source": "bioRxiv Bioinformatics",
+   "published": "2026-11-01T00:00:00+00:00",
+   "summary": "Genetic perturbation responses capture the functional consequences of gene-level interventions, providing functional information for drug-response prediction beyond baseline gene expression. Within the same cellular context, genetic and chemical perturbations engage shared regulatory networks, providing a biological basis for transferring response information between perturbation modalities. Here we introduce GRAFT, a framework that combines genetic-to-chemical transfer with cross-context prediction to infer drug-induced transcriptional responses without drug measurements in the target context. Across benchmarked LINCS and external contexts, GRAFT improved response correlation, directional a",
+   "first_seen": "2026-11-01"
   }
  },
  "feed_status": {
   "Nature Neuroscience": "0 new of 8",
-  "bioRxiv Neuroscience": "16 new of 30",
-  "medRxiv Neurology": "2 new of 30",
+  "bioRxiv Neuroscience": "0 new of 30",
+  "medRxiv Neurology": "0 new of 30",
   "arXiv q-bio.NC": "no entries (HTTP 200)",
   "Nature Medicine": "0 new of 8",
   "Nature Genetics": "0 new of 8",
-  "Nature Aging": "0 new of 1 (via Crossref)",
+  "Nature Aging": "0 new of 8",
   "Nature Reviews Neuroscience": "0 new of 8",
   "Nature Reviews Neurology": "0 new of 8",
   "Nature Methods": "0 new of 8",
-  "Nature Biotechnology": "no entries (HTTP 301) (SAXParseException)",
-  "Molecular Psychiatry": "3 new of 8",
+  "Nature Biotechnology": "0 new of 8",
+  "Molecular Psychiatry": "0 new of 8",
   "Neuron": "0 new of 14",
   "Cell Stem Cell": "0 new of 15",
   "Stem Cell Reports": "0 new of 20",
@@ -9184,8 +9198,8 @@
   "Nature": "0 new of 75",
   "Nature Communications": "0 new of 8",
   "Scientific Reports (Neuroscience)": "no entries (HTTP 200) (SAXParseException)",
-  "eLife": "0 new of 50",
-  "bioRxiv Genomics": "1 new of 30",
+  "eLife": "0 new of 100",
+  "bioRxiv Genomics": "0 new of 30",
   "arXiv q-bio.GN": "no entries (HTTP 200)",
   "arXiv q-bio.QM": "no entries (HTTP 200)",
   "arXiv cs.LG": "no entries (HTTP 200)",
@@ -9196,9 +9210,9 @@
   "bioRxiv Genetics": "0 new of 30",
   "bioRxiv Cell Biology": "0 new of 30",
   "bioRxiv Molecular Biology": "0 new of 30",
-  "bioRxiv Bioinformatics": "3 new of 30",
+  "bioRxiv Bioinformatics": "2 new of 30",
   "arXiv cs.AI": "no entries (HTTP 200)",
   "arXiv stat.ML": "no entries (HTTP 200)"
  },
- "updated": "Sun Nov 1, 5:18 AM PST"
+ "updated": "Sun Nov 1, 6:08 AM PST"
 }
