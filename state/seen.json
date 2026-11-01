@@ -8980,21 +8980,196 @@
    "published": "2026-10-30T00:00:00+00:00",
    "summary": "Background: Rare genetic epilepsies are often difficult to diagnose and treat. They can arise from changes in many different genes, and the molecular basis linking these changes to epilepsy remains poorly understood. This complexity makes it difficult to select effective treatments and develop new therapies, leaving many patients with poorly controlled seizures and reduced quality of life Methods: To address this gap, we first identified epilepsy-associated genes and conducted a network-based analysis of biomolecular interactions in genetic epilepsy to identify converging pathways with high translational relevance and potential therapeutic targets. To run the analysis, we constructed a human",
    "first_seen": "2026-10-31"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.10.30.763069v1?rss=1": {
+   "title": "Cortical long-range dynamics track excitation-inhibition balance across cognitive states and organizational principles",
+   "source": "bioRxiv Neuroscience",
+   "published": "2026-11-01T00:00:00+00:00",
+   "summary": "A fundamental question in systems neuroscience is how the brain's excitation-inhibition (E/I) balance shapes the temporal structure of neural activity and whether we can non-invasively recover this relationship from neural scaling properties. We show that MRS-derived E/I balance is expressed in long-range temporal dynamics and constrained by cytoarchitecture. The laminar organisation of inhibitory circuits, spanning agranular to granular cortex, determines how faithfully regional dynamics reflect E/I balance. This neurochemical signature is state-dependent: its relationship with cortical dynamics reverses during task engagement, consistent with traversal of dynamical regimes around a critica",
+   "first_seen": "2026-11-01"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.10.30.762936v1?rss=1": {
+   "title": "A Unified World Model in Human Posterior Parietal Cortex",
+   "source": "bioRxiv Neuroscience",
+   "published": "2026-11-01T00:00:00+00:00",
+   "summary": "How does the brain understand the physical world, predict future events, and plan actions? Are these problems solved by a unified world model, as hypothesized by cognitive scientists and artificial intelligence researchers? Posterior parietal cortex has been implicated in all these functions, but whether the same neurons support each of them is unknown. We recorded from the superior parietal lobule (SPL) of two tetraplegic participants implanted with microelectrode arrays. SPL units preferentially engaged by intuitive physics, judging block-tower stability and viewing naturalistic physical events, also predicted whether moving objects would collide hundreds of milliseconds before contact, ge",
+   "first_seen": "2026-11-01"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.10.31.763281v1?rss=1": {
+   "title": "Superior Frontal Gyrus Cortical Thickness Mediates the Association Between Openness to Experience and Theory of Mind: Evidence from the Human Connectome Project",
+   "source": "bioRxiv Neuroscience",
+   "published": "2026-11-01T00:00:00+00:00",
+   "summary": "Background: Theory of mind (ToM), the capacity to infer the mental states of others, varies considerably across healthy adults. Openness to experience has been linked both to social-cognitive abilities and to thinner prefrontal cortex, but whether cortical structure statistically accounts for the association between openness and ToM is unknown. We tested whether bilateral superior frontal gyrus (SFG) cortical thickness mediates this association. Methods: Data from 1,049 healthy young adults with complete data were drawn from the Human Connectome Project. ToM was indexed by accuracy on the Heider-Simmel social animation task, openness by the NEO Five-Factor Inventory, and SFG thickness by Fre",
+   "first_seen": "2026-11-01"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.10.30.763086v1?rss=1": {
+   "title": "The human-specific gene FRMPD2B couples postnatal experience to the expansion of cortical connectivity",
+   "source": "bioRxiv Neuroscience",
+   "published": "2026-11-01T00:00:00+00:00",
+   "summary": "The human neocortex is characterized by its uniquely prolonged postnatal developmental period during which experience sculpts neuronal circuits, a process essential to human cognitive abilities. Yet whether human-specific genetic innovations have shaped the activity-dependent mechanisms regulating circuit assembly remains unknown. Here, we identify the human-specific gene FRMPD2B as an activity- and experience-regulated modifier of cortical connectivity. FRMPD2B is primarily expressed in cortico-cortical projection neurons postnatally and throughout childhood. It promotes dendritic, axonal and synaptic development, and is required for proper morphogenesis in xenotransplanted human cortical n",
+   "first_seen": "2026-11-01"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.10.30.760243v1?rss=1": {
+   "title": "Human iEEG recordings during audiovisual speech violations support and extend predictive routing models",
+   "source": "bioRxiv Neuroscience",
+   "published": "2026-11-01T00:00:00+00:00",
+   "summary": "Rather than constantly reconstructing the world solely through sensory input, predictive processing theories posit that the brain utilizes predictions maintained as internal representations to guide sensory processing. An emerging model, predictive routing, proposes that an interplay between neuronal gamma (40-150 Hz) and alpha-beta (10-30 Hz) rhythms implements a dynamic mechanism for predictive processing. Namely, predictions enhance alpha-beta oscillations that suppress gamma activity during the processing of predicted inputs. While this model is supported by animal studies, its validity has not been fully explored within the human brain. The present study addresses this by leveraging hum",
+   "first_seen": "2026-11-01"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.10.26.756490v1?rss=1": {
+   "title": "Recurrent Spiking Neural Networks for Continuous Motor Control: A Biologically Plausible Model of Motor Cortex",
+   "source": "bioRxiv Neuroscience",
+   "published": "2026-10-31T00:00:00+00:00",
+   "summary": "Motor cortex acquires skilled movements through recurrent spiking dynamics and experience-dependent synaptic plasticity, yet how such circuits learn continuous motor control using biologically local signals remains unclear. Here, we develop a recurrent spiking neural network model of motor cortex that addresses both the computational and biological requirements of motor learning. We first analytically derived the recurrent firing-rate state directly from synaptic input and trained the network by implicit differentiation, thereby avoiding backpropagation through long spike trajectories. We then introduced State-Carry Initialization, which enables closed-loop motor control by continuously carr",
+   "first_seen": "2026-11-01"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.10.26.761379v1?rss=1": {
+   "title": "The Canadian Pediatric Imaging Platform (C-PIP) Reference Sample: Neuroimaging Protocol and Cross-site Validation for Harmonized Multimodal Pediatric Imaging",
+   "source": "bioRxiv Neuroscience",
+   "published": "2026-10-31T00:00:00+00:00",
+   "summary": "Understanding how the human brain matures from infancy through adolescence is essential for identifying factors that influence health outcomes. Magnetic resonance imaging (MRI) provides powerful tools for characterizing structural, microstructural, functional, and metabolic aspects of brain development; however, many pediatric imaging studies are constrained by small sample sizes, limited geographic diversity, lack of longitudinal measurement, restricted age ranges, and heterogeneous acquisition protocols. While recent large-scale neuroimaging consortia have begun to address these challenges, such resources remain limited in the Canadian context, creating a critical gap. The Canadian Pediatr",
+   "first_seen": "2026-11-01"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.10.26.761378v1?rss=1": {
+   "title": "Automated multiscale high-content imaging connects plaque population heterogeneity to localized synapse loss",
+   "source": "bioRxiv Neuroscience",
+   "published": "2026-10-31T00:00:00+00:00",
+   "summary": "Synapse loss is a major correlate of cognitive decline in neurodegenerative disease, yet its relationship to localized pathology remains difficult to study at scale. Conventional confocal imaging approaches are limited by low throughput, selection bias, and restricted sampling of pathological features. Here, we describe an automated high-content imaging and analysis workflow that enables large-scale quantification of amyloid beta plaque-associated synapse loss within mouse brain tissue. Using Preciscan-based multiscale acquisition on the Opera Phenix platform, this workflow combines tissue-wide pathology mapping with targeted high-magnification imaging and subcellular analysis. We apply this",
+   "first_seen": "2026-11-01"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.10.29.762732v1?rss=1": {
+   "title": "Structural Evolution of Neural Networks during Zebrafish Early Development",
+   "source": "bioRxiv Neuroscience",
+   "published": "2026-10-31T00:00:00+00:00",
+   "summary": "The spatial architecture of neural networks underpins nervous system function, yet dynamic in vivo evidence for their early establishment process remains scarce. Here, using long-term confocal live-cell imaging of transgenic zebrafish, we dissected neural network development across the brain, yolk sac, and spinal cord at single-cell resolution. We reveal that repeated growth cone bifurcation is the fundamental cellular mechanism for network node formation. Despite distinct developmental origins, networks in all three regions exhibit highly conserved dynamics, strictly following Strahler hierarchical ordering and Hack's power-law scaling. Quantitative topological analysis shows that as develo",
+   "first_seen": "2026-11-01"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.10.29.762728v1?rss=1": {
+   "title": "Beyond rumination: an ecological momentary assessment of daily thinking patterns in maladaptive daydreaming",
+   "source": "bioRxiv Neuroscience",
+   "published": "2026-10-31T00:00:00+00:00",
+   "summary": "Maladaptive daydreaming is a form of maladaptive repetitive thought characterized by excessive, dysfunctional fantasy engagement, with notable links to psychological distress and poor well-being. Although symptoms can be reliably measured along a continuum, it remains unclear how they manifest in the phenomenological characteristics of everyday thinking, as well as which thought characteristics are unique to maladaptive daydreaming versus shared with trait rumination, a transdiagnostic manifestation of maladaptive repetitive thinking that frequently co-occurs with maladaptive daydreaming. To advance these questions, we conducted a pre-registered study using ecological momentary assessment to",
+   "first_seen": "2026-11-01"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.10.28.762617v1?rss=1": {
+   "title": "An atlas of the aging glycoproteome reveals how glycosylation modulates autoantibody binding in the brain",
+   "source": "bioRxiv Neuroscience",
+   "published": "2026-10-31T00:00:00+00:00",
+   "summary": "N-glycosylation generates substantial molecular diversity, yet how glycan composition varies throughout aging remains poorly understood. We mapped the N-glycoproteome of brain, liver, spleen, kidney, and plasma across nine ages spanning the mouse lifespan, identifying 80,618 unique N-glycopeptides at 9,211 glycosites on 4,391 glycoproteins, together with matched proteomic trajectories (glycoproteinatlas.org). Organ identity was the dominant determinant of glycan composition, but numerous glycosites nevertheless underwent remodeling with age. The brain showed a prominent age-associated increase in short paucimannose glycans, driven in part by the age-associated increase in the glycan-processi",
+   "first_seen": "2026-11-01"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.10.30.763099v1?rss=1": {
+   "title": "HERC1 Loss of Function Causes a Developmental Disorder with Impaired Hippocampal Function",
+   "source": "bioRxiv Neuroscience",
+   "published": "2026-10-31T00:00:00+00:00",
+   "summary": "Pathogenic variants in HERC1 are associated with a syndromic neurodevelopmental disorder characterized by macrocephaly, developmental delay, intellectual disability, and psychomotor dysfunction. Although genetic and molecular studies suggest a loss-of-function mechanism, definitive in vivo evidence that HERC1 deficiency is sufficient to cause neurodevelopmental abnormalities is lacking. Using a HERC1 knockout mouse model, we investigated the behavioural, neuronal, and synaptic consequences of complete HERC1 loss. HERC1 deficiency caused motor coordination and cognitive deficits in both sexes, while male mutants additionally displayed hyperactivity and increased anxiety-like behaviour. Histol",
+   "first_seen": "2026-11-01"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.10.30.763148v1?rss=1": {
+   "title": "State-dependent modulation of cross-area sensory processing in mouse neocortex",
+   "source": "bioRxiv Neuroscience",
+   "published": "2026-10-31T00:00:00+00:00",
+   "summary": "Perception and decision-making rely on distributed cortical circuits that transform sensory inputs into choices and actions. Such cortical processing varies with behavioral state, such that the same inputs can be handled differently across states. However, how behavioral state shapes sensory processing across distributed brain regions remains unclear. To address this question, we trained mice to perform a two-alternative choice task that required discrimination between paired auditory and whisker cues. During task training, we simultaneously recorded neuronal population activity from the primary somatosensory cortex (S1) and the posterior parietal cortex (PPC), using two-photon imaging of ne",
+   "first_seen": "2026-11-01"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.10.30.762849v1?rss=1": {
+   "title": "An expanded toolbox for genetic access to molecularly defined cortical intratelencephalic neuron subtypes",
+   "source": "bioRxiv Neuroscience",
+   "published": "2026-10-31T00:00:00+00:00",
+   "summary": "Among the multiple cortical glutamatergic neuron classes, intratelencephalic (IT) neurons represent the largest class and project within the cortex and striatum. IT neurons have been amplified and diversified throughout mammalian evolution and are thought to underlie increasingly complex mammalian cognition. However, despite their diversity and significance in cortical processes, few existing tools connect the molecular signatures to the projection patterns of distinct IT subtypes, limiting our ability to understand their organization and function at a subtype resolution. Here, we illustrate six novel gene knock-in mouse lines based on IT-specific markers, labeling subpopulations with unique",
+   "first_seen": "2026-11-01"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.10.30.763167v1?rss=1": {
+   "title": "Levodopa induced dyskinesia severity is linked to distinct microstructural alterations in nigrostriatal and brainwide neural circuits",
+   "source": "bioRxiv Neuroscience",
+   "published": "2026-10-31T00:00:00+00:00",
+   "summary": "Dopaminergic replacement therapy via L-DOPA is the major medical therapy for Parkinsons Disease. Long-term L-DOPA administration is known to cause dyskinetic movements, L-DOPA Induced Dyskinesia (LID). It remains unclear if the LID related, maladaptive changes in brain structure/function are localized to neural circuits within the nigrostriatal DA system or have brainwide impact. We employed multi-shell diffusion magnetic resonance imaging and correlational tractography to investigate structural brain networks associated with daily administration of L-DOPA and the development of LID in the unilateral 6-hydroxydopamine rat model. 53% of rats receiving L-DOPA therapy developed severe LID. Trac",
+   "first_seen": "2026-11-01"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.10.30.763166v1?rss=1": {
+   "title": "Trisomy 21 Perturbs Oligodendrocyte Developmental States and Oligo-Neuron Communication in Human Forebrain Assembloids",
+   "source": "bioRxiv Neuroscience",
+   "published": "2026-10-31T00:00:00+00:00",
+   "summary": "Intellectual disability is a hallmark of Down syndrome (DS), caused by the triplication of human chromosome 21. Abnormal neuronal connectivity and impaired myelination are consistently observed in DS, yet the underlying mechanisms remain poorly understood. Here, we used DS-derived isogenic induced pluripotent stem cell-derived forebrain assembloids (FAs) to investigate oligodendrocyte lineage cell (OLLC) development and neuron-glia interactions. Trisomic FAs exhibited an expansion of BCAS1+ pre-myelinating OLLCs, without a corresponding increase in myelin basic protein (MBP) expression. Transcriptomic analyses identified a euploid-enriched, trophic and maturation-supportive state (OLLC_2-TMS",
+   "first_seen": "2026-11-01"
+  },
+  "https://www.medrxiv.org/content/10.64898/2026.10.29.26366879v1?rss=1": {
+   "title": "Benefit Expectations and Neuroprotective Prescribing for Acute Ischemic Stroke in China",
+   "source": "medRxiv Neurology",
+   "published": "2026-10-31T00:00:00+00:00",
+   "summary": "Background: Neuroprotective therapies are frequently used for acute ischemic stroke in China. We examined associations of neurologists? self-rated familiarity, perceived importance, and benefit expectations with reported prescribing frequency. Methods: A hospital-based quota survey recruited attending-level or senior neurologists involved in acute ischemic stroke care across mainland China from May 27 to July 16, 2025. High-frequency use was defined as prescribing neuroprotective therapy to at least 60% of patients. High familiarity and importance were ratings of 4 or 5 on 5-level scales; consistently high benefit expectations required ratings of 4 or 5 in all 4 scenarios. Modified Poisson g",
+   "first_seen": "2026-11-01"
+  },
+  "https://www.medrxiv.org/content/10.64898/2026.10.29.26366526v1?rss=1": {
+   "title": "Repetitive negative thinking is associated with amyloid accumulation over 3 years in cognitively healthy adults",
+   "source": "medRxiv Neurology",
+   "published": "2026-10-31T00:00:00+00:00",
+   "summary": "Importance: Identifying potentially modifiable risk factors for Alzheimer's disease (AD) is a priority. Repetitive negative thinking (RNT) is a modifiable cognitive-emotional process common to many psychological risk factors for AD, including anxiety and depression. The psychological debt hypothesis proposes that RNT may itself increase risk for AD. Objective: To determine whether RNT symptoms are associated with change in established neurobiological markers of AD risk over time. Design: Longitudinal neuroimaging study with the IMAP/IMAP+ cohort. Setting: Monocentric with community-dwelling participants. Participants: 94 cognitively healthy adults aged 21-89 years (average 57.41 SD 18.31, 55",
+   "first_seen": "2026-11-01"
+  },
+  "https://www.nature.com/articles/s41380-026-03934-4": {
+   "title": "Longitudinal prediction of adolescent depression from environmental and polygenic risk scores",
+   "source": "Molecular Psychiatry",
+   "published": "2026-11-01T00:00:00+00:00",
+   "summary": "Molecular Psychiatry, Published online: 01 November 2026; doi:10.1038/s41380-026-03934-4 Longitudinal prediction of adolescent depression from environmental and polygenic risk scores",
+   "first_seen": "2026-11-01"
+  },
+  "https://www.nature.com/articles/s41380-026-03931-7": {
+   "title": "Cannabinoid receptor type 1 availability in individuals with a history of childhood trauma: a positron emission tomography study",
+   "source": "Molecular Psychiatry",
+   "published": "2026-10-31T00:00:00+00:00",
+   "summary": "Molecular Psychiatry, Published online: 31 October 2026; doi:10.1038/s41380-026-03931-7 Cannabinoid receptor type 1 availability in individuals with a history of childhood trauma: a positron emission tomography study",
+   "first_seen": "2026-11-01"
+  },
+  "https://www.nature.com/articles/s41380-026-03953-1": {
+   "title": "State-dependent effects of rTMS on cognitive function in bipolar II disorder: A randomized, double-blind, sham-controlled trial",
+   "source": "Molecular Psychiatry",
+   "published": "2026-10-31T00:00:00+00:00",
+   "summary": "Molecular Psychiatry, Published online: 31 October 2026; doi:10.1038/s41380-026-03953-1 State-dependent effects of rTMS on cognitive function in bipolar II disorder: A randomized, double-blind, sham-controlled trial",
+   "first_seen": "2026-11-01"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.10.30.762970v1?rss=1": {
+   "title": "Single-base mapping of m6A in lncRNAs reveals a distinct landscape linked to transposable elements and RNA processing",
+   "source": "bioRxiv Genomics",
+   "published": "2026-10-31T00:00:00+00:00",
+   "summary": "N6-methyladenosine (m6A) is the most abundant internal RNA modification with established roles in mRNA metabolism. Although m6A has been characterized in several well-known long noncoding RNAs (lncRNAs), its transcriptome-wide landscape and roles remain poorly understood. Here, we characterized the m6A landscape of lncRNAs at single-base resolution, identified m6A deposition-associated features, and investigated potential roles of m6A in lncRNA processing. Unlike in mRNAs, m6A sites are broadly distributed along lncRNAs. We further found that these differences in m6A patterns between lncRNAs and mRNAs may reflect contributions from transposable element-derived sequence to motif availability ",
+   "first_seen": "2026-11-01"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.10.27.762389v1?rss=1": {
+   "title": "tWhEEL: a transcript-aware workflow for quantifying CRISPR knockout feasibility using transcriptome assembly",
+   "source": "bioRxiv Bioinformatics",
+   "published": "2026-10-31T00:00:00+00:00",
+   "summary": "Gene redundancy can complicate loss-of-function experiments (knockout), and its extent varies among organisms and biological functions. Relating variation in gene redundancy to the availability of genome-editing targets can help researchers select tractable biological functions and experimental organisms. Here, we present the transcript-aware Whole-genomic Evaluation for Editing Locus (tWhEEL), a pipeline that infers redundancy in silico from transcript information and cross-references it with specific guide RNA designs. tWhEEL integrates CRISPR-Cas9 guide design with Gene Ontology (GO) and pathway annotations to compute a knockout feasibility index (KFI) for individual genes and functional ",
+   "first_seen": "2026-11-01"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.10.28.762457v1?rss=1": {
+   "title": "Single-cell foundation models transfer across deep evolutionary distances",
+   "source": "bioRxiv Bioinformatics",
+   "published": "2026-10-31T00:00:00+00:00",
+   "summary": "Single-cell foundation models are trained mostly on human and other vertebrate cells, yet are proposed as general-purpose models. Whether they transfer far beyond their training species is unknown. We evaluated zero-shot embeddings from Geneformer, scGPT and UCE against PCA and scVI in developmental atlases of Dictyostelium discoideum and Caenorhabditis elegans, separated from humans by 1.2 billion and 600 million years. Without retraining, the models recovered developmental order and preserved organism-specific cell identities. UCE encodes genes by protein sequence and could use 97% of measured genes, whereas Geneformer and scGPT, after ortholog mapping, used under one-fifth. UCE performed ",
+   "first_seen": "2026-11-01"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.10.28.762655v1?rss=1": {
+   "title": "EMBER: Contextualized gene representations enable compositional prediction across cellular perturbations",
+   "source": "bioRxiv Bioinformatics",
+   "published": "2026-10-31T00:00:00+00:00",
+   "summary": "Predicting the effects of individual and combined perturbations is central to identifying context-specific vulnerabilities and designing targeted interventions. Yet learning gene representations that integrate functional relationships with cellular state and transfer across perturbation tasks remains challenging. Here, we present EMBER, a gene-centric foundation model that learns context-dependent functional representations of genes. EMBER combines interaction-guided contrastive learning with masked expression reconstruction during pretraining on a single-cell corpus curated for diversity and balanced sampling across cell types and experimental batches. EMBER decouples gene representation le",
+   "first_seen": "2026-11-01"
   }
  },
  "feed_status": {
   "Nature Neuroscience": "0 new of 8",
-  "bioRxiv Neuroscience": "0 new of 30",
-  "medRxiv Neurology": "0 new of 30",
+  "bioRxiv Neuroscience": "16 new of 30",
+  "medRxiv Neurology": "2 new of 30",
   "arXiv q-bio.NC": "no entries (HTTP 200)",
   "Nature Medicine": "0 new of 8",
   "Nature Genetics": "0 new of 8",
-  "Nature Aging": "0 new of 8",
+  "Nature Aging": "0 new of 1 (via Crossref)",
   "Nature Reviews Neuroscience": "0 new of 8",
   "Nature Reviews Neurology": "0 new of 8",
   "Nature Methods": "0 new of 8",
-  "Nature Biotechnology": "0 new of 8",
-  "Molecular Psychiatry": "0 new of 8",
+  "Nature Biotechnology": "no entries (HTTP 301) (SAXParseException)",
+  "Molecular Psychiatry": "3 new of 8",
   "Neuron": "0 new of 14",
   "Cell Stem Cell": "0 new of 15",
   "Stem Cell Reports": "0 new of 20",
@@ -9002,15 +9177,15 @@
   "Lancet Neurology": "0 new of 19",
   "Acta Neuropathologica": "0 new of 3 (via Crossref)",
   "Molecular Neurodegeneration": "crossref returned nothing",
-  "Brain": "0 new of 9 (via Crossref)",
+  "Brain": "0 new of 1 (via Crossref)",
   "JAMA Neurology": "crossref returned nothing",
   "Annals of Neurology": "0 new of 2 (via Crossref)",
   "Neurobiology of Aging": "0 new of 1 (via Crossref)",
   "Nature": "0 new of 75",
   "Nature Communications": "0 new of 8",
   "Scientific Reports (Neuroscience)": "no entries (HTTP 200) (SAXParseException)",
-  "eLife": "0 new of 100",
-  "bioRxiv Genomics": "0 new of 30",
+  "eLife": "0 new of 50",
+  "bioRxiv Genomics": "1 new of 30",
   "arXiv q-bio.GN": "no entries (HTTP 200)",
   "arXiv q-bio.QM": "no entries (HTTP 200)",
   "arXiv cs.LG": "no entries (HTTP 200)",
@@ -9021,9 +9196,9 @@
   "bioRxiv Genetics": "0 new of 30",
   "bioRxiv Cell Biology": "0 new of 30",
   "bioRxiv Molecular Biology": "0 new of 30",
-  "bioRxiv Bioinformatics": "0 new of 30",
-  "arXiv cs.AI": "0 new of 605",
+  "bioRxiv Bioinformatics": "3 new of 30",
+  "arXiv cs.AI": "no entries (HTTP 200)",
   "arXiv stat.ML": "no entries (HTTP 200)"
  },
- "updated": "Sat Oct 31, 7:05 AM PDT"
+ "updated": "Sun Nov 1, 5:18 AM PST"
 }
