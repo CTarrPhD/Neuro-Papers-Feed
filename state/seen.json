@@ -11206,50 +11206,120 @@
    "published": "2026-11-03T05:00:00+00:00",
    "summary": "arXiv:2611.02122v1 Announce Type: cross Abstract: Spectral shrinkage encompasses a broad family of estimators for high-dimensional linear regression that regularize estimation and prediction by applying spectral filters to the sample covariance matrix. Despite its widespread use, achieving oracle-optimal prediction risk under general covariance structures remains challenging, as the oracle filter requires unknown population quantities and has a closed form only for specific covariance models such as isotropic and spiked models. We propose \\textit{risk-targeted Krylov fitting} (RTK), a data-driven spectral estimator that adapts to the unknown covariance structure and attains the oracle risk a",
    "first_seen": "2026-11-03"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.10.27.762241v1?rss=1": {
+   "title": "Embodied Dynamic Causal Modelling: Brain and Cardiac Effective Connectivity",
+   "source": "bioRxiv Neuroscience",
+   "published": "2026-11-03T00:00:00+00:00",
+   "summary": "Brain-body interactions underpin embodied inference and interoception, and are central to both general health and the pathophysiology of mental health disorders. These interactions are orchestrated across a hierarchy extending from the cortex, through the brainstem, to peripheral autonomic effectors. Existing methods either reduce this communication to scalar summaries or lack an invertible biophysical model, and so cannot resolve where in this extended architecture an observed effect originates. To address this, we introduce Embodied Dynamic Causal Modelling, an extension of the generative causal modelling framework that formalises hierarchical message passing across the full brain-body axi",
+   "first_seen": "2026-11-03"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.10.28.762488v1?rss=1": {
+   "title": "Sensory representation by non-equilibrium flows of neural activity at the mesoscale of cortex",
+   "source": "bioRxiv Neuroscience",
+   "published": "2026-11-03T00:00:00+00:00",
+   "summary": "We present a non-equilibrium theory of sensory perception and the mesoscale of sensory cortex. We propose that local neuron assemblies (cortical columns) toggle spontaneously between activity states (on and off) and that small populations of columns are coupled within and between areas of sensory cortex. The resulting network generates sudden, large-scale fluctuations and represents sensory inputs and perceptions by characteristic patterns of activity flows. The non-equilibrium dynamic is governed by the variational principle of maximal path entropy, or Maximum Caliber. Many current theories, by contrast, posit equilibrium dynamics and representation with activity states Our minimal model of",
+   "first_seen": "2026-11-03"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.10.28.749776v1?rss=1": {
+   "title": "CD40 ligand and IFN-γ induce proinflammatory activity and microglia-mediated neurodegeneration in human stem cell models",
+   "source": "bioRxiv Neuroscience",
+   "published": "2026-11-03T00:00:00+00:00",
+   "summary": "The cluster of differentiation 40 (CD40)/CD40 ligand (CD40L) co-stimulatory pathway plays a critical role in the activation and regulation of immune networks involving both adaptive and innate immune cells. Dysregulation of this pathway has been implicated in multiple autoimmune diseases, including multiple sclerosis (MS). MS is characterized by progressive neurodegeneration driven by compartmentalized neuroinflammation within the central nervous system (CNS), sustained low-grade T cell infiltration at the blood-brain barrier, and T cell reactivation at CNS border tissues. CD40L-expressing T cells can activate CD40-expressing microglia, which are a critical effector cell that contribute to n",
+   "first_seen": "2026-11-03"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.10.29.762898v1?rss=1": {
+   "title": "Electroencephalographic activity patterns distinguish interdigitated default and frontoparietal networks",
+   "source": "bioRxiv Neuroscience",
+   "published": "2026-11-03T00:00:00+00:00",
+   "summary": "The brain is comprised of distributed functional networks that operate on diverse time scales. Evidence from precision fMRI shows that canonical networks, including default (DN), frontoparietal control (FPCN), and dorsal attention (dATN), each fractionate into multiple finely interdigitated networks. However, as fMRI is blind to fast processes underlying neural communication, there remains a need to neurophysiologically characterize individual-level network fractionation. To address this need, we conducted a simultaneous EEG-fMRI study, including multiple sessions per individual, resting-state and task conditions, and carbon wire loop sensors for optimized artifact correction. Using precisio",
+   "first_seen": "2026-11-03"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.10.27.762342v1?rss=1": {
+   "title": "The anti-dyskinetic and the anti-parkinsonian effects of sub-anesthetic ketamine are also present in female preclinical models",
+   "source": "bioRxiv Neuroscience",
+   "published": "2026-11-03T00:00:00+00:00",
+   "summary": "Biological sex is an important determinant of neuropharmacological response, yet females remain underrepresented in preclinical studies of Parkinson's disease (PD) and L-DOPA-induced dyskinesia (LID). We previously demonstrated that sub-anesthetic ketamine reduces established LID, attenuates dyskinesia development, and produces anti-parkinsonian effects in male unilateral 6-hydroxydopamine (6-OHDA) rat models. However, whether these therapeutic effects extend to females remained unknown. Here, we evaluated the anti-dyskinetic and anti-parkinsonian effects of sub-anesthetic ketamine in female Sprague-Dawley rats using the attenuation and established models of LID. In the attenuation paradigm,",
+   "first_seen": "2026-11-03"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.11.01.763440v1?rss=1": {
+   "title": "Distinct medial septal GABAergic pathways differentially regulate spatial memory and network activity",
+   "source": "bioRxiv Neuroscience",
+   "published": "2026-11-03T00:00:00+00:00",
+   "summary": "Septal GABAergic projection neurons form distinct pathways to subregions of the hippocampal formation, including the hippocampus proper and the medial and lateral entorhinal cortices. Parvalbumin (PV+) and calbindin expressing (CB+) projections target different types of interneurons and thereby differentially regulate neuronal activity in the downstream area. Consistent with the idea of dissociable functional roles, inhibition of septal PV+ neurons impairs reference memory whereas inhibition of septal CB+ neurons impairs both reference and working memory. Here, we show that these functions are differentially supported by specific projection pathways: PV+ projections to the dorsal hippocampus",
+   "first_seen": "2026-11-03"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.10.27.761178v1?rss=1": {
+   "title": "Multimodal characterization of putative pan-inhibitory viral constructs in macaque monkeys",
+   "source": "bioRxiv Neuroscience",
+   "published": "2026-11-03T00:00:00+00:00",
+   "summary": "Transgenic approaches and validated viral vector toolboxes have advanced our understanding of how inhibitory neurons shape cognition and motor control in mice and other rodents. However, such advances have been elusive in non-human primates (NHPs). While many studies demonstrate expression of reporter proteins, few studies have provided clear quantitative evidence of whether these viral constructs can be reliably used for assessment of in vivo and in vitro function in primates, which, in turn, has hindered widespread adoption by NHP researchers. Here, we characterize putative pan-inhibitory cell targeting vectors engineered with regions from the Dlx5-6 intergenic domain. Pan-inhibitory viral",
+   "first_seen": "2026-11-03"
+  },
+  "https://www.nature.com/articles/s41467-026-79253-7": {
+   "title": "High-performance annealing-free wurtzite ferroelectric field-effect transistors with ultrathin oxide semiconductors for neuromorphic computing",
+   "source": "Nature Communications",
+   "published": "2026-11-03T00:00:00+00:00",
+   "summary": "Nature Communications, Published online: 03 November 2026; doi:10.1038/s41467-026-79253-7 AlScN field-effect transistors for non-volatile memory are limited by high interface trap density and threshold voltage instability. Wang et al. demonstrate annealing-free AlScN ferroelectric transistors with low interface trap density and stable threshold voltage, enabling a large memory window and robust 6-bit operation.",
+   "first_seen": "2026-11-03"
+  },
+  "https://www.nature.com/articles/s41467-026-79124-1": {
+   "title": "Gut microbiome of children with Autism Spectrum Disorder associates with clinical severity",
+   "source": "Nature Communications",
+   "published": "2026-11-03T00:00:00+00:00",
+   "summary": "Nature Communications, Published online: 03 November 2026; doi:10.1038/s41467-026-79124-1 Here, the authors show that gut microbes in children with autism vary with clinical severity, including reduced predicted GABAergic capacity, with sensory atypicalities showing the most associations, suggesting particular gut–brain relevance.",
+   "first_seen": "2026-11-03"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.11.01.763453v1?rss=1": {
+   "title": "irAEGIS: Pathway-guided interpretable prediction of immune-related adverse events",
+   "source": "bioRxiv Bioinformatics",
+   "published": "2026-11-03T00:00:00+00:00",
+   "summary": "Immune-related adverse events (irAEs) are major complications of immune checkpoint inhibitor (ICI) therapy and remain difficult to predict prior to treatment initiation. Single-cell RNA sequencing (scRNA-seq) provides a unique opportunity to characterize immune states associated with future irAE development. However, translating single-cell measurements into accurate and biologically interpretable patient-level risk predictions remains challenging. Existing approaches typically aggregate cellular profiles into patient-level summaries, thereby obscuring cell type specific signals, or rely on complex deep-learning architectures that offer limited insight into the biological pathways and mechan",
+   "first_seen": "2026-11-03"
   }
  },
  "feed_status": {
-  "Nature Neuroscience": "4 new of 6 (via Crossref)",
-  "bioRxiv Neuroscience": "30 new of 30",
-  "medRxiv Neurology": "8 new of 30",
-  "arXiv q-bio.NC": "23 new of 23",
-  "Nature Medicine": "3 new of 8",
-  "Nature Genetics": "4 new of 8",
+  "Nature Neuroscience": "0 new of 8",
+  "bioRxiv Neuroscience": "7 new of 30",
+  "medRxiv Neurology": "0 new of 30",
+  "arXiv q-bio.NC": "0 new of 23",
+  "Nature Medicine": "no entries (HTTP 301) (SAXParseException)",
+  "Nature Genetics": "0 new of 8",
   "Nature Aging": "0 new of 1 (via Crossref)",
   "Nature Reviews Neuroscience": "no entries (HTTP 301) (SAXParseException)",
   "Nature Reviews Neurology": "no entries (HTTP 301) (SAXParseException); crossref returned nothing",
-  "Nature Methods": "2 new of 8",
-  "Nature Biotechnology": "1 new of 8",
-  "Molecular Psychiatry": "2 new of 8",
+  "Nature Methods": "no entries (HTTP 301) (SAXParseException)",
+  "Nature Biotechnology": "0 new of 8",
+  "Molecular Psychiatry": "0 new of 8",
   "Neuron": "0 new of 14",
   "Cell Stem Cell": "0 new of 15",
   "Stem Cell Reports": "0 new of 20",
   "Alzheimer's & Dementia": "0 new of 92",
   "Lancet Neurology": "0 new of 19",
   "Acta Neuropathologica": "crossref returned nothing",
-  "Molecular Neurodegeneration": "1 new of 1 (via Crossref)",
-  "Brain": "1 new of 3 (via Crossref)",
-  "JAMA Neurology": "6 new of 6 (via Crossref)",
+  "Molecular Neurodegeneration": "0 new of 1 (via Crossref)",
+  "Brain": "0 new of 3 (via Crossref)",
+  "JAMA Neurology": "0 new of 6 (via Crossref)",
   "Annals of Neurology": "0 new of 2 (via Crossref)",
   "Neurobiology of Aging": "0 new of 1 (via Crossref)",
   "Nature": "0 new of 75",
-  "Nature Communications": "no entries (HTTP 301) (SAXParseException)",
+  "Nature Communications": "2 new of 8",
   "Scientific Reports (Neuroscience)": "no entries (HTTP 200) (SAXParseException)",
-  "eLife": "2 new of 100",
-  "bioRxiv Genomics": "4 new of 30",
-  "arXiv q-bio.GN": "4 new of 11",
-  "arXiv q-bio.QM": "6 new of 22",
-  "arXiv cs.LG": "53 new of 872",
+  "eLife": "0 new of 100",
+  "bioRxiv Genomics": "0 new of 30",
+  "arXiv q-bio.GN": "0 new of 11",
+  "arXiv q-bio.QM": "0 new of 22",
+  "arXiv cs.LG": "0 new of 872",
   "Science": "0 new of 43",
   "Science Translational Medicine": "0 new of 7",
   "Cell": "0 new of 25",
   "Cell Reports": "0 new of 72",
-  "bioRxiv Genetics": "3 new of 30",
-  "bioRxiv Cell Biology": "8 new of 30",
-  "bioRxiv Molecular Biology": "3 new of 30",
-  "bioRxiv Bioinformatics": "15 new of 30",
-  "arXiv cs.AI": "31 new of 816",
-  "arXiv stat.ML": "2 new of 136"
+  "bioRxiv Genetics": "0 new of 30",
+  "bioRxiv Cell Biology": "0 new of 30",
+  "bioRxiv Molecular Biology": "0 new of 30",
+  "bioRxiv Bioinformatics": "1 new of 30",
+  "arXiv cs.AI": "0 new of 816",
+  "arXiv stat.ML": "0 new of 136"
  },
- "updated": "Tue Nov 3, 5:34 AM PST"
+ "updated": "Tue Nov 3, 6:29 AM PST"
 }
