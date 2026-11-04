@@ -12347,21 +12347,133 @@
    "published": "2026-11-04T05:00:00+00:00",
    "summary": "arXiv:2611.04595v1 Announce Type: cross Abstract: Many signal-processing objects are defined by periodicity, normalization, sign or global-phase ambiguity, basis invariance, or positive-semidefinite constraints and therefore cannot be modeled faithfully in ordinary Euclidean space. This paper develops a geometry driven framework for directional statistics in signal processing, connecting signal representations to their natural manifolds or quotient spaces and to probability models compatible with their invariances. After reviewing instances of directional statistics in the signal processing literature, we review circular, toroidal, spherical, projective, Stiefel, Grassmann, and covariance-va",
    "first_seen": "2026-11-04"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.11.01.763540v1?rss=1": {
+   "title": "Contributions of Site Heterogeneity in Multi-site Brain-Phenotype Predictions",
+   "source": "bioRxiv Neuroscience",
+   "published": "2026-11-04T00:00:00+00:00",
+   "summary": "Machine learning studies of brain-phenotype associations typically summarize accuracy with a single Pearson correlation, yet in harmonized multi-site data this metric is shaped by training-set size, feature and outcome variability, and true effect heterogeneity. We analyzed structural MRI data from the Reproducible Brain Charts consortium. After preprocessing and quality control, 3486 participants from 9 sites were retained. Three training set compositions were used to understand contributions of site heterogeneity after harmonization: within-site (Local), size-downsampled multi-site (Multi-Down), and full multi-site (Multi-Full). Another site-agnostic strategy (Overall) pooled all sites int",
+   "first_seen": "2026-11-04"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.11.03.763342v1?rss=1": {
+   "title": "The behaviour bends, the code holds: working-memory category information in the multiple-demand network across graded interruption",
+   "source": "bioRxiv Neuroscience",
+   "published": "2026-11-04T00:00:00+00:00",
+   "summary": "Protecting working memory (WM) from interference is essential for goal-directed behaviour, yet its neural mechanisms remain unclear. The multiple-demand (MD) network - a set of frontoparietal regions recruited by diverse cognitive demands - is a candidate system for maintaining WM content under interference. We examined how the MD network represents a memorandum when an unrelated task interrupts maintenance. Participants memorised an image of a tool or animal and, during the delay, performed a digit task whose difficulty was parametrically varied (passive, easy, hard), allowing us to test how task engagement and associated cognitive demands affected concurrently maintained information. Using",
+   "first_seen": "2026-11-04"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.11.03.763624v1?rss=1": {
+   "title": "Integrative Transcriptomic Meta-Analysis Reveals SIRT1-SNCA Correlation in Parkinson's Disease",
+   "source": "bioRxiv Neuroscience",
+   "published": "2026-11-04T00:00:00+00:00",
+   "summary": "Parkinson's disease (PD) is a progressive neurodegenerative disorder that affects midbrain dopaminergic neurons without any approved therapy. Candidate molecular targets identified in one model are not always traceable across the postmortem, induced pluripotent stem cell (iPSC), and cell-based systems used to study PD, which complicates clinical translation. To address this gap, we performed an integrative transcriptomic meta-analysis of 33 publicly available datasets across postmortem human brain, iPSC-derived models, and dopaminergic cell lines of PD. Differential expression and functional enrichment analyses were combined with STRING protein-protein interaction networks, followed by drug-",
+   "first_seen": "2026-11-04"
+  },
+  "https://www.nature.com/articles/s41591-026-04771-2": {
+   "title": "A tumor transcriptomic atlas across eight decades of life reveals distinct features of early-onset colorectal cancer",
+   "source": "Nature Medicine",
+   "published": "2026-11-04T00:00:00+00:00",
+   "summary": "Nature Medicine, Published online: 04 November 2026; doi:10.1038/s41591-026-04771-2 The incidence of early-onset colorectal cancer is rising, but whether it is biologically distinct from average-onset disease is unclear. Mapping of the transcriptome of colorectal tumors across the age continuum shows that tumors in younger adults contain more stromal cells and have increased expression of long non-coding RNAs and genes associated with epithelial-to-mesenchymal transition.",
+   "first_seen": "2026-11-04"
+  },
+  "https://www.nature.com/articles/s41591-026-04745-4": {
+   "title": "Perioperative ivonescimab with or without chemotherapy in resectable non-small cell lung cancer: a phase 2 trial",
+   "source": "Nature Medicine",
+   "published": "2026-11-04T00:00:00+00:00",
+   "summary": "Nature Medicine, Published online: 04 November 2026; doi:10.1038/s41591-026-04745-4 In a nonrandomized phase 2 trial, patients with resectable non-small cell lung cancer received perioperative ivonescimab as monotherapy or with chemotherapy, leading to encouraging pathological response rates in both cohorts, and sustained circulating tumor DNA negativity throughout neoadjuvant therapy may be predictive of response.",
+   "first_seen": "2026-11-04"
+  },
+  "https://www.nature.com/articles/s41591-026-04743-6": {
+   "title": "Regulatable membrane-bound IL-15 engineered TIL cell therapy for immune checkpoint inhibitor-resistant advanced melanoma: pooled analysis of phase 1 and 1/2 trials",
+   "source": "Nature Medicine",
+   "published": "2026-11-03T00:00:00+00:00",
+   "summary": "Nature Medicine, Published online: 03 November 2026; doi:10.1038/s41591-026-04743-6 As presented at the Society for Immunotherapy of Cancer 2026 Annual Meeting, in a non-prespecified pooled analysis of two trials, amsokigene autoleucel, an autologous tumor-infiltrating lymphocyte therapy engineered to eliminate the need for IL-2, was successfully manufactured and well tolerated and showed a preliminary clinical efficacy signal in patients with immune checkpoint inhibitor-refractory melanoma.",
+   "first_seen": "2026-11-04"
+  },
+  "https://www.nature.com/articles/d41586-026-03173-1": {
+   "title": "Parkinson’s: beyond the brain",
+   "source": "Nature",
+   "published": "2026-11-04T00:00:00+00:00",
+   "summary": "Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03173-1 Parkinson’s disease might develop in the gut before reaching the brain, and the environment could have a crucial role in triggering the disease.",
+   "first_seen": "2026-11-04"
+  },
+  "https://www.nature.com/articles/d41586-026-03169-x": {
+   "title": "How a once-controversial idea is advancing understanding of Parkinson’s disease",
+   "source": "Nature",
+   "published": "2026-11-04T00:00:00+00:00",
+   "summary": "Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03169-x The disease is thought to be divided into two subtypes, depending on where it originates in the body — the gut or the brain.",
+   "first_seen": "2026-11-04"
+  },
+  "https://www.nature.com/articles/d41586-026-03171-3": {
+   "title": "How the brain protects itself from Parkinson’s disease",
+   "source": "Nature",
+   "published": "2026-11-04T00:00:00+00:00",
+   "summary": "Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03171-3 Brains are resilient. Harnessing their self-protective mechanisms might help to prevent or slow the progression of this neurodegenerative condition.",
+   "first_seen": "2026-11-04"
+  },
+  "https://www.nature.com/articles/d41586-026-03167-z": {
+   "title": "Clearing the way for a transformative stem-cell treatment for Parkinson’s disease",
+   "source": "Nature",
+   "published": "2026-11-04T00:00:00+00:00",
+   "summary": "Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03167-z Most Parkinson’s therapies aim to reduce the motor-control symptoms that the disease triggers. But stem-cell transplants in the brain could alter the disease at a more fundamental level.",
+   "first_seen": "2026-11-04"
+  },
+  "https://www.nature.com/articles/d41586-026-03165-1": {
+   "title": "Progress accelerates in Parkinson’s treatments",
+   "source": "Nature",
+   "published": "2026-11-04T00:00:00+00:00",
+   "summary": "Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03165-1 Researchers are reporting encouraging results for a disease that affects millions of people worldwide.",
+   "first_seen": "2026-11-04"
+  },
+  "https://www.nature.com/articles/d41586-026-03172-2": {
+   "title": "Six highlights from Parkinson’s disease research",
+   "source": "Nature",
+   "published": "2026-11-04T00:00:00+00:00",
+   "summary": "Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03172-2 Targeting a new network, addressing gait issues and other advances from recent studies.",
+   "first_seen": "2026-11-04"
+  },
+  "https://www.nature.com/articles/d41586-026-03168-y": {
+   "title": "Fine-tuning brain stimulation to fight Parkinson’s disease",
+   "source": "Nature",
+   "published": "2026-11-04T00:00:00+00:00",
+   "summary": "Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03168-y Neuroscientists are developing a new type of brain implant that will decode every movement and symptom of people with this neurodegenerative condition, seeking better ways to ease symptoms.",
+   "first_seen": "2026-11-04"
+  },
+  "https://www.nature.com/articles/d41586-026-03170-4": {
+   "title": "Could chemicals contribute to Parkinson’s?",
+   "source": "Nature",
+   "published": "2026-11-04T00:00:00+00:00",
+   "summary": "Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03170-4 Researchers and advocates point to pollutants as a trigger for the neurodegenerative condition.",
+   "first_seen": "2026-11-04"
+  },
+  "https://www.nature.com/articles/d41586-026-03166-0": {
+   "title": "Replacing the neurons that Parkinson’s destroys",
+   "source": "Nature",
+   "published": "2026-11-04T00:00:00+00:00",
+   "summary": "Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03166-0 After decades of work, researchers have begun trialling transplants of dopamine neurons into people with the neurodegenerative disease — with early signs of success.",
+   "first_seen": "2026-11-04"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.11.01.763421v1?rss=1": {
+   "title": "Decoding Cell-type Specific Gene Regulation with CellReg3D by Integrating DNA Large Language Models and 3D Genome Structure",
+   "source": "bioRxiv Bioinformatics",
+   "published": "2026-11-04T00:00:00+00:00",
+   "summary": "Gene regulation is a core biological mechanism crucial for organismal growth and development. Recent advances in deep learning, coupled with increasing computational resources, have enabled large-scale modelling of gene regulatory processes. While numerous models have been proposed, effectively capturing long-range genomic interactions remains a central challenge. Here, we introduce CellReg3D, a multiscale and multi-modal deep learning framework designed to model cell-type-specific gene regulation by integrating local sequence patterns with long-range genomic interactions. Existing approaches often overlook the contribution of 3D genome architecture and face limitations in combining sequence",
+   "first_seen": "2026-11-04"
   }
  },
  "feed_status": {
-  "Nature Neuroscience": "2 new of 9 (via Crossref)",
-  "bioRxiv Neuroscience": "30 new of 30",
-  "medRxiv Neurology": "8 new of 30",
-  "arXiv q-bio.NC": "6 new of 7",
-  "Nature Medicine": "no entries (HTTP 301) (SAXParseException)",
-  "Nature Genetics": "2 new of 8",
-  "Nature Aging": "3 new of 4 (via Crossref)",
-  "Nature Reviews Neuroscience": "2 new of 8",
-  "Nature Reviews Neurology": "no entries (HTTP 301) (SAXParseException); crossref returned nothing",
-  "Nature Methods": "3 new of 8",
+  "Nature Neuroscience": "0 new of 8",
+  "bioRxiv Neuroscience": "3 new of 30",
+  "medRxiv Neurology": "0 new of 30",
+  "arXiv q-bio.NC": "0 new of 7",
+  "Nature Medicine": "3 new of 8",
+  "Nature Genetics": "0 new of 8",
+  "Nature Aging": "0 new of 8",
+  "Nature Reviews Neuroscience": "0 new of 8",
+  "Nature Reviews Neurology": "0 new of 8",
+  "Nature Methods": "0 new of 8",
   "Nature Biotechnology": "no entries (HTTP 301) (SAXParseException)",
-  "Molecular Psychiatry": "0 new of 8",
+  "Molecular Psychiatry": "no entries (HTTP 301) (SAXParseException)",
   "Neuron": "0 new of 14",
   "Cell Stem Cell": "0 new of 15",
   "Stem Cell Reports": "0 new of 20",
@@ -12369,28 +12481,28 @@
   "Lancet Neurology": "0 new of 19",
   "Acta Neuropathologica": "crossref returned nothing",
   "Molecular Neurodegeneration": "0 new of 1 (via Crossref)",
-  "Brain": "1 new of 2 (via Crossref)",
+  "Brain": "0 new of 2 (via Crossref)",
   "JAMA Neurology": "0 new of 6 (via Crossref)",
   "Annals of Neurology": "0 new of 1 (via Crossref)",
   "Neurobiology of Aging": "0 new of 1 (via Crossref)",
-  "Nature": "0 new of 75",
+  "Nature": "9 new of 75",
   "Nature Communications": "0 new of 8",
   "Scientific Reports (Neuroscience)": "no entries (HTTP 200) (SAXParseException)",
-  "eLife": "2 new of 100",
-  "bioRxiv Genomics": "6 new of 30",
+  "eLife": "0 new of 100",
+  "bioRxiv Genomics": "0 new of 30",
   "arXiv q-bio.GN": "0 new of 3",
-  "arXiv q-bio.QM": "2 new of 11",
-  "arXiv cs.LG": "28 new of 445",
+  "arXiv q-bio.QM": "0 new of 11",
+  "arXiv cs.LG": "0 new of 445",
   "Science": "0 new of 43",
   "Science Translational Medicine": "0 new of 7",
   "Cell": "0 new of 25",
-  "Cell Reports": "3 new of 85",
-  "bioRxiv Genetics": "8 new of 30",
-  "bioRxiv Cell Biology": "10 new of 30",
-  "bioRxiv Molecular Biology": "2 new of 30",
-  "bioRxiv Bioinformatics": "17 new of 30",
-  "arXiv cs.AI": "16 new of 413",
-  "arXiv stat.ML": "2 new of 60"
+  "Cell Reports": "0 new of 85",
+  "bioRxiv Genetics": "0 new of 30",
+  "bioRxiv Cell Biology": "0 new of 30",
+  "bioRxiv Molecular Biology": "0 new of 30",
+  "bioRxiv Bioinformatics": "1 new of 30",
+  "arXiv cs.AI": "0 new of 413",
+  "arXiv stat.ML": "0 new of 60"
  },
- "updated": "Wed Nov 4, 5:38 AM PST"
+ "updated": "Wed Nov 4, 6:31 AM PST"
 }
