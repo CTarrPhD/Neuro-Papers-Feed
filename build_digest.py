@@ -21,6 +21,7 @@ import pathlib
 import re
 import sys
 import time
+import urllib.error
 import urllib.parse
 import urllib.request
 from zoneinfo import ZoneInfo
@@ -44,11 +45,11 @@ UNFILTERED = [
     ("Nature Medicine", "https://www.nature.com/nm.rss", "1078-8956"),
     ("Nature Genetics", "https://www.nature.com/ng.rss", "1061-4036"),
     ("Nature Aging", "https://www.nature.com/nataging.rss", "2662-8465"),
-    ("Nature Reviews Neuroscience", "https://www.nature.com/nrn.rss", None),
+    ("Nature Reviews Neuroscience", "https://www.nature.com/nrn.rss", "1471-003X"),
     ("Nature Reviews Neurology", "https://www.nature.com/nrneurol.rss", "1759-4766"),
     ("Nature Methods", "https://www.nature.com/nmeth.rss", "1548-7091"),
     ("Nature Biotechnology", "https://www.nature.com/nbt.rss", "1087-0156"),
-    ("Molecular Psychiatry", "https://www.nature.com/mp.rss", None),
+    ("Molecular Psychiatry", "https://www.nature.com/mp.rss", "1359-4184"),
     # AI journal, all of it: shown in the "AI & models" tab
     ("Nature Machine Intelligence", "https://www.nature.com/natmachintell.rss", "2522-5839"),
     ("Neuron", "https://www.cell.com/neuron/current.rss", "0896-6273"),
@@ -107,6 +108,7 @@ FILTERED_ISSN = {
     "Science Translational Medicine": "1946-6234",
     "Cell": "0092-8674",
     "Cell Reports": "2211-1247",
+    "Scientific Reports (Neuroscience)": "2045-2322",
     "American Journal of Human Genetics": "0002-9297",
     "Cell Genomics": "2666-979X",
     "Genome Research": "1088-9051",
@@ -150,40 +152,58 @@ def fetch_rss(url):
     return [], last
 
 
-def fetch_crossref(issn, days):
-    """Recent journal articles for an ISSN from Crossref, shaped like feed entries."""
-    since = (dt.date.today() - dt.timedelta(days=days)).isoformat()
-    params = {
-        "filter": f"from-created-date:{since},type:journal-article",
-        "rows": "100", "sort": "created", "order": "desc",
-        "select": "DOI,title,abstract,created,URL",
-    }
-    url = f"https://api.crossref.org/journals/{issn}/works?" + urllib.parse.urlencode(params)
+def _crossref_get(url):
+    """GET a Crossref URL; returns (items, note)."""
     req = urllib.request.Request(url, headers={"User-Agent": UA})
     last = None
     for attempt in range(2):
         try:
             with urllib.request.urlopen(req, timeout=30) as resp:
                 data = json.load(resp)
-            break
+            items = data.get("message", {}).get("items", [])
+            return items, f"{len(items)} items"
+        except urllib.error.HTTPError as exc:
+            last = f"HTTP {exc.code}"
         except Exception as exc:
-            last = f"{exc.__class__.__name__}"
-            time.sleep(3)
-    else:
-        return [], f"crossref error: {last}"
-    entries = []
-    for it in data.get("message", {}).get("items", []):
-        title = " ".join(it.get("title") or [])
-        ts = (it.get("created") or {}).get("timestamp")
-        if not title or not ts:
-            continue
-        entries.append({
-            "title": title,
-            "link": it.get("URL") or f"https://doi.org/{it['DOI']}",
-            "summary": it.get("abstract", ""),
-            "published_parsed": time.gmtime(ts / 1000),
-        })
-    return entries, (None if entries else "crossref returned nothing")
+            last = exc.__class__.__name__
+        time.sleep(3)
+    return [], last
+
+
+def fetch_crossref(issn, days):
+    """Recent journal articles for an ISSN from Crossref, shaped like feed entries.
+    Tries three query styles, because Crossref sometimes returns nothing for one of them
+    (late indexing, or the journal registered under its other ISSN)."""
+    since = (dt.date.today() - dt.timedelta(days=days)).isoformat()
+    wide = (dt.date.today() - dt.timedelta(days=max(days, 7))).isoformat()
+    common = {"rows": "100", "select": "DOI,title,abstract,created,URL"}
+    attempts = [
+        ("journal", f"https://api.crossref.org/journals/{issn}/works?" + urllib.parse.urlencode(
+            {**common, "filter": f"from-created-date:{since},type:journal-article", "sort": "created", "order": "desc"})),
+        ("issn filter", "https://api.crossref.org/works?" + urllib.parse.urlencode(
+            {**common, "filter": f"issn:{issn},from-created-date:{since}", "sort": "created", "order": "desc"})),
+        ("index date", "https://api.crossref.org/works?" + urllib.parse.urlencode(
+            {**common, "filter": f"issn:{issn},from-index-date:{wide}", "sort": "indexed", "order": "desc"})),
+    ]
+    notes = []
+    for label, url in attempts:
+        items, note = _crossref_get(url)
+        notes.append(f"{label}: {note}")
+        entries = []
+        for it in items:
+            title = " ".join(it.get("title") or [])
+            ts = (it.get("created") or {}).get("timestamp")
+            if not title or not ts:
+                continue
+            entries.append({
+                "title": title,
+                "link": it.get("URL") or f"https://doi.org/{it['DOI']}",
+                "summary": it.get("abstract", ""),
+                "published_parsed": time.gmtime(ts / 1000),
+            })
+        if entries:
+            return entries, None
+    return [], "crossref returned nothing (" + "; ".join(notes) + ")"
 
 
 def dedupe_key(link):
