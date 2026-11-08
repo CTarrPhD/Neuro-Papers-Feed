@@ -7920,8 +7920,8 @@
  },
  "feed_status": {
   "Nature Neuroscience": "0 new of 8",
-  "bioRxiv Neuroscience": "1 new of 30",
-  "medRxiv Neurology": "2 new of 30",
+  "bioRxiv Neuroscience": "0 new of 30",
+  "medRxiv Neurology": "0 new of 30",
   "arXiv q-bio.NC": "no entries (HTTP 200)",
   "Nature Medicine": "0 new of 8",
   "Nature Genetics": "0 new of 8",
@@ -7952,8 +7952,8 @@
   "Nature": "0 new of 75",
   "Nature Communications": "0 new of 8",
   "Scientific Reports (Neuroscience)": "0 new of 30",
-  "eLife": "2 new of 28",
-  "bioRxiv Genomics": "2 new of 30",
+  "eLife": "2 new of 100",
+  "bioRxiv Genomics": "1 new of 30",
   "arXiv q-bio.GN": "no entries (HTTP 200)",
   "arXiv q-bio.QM": "no entries (HTTP 200)",
   "arXiv cs.LG": "no entries (HTTP 200)",
@@ -7972,5 +7972,5 @@
   "Genome Research": "0 new of 1 (via Crossref)",
   "Genome Biology": "0 new of 1 (via Crossref)"
  },
- "updated": "Sun Nov 8, 5:21 AM PST"
+ "updated": "Sun Nov 8, 6:13 AM PST"
 }
