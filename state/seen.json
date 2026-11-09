@@ -7965,26 +7965,82 @@
    "published": "2026-11-09T05:00:00+00:00",
    "summary": "arXiv:2507.08038v4 Announce Type: replace-cross Abstract: Language model agents are increasingly used to automate scientific research, yet evaluating their scientific contributions remains a challenge. A key mechanism to obtain such insights is through ablation experiments. To this end, we introduce AblationBench, a benchmark suite for evaluating agents on ablation planning tasks in empirical AI research. It includes two tasks: AuthorAblation, which helps authors propose ablation experiments based on a method section and contains 83 instances, and ReviewerAblation, which helps reviewers find missing ablations in a full paper and contains 350 instances. For both tasks, we develop LM-based jud",
    "first_seen": "2026-11-09"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.11.06.764848v1?rss=1": {
+   "title": "Bayesian Modeling of Context-Specific Goal-Directed and Habitual Control in Sequential Decision Making",
+   "source": "bioRxiv Neuroscience",
+   "published": "2026-11-09T00:00:00+00:00",
+   "summary": "It is an open question how context-specific habits develop alongside goal-directed planning. We examined action sequence repetition, contingency change, and context switching using a three-step optimization task with interleaved planning and habit contexts. During an initial acquisition phase, optimal sequences varied in the planning context but remained constant in the habit context. When contingencies changed, the original habit sequence became suboptimal and another became optimal. Action sequence repetition improved response speed and optimal-choice performance in the habit context relative to the planning context. Following the contingency change, both advantages initially reversed. Opt",
+   "first_seen": "2026-11-09"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.11.04.764437v1?rss=1": {
+   "title": "A Common Recognition Architecture Across Memory Scales",
+   "source": "bioRxiv Neuroscience",
+   "published": "2026-11-09T00:00:00+00:00",
+   "summary": "Recognition decisions occur across memory episodes that vary vastly in scale, from compact single-item episodes to extended experiences involving hundreds of items. To test how memory scale shapes the neural mechanisms underlying old/new judgments, we recorded EEG while participants performed a recognition memory task across set sizes ranging from 1 to 128 items (spanning 2 to 256 recognition judgments). Classic electrophysiological signatures of recognition, including frontal and parietal old/new effects, persisted continuously across set sizes. Furthermore, multivariate neural classifiers trained on small memory scales generalized robustly across set sizes. Rather than revealing distinct n",
+   "first_seen": "2026-11-09"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.11.06.764867v1?rss=1": {
+   "title": "Visual capture of the head-direction signal in a rat model of Fragile X Syndrome",
+   "source": "bioRxiv Neuroscience",
+   "published": "2026-11-09T00:00:00+00:00",
+   "summary": "Fragile X Syndrome (FXS) is a common inherited monogenic cause of autism spectrum disorder and intellectual disability (ASD/ID), conditions frequently associated with altered sensory processing and multisensory integration. However, the circuit mechanisms underlying these alterations remain poorly understood. Here, we investigate the integration of visual and self-motion information in the head-direction (HD) system in a rat model of FXS (Fmr1-/y rats). Using high-density silicon probes, we recorded neuronal activity in the postsubiculum (PoSub), a cortical hub of the HD system, while adult Fmr1-/y and wild-type (WT) rats experienced repeated rotations of a visual landmark. In WT rats, the H",
+   "first_seen": "2026-11-09"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.11.06.764525v1?rss=1": {
+   "title": "Automatic orofacial behaviors remap within cortical substrates for voluntary motor control in freely moving primates",
+   "source": "bioRxiv Neuroscience",
+   "published": "2026-11-09T00:00:00+00:00",
+   "summary": "Orofacial behaviors, like yawning and emotional facial expressions, involve phylogenetically conserved subcortical circuits. Yet, their context-dependent modulation in primates suggests overlooked cortical contributions. Here, we wirelessly recorded from 640 ventral motor and premotor sites in two freely moving macaques during spontaneous orofacial actions combining automatic and voluntary components to varying degrees (yawning, threat, bite, drink). We identified coupling between synaptic input (local field potential) and spiking output in 169 spatially distributed sites during yawning, while threat display was sparsely represented. Yawn-related sites exhibited an early beta-band suppressio",
+   "first_seen": "2026-11-09"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.11.06.764857v1?rss=1": {
+   "title": "Ogg1 regulates context-dependent glial states in Alzheimer's disease",
+   "source": "bioRxiv Neuroscience",
+   "published": "2026-11-09T00:00:00+00:00",
+   "summary": "Oxidative DNA damage is an early hallmark of Alzheimer's disease (AD), but whether Ogg1, a key enzyme in oxidative DNA repair, contributes to disease pathogenesis remains unclear. Here, we show that Ogg1 exerts opposing effects under physiological and disease conditions. Ogg1 deficiency impaired memory and induced glial transcriptional alterations under physiological conditions, whereas in APP/PS1 mice it improved memory, reduced amyloid burden and attenuated AD-associated glial remodeling. These effects occurred without changes in global 8-oxo-dG levels and were accompanied by changes in chromatin accessibility and gene expression, supporting a non-canonical role for Ogg1 in transcriptional",
+   "first_seen": "2026-11-09"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.11.06.764706v1?rss=1": {
+   "title": "Transcriptomic and Metabolomic Analysis of the Caudate and Putamen in ADHD",
+   "source": "bioRxiv Neuroscience",
+   "published": "2026-11-09T00:00:00+00:00",
+   "summary": "Attention-deficit/hyperactivity disorder (ADHD) is a highly heritable, heterogeneous neurodevelopmental disorder that typically manifests in childhood; however, transcriptomic studies have inadequately accounted for age of onset and subtype, with cohorts largely comprising of adults. To address this gap, we established a stringently phenotyped ADHD cohort (up to 19 years; clinically diagnosed combined and inattentive-type ADHD) and integrated postmortem caudate and putamen bulk RNA-seq, LC-MS metabolomics, MEGENA gene co-expression analysis, and cross-study comparison. We identified 279 up- and 35 downregulated DEGs in the caudate and 110 up- and 89 downregulated DEGs in the putamen. The com",
+   "first_seen": "2026-11-09"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.11.06.764863v1?rss=1": {
+   "title": "The mouse midbrain periaqueductal gray is organized into target-specific output populations",
+   "source": "bioRxiv Neuroscience",
+   "published": "2026-11-09T00:00:00+00:00",
+   "summary": "How brains select between behaviours and coordinate their execution is a central question in neuroscience. The vertebrate periaqueductal gray (PAG) controls a remarkable range of instinctive behaviours, from escape and freezing to hunting, vocalization, and micturition. Its columnar organization, the classical framework for mapping these functions, cannot explain how one region controls so many, often mutually exclusive, behaviours. To determine how PAG output is organized, we generated a whole-brain, column- and cell-type-specific synaptic projection atlas of the mouse PAG, showing distinct dorsal and ventral outputs and dense within-PAG connectivity. Retrograde tracing from four motor-rela",
+   "first_seen": "2026-11-09"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.11.01.763059v1?rss=1": {
+   "title": "Serotonin Reuptake Inhibition Reduces NMDAR-Associated Reward Liability Without Compromising Rapid Antidepressant Efficacy",
+   "source": "bioRxiv Neuroscience",
+   "published": "2026-11-09T00:00:00+00:00",
+   "summary": "Ketamine has changed the treatment landscape for depression by providing rapid antidepressant effects, yet its clinical utility remains limited by psychotomimetic effects and abuse potential. It remains unclear whether rapid antidepressant efficacy can be dissociated from mesolimbic dopamine activation and its associated reward-related effects. Here, we show that the serotonin reuptake inhibitor escitalopram, by enhancing serotonergic signaling, attenuates S-ketamine-induced dopamine (DA) release in the nucleus accumbens (NAc). Inspired by this finding, we designed and evaluated VV147 by incorporating SERT inhibition into NMDAR antagonism to reduce the reward-related liability of NMDAR block",
+   "first_seen": "2026-11-09"
   }
  },
  "feed_status": {
   "Nature Neuroscience": "0 new of 8",
-  "bioRxiv Neuroscience": "6 new of 30",
+  "bioRxiv Neuroscience": "8 new of 30",
   "medRxiv Neurology": "0 new of 30",
-  "arXiv q-bio.NC": "10 new of 11",
+  "arXiv q-bio.NC": "0 new of 11",
   "Nature Medicine": "0 new of 8",
   "Nature Genetics": "0 new of 8",
   "Nature Aging": "0 new of 8",
   "Nature Reviews Neuroscience": "0 new of 8",
-  "Nature Reviews Neurology": "3 new of 8",
-  "Nature Methods": "1 new of 8",
+  "Nature Reviews Neurology": "0 new of 8",
+  "Nature Methods": "0 new of 8",
   "Nature Biotechnology": "0 new of 8",
   "Molecular Psychiatry": "0 new of 8",
-  "Nature Machine Intelligence": "1 new of 8",
+  "Nature Machine Intelligence": "0 new of 8",
   "Neuron": "0 new of 14",
   "Cell Stem Cell": "0 new of 19",
   "Stem Cell Reports": "0 new of 20",
-  "Alzheimer's & Dementia": "3 new of 19",
+  "Alzheimer's & Dementia": "0 new of 19",
   "Lancet Neurology": "0 new of 19",
   "Acta Neuropathologica": "0 new of 100 (via Crossref)",
   "Molecular Neurodegeneration": "0 new of 1 (via Crossref)",
@@ -7992,7 +8048,7 @@
   "JAMA Neurology": "0 new of 100 (via Crossref)",
   "Annals of Neurology": "0 new of 100 (via Crossref)",
   "Neurobiology of Aging": "0 new of 1 (via Crossref)",
-  "Alzheimer's Research & Therapy": "2 new of 3 (via Crossref)",
+  "Alzheimer's Research & Therapy": "0 new of 3 (via Crossref)",
   "Nature Reviews Drug Discovery": "0 new of 8",
   "Nature Biomedical Engineering": "0 new of 8",
   "Molecular Therapy": "0 new of 17 (via Crossref)",
@@ -8000,26 +8056,26 @@
   "Cell Reports Medicine": "0 new of 5 (via Crossref)",
   "Nature": "0 new of 75",
   "Nature Communications": "0 new of 8",
-  "Scientific Reports (Neuroscience)": "1 new of 30",
-  "eLife": "1 new of 100",
+  "Scientific Reports (Neuroscience)": "0 new of 30",
+  "eLife": "0 new of 100",
   "bioRxiv Genomics": "0 new of 30",
   "arXiv q-bio.GN": "0 new of 5",
-  "arXiv q-bio.QM": "1 new of 7",
-  "arXiv cs.LG": "19 new of 417",
+  "arXiv q-bio.QM": "0 new of 7",
+  "arXiv cs.LG": "7 new of 417",
   "Science": "0 new of 45",
   "Science Translational Medicine": "0 new of 7",
   "Cell": "0 new of 25",
   "Cell Reports": "0 new of 111",
-  "bioRxiv Genetics": "1 new of 30",
-  "bioRxiv Cell Biology": "1 new of 30",
+  "bioRxiv Genetics": "0 new of 30",
+  "bioRxiv Cell Biology": "0 new of 30",
   "bioRxiv Molecular Biology": "1 new of 30",
-  "bioRxiv Bioinformatics": "4 new of 30",
-  "arXiv cs.AI": "9 new of 397",
+  "bioRxiv Bioinformatics": "2 new of 30",
+  "arXiv cs.AI": "0 new of 397",
   "arXiv stat.ML": "0 new of 56",
   "American Journal of Human Genetics": "0 new of 14",
   "Cell Genomics": "0 new of 15",
   "Genome Research": "0 new of 1 (via Crossref)",
   "Genome Biology": "0 new of 1 (via Crossref)"
  },
- "updated": "Mon Nov 9, 5:42 AM PST"
+ "updated": "Mon Nov 9, 6:29 AM PST"
 }
