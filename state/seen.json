@@ -1,537 +1,5 @@
 {
  "items": {
-  "https://www.biorxiv.org/content/10.64898/2026.10.29.762605v1?rss=1": {
-   "title": "Theta-Phase Targeted Encoding Gates Memory Sensitivity",
-   "source": "bioRxiv Neuroscience",
-   "published": "2026-10-30T00:00:00+00:00",
-   "summary": "Theta phase has been proposed to play an important role in memory. It may gate encoding and retrieval, such that certain phases are more favorable for memory processing than others, or become part of the memory representation, such that reinstating the encoding phase benefits retrieval. To test and distinguish these competing accounts, we used a closed-loop EEG system, allowing us to control the phase at which items were presented at encoding and retrieval. In an associative memory task, visual targets were presented at predefined phases of the ongoing mid-frontal theta rhythm, thereby pairing individual memory items with specific encoding phases. During retrieval, targets appeared either at",
-   "first_seen": "2026-10-30"
-  },
-  "https://www.biorxiv.org/content/10.64898/2026.10.29.762884v1?rss=1": {
-   "title": "Measuring conscious tactile perception without report: pupil, blink, and microsaccade signatures of a tactile no-report paradigm",
-   "source": "bioRxiv Neuroscience",
-   "published": "2026-10-30T00:00:00+00:00",
-   "summary": "Conscious perception is often inferred from behavioral reports, which conflate awareness-related neural signals with the motor and decision processes required to respond. No-report paradigms address this by using spontaneous physiological signals, such as eye movements, to infer perception. Although our group developed a no-report visual paradigm, we had not applied this approach to touch. We developed a no-report tactile paradigm using the Galileo stimulation system to deliver pneumatic air puffs to non-thumb fingers on both hands while tracking eye movements. Participants reported sensations from the Report hand while receiving threshold-level puffs on both hands; eye metrics were used to ",
-   "first_seen": "2026-10-30"
-  },
-  "https://www.biorxiv.org/content/10.64898/2026.10.28.762615v1?rss=1": {
-   "title": "Glutamatergic and Redox Abnormalities in Major Depressive Disorder: Links to Childhood Maltreatment and Perceived Stress",
-   "source": "bioRxiv Neuroscience",
-   "published": "2026-10-30T00:00:00+00:00",
-   "summary": "Background: Childhood sexual abuse (CSA) increases the risk for major depressive disorder (MDD), yet the underlying neurobiological mechanisms remain poorly understood. We examined (1) associations of medial prefrontal cortex (mPFC) glutamatergic metabolites and redox balance with childhood maltreatment and MDD; and (2) whether these neurochemical measures predicted future perceived stress. Methods: Using proton and phosphorus 4T magnetic resonance spectroscopy, we quantified glutamate, glutamine, their sum (Glx), and the NAD/NADH ratio within the same mPFC voxel in 71 women across four groups: healthy controls (HC; n=27), current MDD without CSA (n=14), current MDD with CSA (n=14), and remi",
-   "first_seen": "2026-10-30"
-  },
-  "https://www.biorxiv.org/content/10.64898/2026.10.28.762645v1?rss=1": {
-   "title": "Salience network expansion as a transdiagnostic neural marker for psychopathology risk in adolescence",
-   "source": "bioRxiv Neuroscience",
-   "published": "2026-10-30T00:00:00+00:00",
-   "summary": "Increased cortical surface area of the brain's salience network (SAL) has been observed in depression and appears to emerge during early adolescence. However, similar expansion has also been reported in bipolar disorder (BD), obsessive compulsive disorder (OCD), and other atypicalities of salience network function have been broadly implicated across multiple psychiatric conditions. Whether increased SAL surface area is specific to depression or related more generally with psychopathology remains unclear. Using data collected as part of the Adolescent Brain Cognitive Development (ABCD) Study (baseline: N = 7942; ages 9-10; Year 2: N = 5901; ages 11-12), we quantified individual SAL size and e",
-   "first_seen": "2026-10-30"
-  },
-  "https://www.biorxiv.org/content/10.64898/2026.10.26.761911v1?rss=1": {
-   "title": "Lexical surprisal drives pupil dilation during continuous story listening",
-   "source": "bioRxiv Neuroscience",
-   "published": "2026-10-30T00:00:00+00:00",
-   "summary": "The pupil famously adjusts its dilation in response to light, but its role extends far beyond this basic sensory function. Its fluctuations index arousal and mental effort, beyond luminance-related dynamics, making it a sensitive marker of internal cognitive states. A growing body of work shows that these pupil-linked signals extend beyond the visual domain. However, which processes drive pupil responses in more naturalistic settings remains unclear as most evidence comes from tightly controlled paradigms that strip away the richness of real-world experience. Language offers a uniquely powerful window into this question, as it can allow us to create rich paradigms without having any visual, ",
-   "first_seen": "2026-10-30"
-  },
-  "https://www.biorxiv.org/content/10.64898/2026.10.26.761884v1?rss=1": {
-   "title": "Brain representations of visual short-term memories during healthy human aging: occipital decline and frontoparietal compensation",
-   "source": "bioRxiv Neuroscience",
-   "published": "2026-10-30T00:00:00+00:00",
-   "summary": "Visual short-term memory declines steeply with age, but the link to neural representations of memory content remains unknown. We used fMRI decoding to relate remembered motion-direction representations in visual and frontoparietal cortex to age and performance, in 115 adults, aged 25-87, from the Cambridge Centre for Ageing and Neuroscience (Cam-CAN) cohort. Decoding was strongest in visual cortex, but also significant in frontoparietal regions, with different profiles. Visual representations weakened with memory load and age, and statistically mediated age-related performance decline, especially during recall. This coupling, however, weakened with age: some older adults retained stronger vi",
-   "first_seen": "2026-10-30"
-  },
-  "https://www.biorxiv.org/content/10.64898/2026.10.27.761477v1?rss=1": {
-   "title": "Generation of human iPSC-derived motor neurons with defined regional identities across the rostrocaudal axis",
-   "source": "bioRxiv Neuroscience",
-   "published": "2026-10-30T00:00:00+00:00",
-   "summary": "This study establishes a unified pipeline for generating human induced pluripotent stem cell (iPSC)-derived motor neurons (iMNs) with defined hindbrain, cervical, and lumbar identities to support anatomically resolved studies of motor neuron development and degeneration. Conventional differentiation methods can efficiently produce iMNs but provide limited control over rostrocaudal identity and frequently generate populations with heterogeneous HOX profiles. We addressed this limitation by optimizing developmental morphogen combinations and treatment windows, establishing three complementary protocols that reproducibly generated hindbrain/rhombomere-associated motor neurons (RiMNs), cervical ",
-   "first_seen": "2026-10-30"
-  },
-  "https://www.biorxiv.org/content/10.64898/2026.10.26.761980v1?rss=1": {
-   "title": "Disrupting SORL1-retromer endosomal recycling in mice drives the age-dependent neurodegenerative signature of Alzheimer's disease",
-   "source": "bioRxiv Neuroscience",
-   "published": "2026-10-30T00:00:00+00:00",
-   "summary": "MRI studies have mapped the atrophic signature that distinguishes Alzheimer's disease (AD), isolating regions differentially vulnerable to its age-dependent neurodegenerative process. We test the hypothesis that an endosomal recycling pathway regulated by the interaction of SORL1 with retromer, which is pathogenically disrupted in AD, might drive the neurodegenerative process via multiple yearlong studies in over 140 wildtype and SORL1 deficient mice, modeling AD's causative mutations. MRI studies revealed that SORL1 deficiency induced an age-dependent AD-pattern of atrophy, centered on the trans-entorhinal cortex, and that atrophy was prevented by SORL1 restoration, secondary to overexpress",
-   "first_seen": "2026-10-30"
-  },
-  "https://www.biorxiv.org/content/10.64898/2026.10.29.762424v1?rss=1": {
-   "title": "Item-specific clustering of high gamma-band activity on theta phase during speech categorization",
-   "source": "bioRxiv Neuroscience",
-   "published": "2026-10-30T00:00:00+00:00",
-   "summary": "Theta-gamma phase-amplitude coupling (PAC) has been proposed as a mechanism for separating neural representations in time. Although item-specific PAC has been reported, its role in perception remains unclear. Notably, previous work has shown that theta phase can bias perception, raising the question whether such biases are linked to phase-specific gamma activity. Here, we investigated whether phase-dependent perceptual biases are accompanied by item-specific theta-gamma PAC. We presented ambiguous speech sounds that could be interpreted as either /da/ or /ga/ in patients with epilepsy implanted with intracranial electrocorticography. We found that pre-stimulus theta phase predicted both the ",
-   "first_seen": "2026-10-30"
-  },
-  "https://www.biorxiv.org/content/10.64898/2026.10.27.762356v1?rss=1": {
-   "title": "Algorithmic Geometry Shapes the Biological Meaning of Thalamocortical Structural Covariance",
-   "source": "bioRxiv Neuroscience",
-   "published": "2026-10-30T00:00:00+00:00",
-   "summary": "Neuroimaging studies often derive and discuss structural covariance (SC) as a representation of underlying brain circuitry that reflects coordinated maturation, anatomical connectivity, transcriptional similarity, and shared genetic influences. These associations motivate its use to study brain organization across development, aging, and disease. However, the algorithms used to derive SC networks impose constraints that may shape their biological interpretation. To understand the impact of algorithm choice, we used the thalamocortical system as an example and compared five common representations of voxelwise SC, namely, principal component analysis (PCA), independent component analysis (ICA)",
-   "first_seen": "2026-10-30"
-  },
-  "https://www.biorxiv.org/content/10.64898/2026.10.29.762815v1?rss=1": {
-   "title": "Differential endothelial cell remodeling in Down syndrome and APP duplication drives distinct blood brain barrier dysfunction",
-   "source": "bioRxiv Neuroscience",
-   "published": "2026-10-30T00:00:00+00:00",
-   "summary": "An extra copy of the amyloid precursor protein gene (APP) is present in Down syndrome (DS) and APP duplication (APPdup), increasing the risk of Alzheimer disease (AD) and cerebral amyloid angiopathy (CAA). However, we reported greater vascular A{beta} deposition in APPdup than in DS with AD, suggesting that other triplicated chromosome 21 genes may mitigate CAA severity. We investigated endothelial cell (EC) function and blood brain barrier (BBB) integrity in DS and APPdup using human induced pluripotent stem cell-derived ECs (iECs), assessing their morphology, junctional proteins, A{beta} peptide secretion, barrier function, and transcriptomic profiles. Both DS and APPdup iECs secreted more",
-   "first_seen": "2026-10-30"
-  },
-  "https://www.biorxiv.org/content/10.64898/2026.10.28.762594v1?rss=1": {
-   "title": "Somatostatin-excitatory coordination emerges with dexterous motor skill learning",
-   "source": "bioRxiv Neuroscience",
-   "published": "2026-10-30T00:00:00+00:00",
-   "summary": "Motor skill-learning increases spatio-temporal consistency in neuronal activity in primary motor cortex (M1), and Somatostatin-expressing (SST) interneurons are causally involved in these learning-related activity changes. Yet, how SST-excitatory interactions shape population level activity changes during motor skill acquisition is still unknown. Here, we imaged large populations of excitatory neurons and identified SST or parvalbumin-expressing (PV) interneurons across successive days as mice learned a dexterous, persistently M1-dependent reach-to-grasp task. Sparse, temporally coordinated, trial-resolved, and rate-controlled functional interactions between SST neurons and skill-modulated e",
-   "first_seen": "2026-10-30"
-  },
-  "https://www.biorxiv.org/content/10.64898/2026.10.23.761476v1?rss=1": {
-   "title": "Executive and language systems competitively shape predictive processing during reading",
-   "source": "bioRxiv Neuroscience",
-   "published": "2026-10-29T00:00:00+00:00",
-   "summary": "When we read, our brains constantly generate predictions about upcoming words, which is thought to make comprehension faster and more efficient. Yet it remains unclear whether this predictive mechanism relies on the same domain-general executive resources the brain uses for other demanding cognitive tasks, or operates largely independently within the language system. Here we tested this question using transcranial magnetic stimulation (TMS) in twenty-five healthy adults, who performed self-paced naturalistic reading, an n-back task, and a dual task of concurrent reading and n-back, allowing us to place competing demands on cognitive resources. In three sessions, we stimulated the left angula",
-   "first_seen": "2026-10-30"
-  },
-  "https://www.biorxiv.org/content/10.64898/2026.10.23.761434v1?rss=1": {
-   "title": "Individualized brain-body signatures of positive emotions revealed by large-scale multimodal neurophysiological recording",
-   "source": "bioRxiv Neuroscience",
-   "published": "2026-10-29T00:00:00+00:00",
-   "summary": "Using one of the most comprehensive multimodal biosensing datasets in affective research, densely sampled within individuals, we asked how emotions are instantiated in each person's brain and body. Four participants viewed 168 emotion-evoking videos during 128-channel EEG and 28 autonomic, ocular and facial recordings. Cross-validated elastic-net classifiers distinguished each of 15 positive and neutral emotions from baseline in every participant (mean accuracy 87-97%). We found that no emotion was predicted by a single marker and each reflected a multimodal ensemble of cortical and autonomic activity whose composition was largely person-specific. Yet physiology-derived groupings converged s",
-   "first_seen": "2026-10-30"
-  },
-  "https://www.biorxiv.org/content/10.64898/2026.10.23.760846v1?rss=1": {
-   "title": "A preclinical platform for focused ultrasound delivery from microplate to awake brain",
-   "source": "bioRxiv Neuroscience",
-   "published": "2026-10-29T00:00:00+00:00",
-   "summary": "Background. Focused ultrasound (FUS) has broad therapeutic potential, but its mechanisms of action are poorly understood. Preclinical FUS research enables rigorous interrogation of understudied parameters, but fragmented, single-purpose benchtop devices prevent standardized acoustic exposure across models. Objective. To describe a unified preclinical FUS platform for cell culture, ex vivo tissue, and awake stereotaxic in vivo delivery in one lightweight system, validated using glioblastoma as a disease model. Methods. We performed single-well FUS delivery to 96-well microplates, single-well delivery to freshly resected human glioblastoma tissue, and stereotaxic transcranial delivery to awake",
-   "first_seen": "2026-10-30"
-  },
-  "https://www.biorxiv.org/content/10.64898/2026.10.28.762567v1?rss=1": {
-   "title": "Affective representations and brain-body dynamics during emotional video viewing",
-   "source": "bioRxiv Neuroscience",
-   "published": "2026-10-29T00:00:00+00:00",
-   "summary": "Emotional events evoke changing neural and bodily responses, but how these responses relate to overall emotional evaluations and how brain and body responses correspond over time remain unclear. Ninety-two participants viewed 25 silent emotional videos, each approximately one minute long, and rated valence and arousal after each video. We recorded brain activity using magnetoencephalography alongside cardiac, electrodermal, respiratory and facial-muscle activity. Representational similarity analysis (RSA) compared source-resolved cortical spectral patterns and peripheral response patterns with participants' valence and arousal ratings, adjusting each affective dimension for the other. Across",
-   "first_seen": "2026-10-30"
-  },
-  "https://www.biorxiv.org/content/10.64898/2026.10.27.762319v1?rss=1": {
-   "title": "Anatomical Connectivity of the Macaque Gaze-following Patch",
-   "source": "bioRxiv Neuroscience",
-   "published": "2026-10-29T00:00:00+00:00",
-   "summary": "The macaque gaze-following patch (GFP) is a specialized region of the temporal cortex implicated in decoding others' focus of attention and guiding gaze-following behavior. Although the GFP has been characterized functionally, its anatomical connectivity remains largely unknown. To investigate how the GFP is embedded within a putative brain network supporting social interactions, we injected a pair of fluorescence labeled anterograde and retrograde tracers into the GFP of one monkey. Analysis of the resulting material revealed reciprocal connections between the GFP and a region of the inferior parietal lobule, likely corresponding to area PFG, as well as sparse retrograde labeling in the amy",
-   "first_seen": "2026-10-30"
-  },
-  "https://www.medrxiv.org/content/10.64898/2026.10.28.26366685v1?rss=1": {
-   "title": "Quantitative CTA-Based Carotid Plaque Composition Across Stroke Etiologies and Residual Vascular Risk",
-   "source": "medRxiv Neurology",
-   "published": "2026-10-29T00:00:00+00:00",
-   "summary": "Background: Carotid plaque vulnerability features may provide prognostic information beyond luminal stenosis, but the value of quantitative plaque composition on CTA remains unclear. Objectives: We investigated whether plaque composition analysis in routine CTA in patients with ischemic stroke or TIA can identify high-risk plaques across etiologies, particularly among strokes of undetermined etiology and predict residual vascular risk. Methods: We analyzed carotid CTAs from 314 patients with acute ischemic stroke or TIA. CTA-derived plaque composition was quantified using commercially available software and compared between ipsilateral and contralateral plaques across etiology groups. Associ",
-   "first_seen": "2026-10-30"
-  },
-  "https://www.medrxiv.org/content/10.64898/2026.10.27.26366659v1?rss=1": {
-   "title": "Blood-based biomarkers across the Alzheimer's disease continuum in older Korean population",
-   "source": "medRxiv Neurology",
-   "published": "2026-10-29T00:00:00+00:00",
-   "summary": "Background: Plasma phosphorylated tau 217 (pTau217) is a robust biomarker of Alzheimer's disease (AD) pathology. However, whether a single biomarker can adequately capture both clinical diagnosis and disease progression remains unclear. We investigated the complementary roles of plasma AD biomarkers and routinely measured metabolic markers across different stages of AD. Methods: Using the Gwangju Alzheimer's & Related Dementia (GARD) cohort, we analyzed cross-sectional and longitudinal data, including amyloid-PET, MRI, neuropsychological examinations, and APOE genotypes. Plasma pTau217, GFAP, and NfL levels were measured alongside routine biochemical markers to evaluate their associations wi",
-   "first_seen": "2026-10-30"
-  },
-  "https://www.medrxiv.org/content/10.64898/2026.10.28.26365092v1?rss=1": {
-   "title": "Detection of Spreading Depolarization with Noninvasive Electroencephalography",
-   "source": "medRxiv Neurology",
-   "published": "2026-10-29T00:00:00+00:00",
-   "summary": "Background and Purpose: Spreading depolarizations (SDs) are waves of near-complete breakdown of the transmembrane ion gradients that underlie migraine aura and occur in patients with moderate-to-severe traumatic, ischemic or hemorrhagic brain injury. SDs are involved in primary and secondary brain injury. They are associated with poor neurological outcome and represent a modifiable therapeutic target. However, despite decades of investigation, SD detection still requires invasive subdural electrocorticography (ECoG) using an implanted subdural electrode strip, restricting monitoring to a small subset of neurosurgical patients. Methods: We developed WAVEFRONT, a noninvasive scalp electroencep",
-   "first_seen": "2026-10-30"
-  },
-  "https://www.medrxiv.org/content/10.64898/2026.10.28.26366763v1?rss=1": {
-   "title": "Same pipelines, different answers: how evaluation design shapes EEG seizure prediction",
-   "source": "medRxiv Neurology",
-   "published": "2026-10-29T00:00:00+00:00",
-   "summary": "Seizure-prediction studies on scalp electroencephalography (EEG) often report accuracies that would be clinically useful, yet the score a model receives also depends on how its test data were separated from its training data. We kept five published pipelines fixed, from a spectral baseline (power spectral density with linear discriminant analysis, PSD+LDA) to a transformer, and changed only how they were evaluated on the CHB-MIT database. When whole subjects were held out in 20 repeated partitions, every pipeline scored close to the 0.5 reference (mean area under the ROC curve, AUC, 0.527-0.553), and the five pipelines differed less from one another than each varied between partitions. Withi",
-   "first_seen": "2026-10-30"
-  },
-  "https://arxiv.org/abs/2610.38564": {
-   "title": "Recognition of auditory objects from continuous and ultra-sparse spike streams in neuromorphic devices",
-   "source": "arXiv q-bio.NC",
-   "published": "2026-10-30T04:00:00+00:00",
-   "summary": "arXiv:2610.38564v1 Announce Type: new Abstract: Energy consumption is a major concern for modern artificial intelligence (AI) applications. The brain is thought to achieve energy-efficient computation through sparse coding schemes. By emulating the spiking dynamics of the brain, neuromorphic chips hold the potential to realize energy-efficient AI. In this work, we use birdsong to demonstrate that auditory object recognition can be achieved using ultra-sparse coding. Feature-detecting neurons tuned to short temporal features ($\\sim$37 ms), sampled from exemplar syllables, transform continuous auditory signals into streams of ultra-sparse spikes that mark the onsets and offsets of features wit",
-   "first_seen": "2026-10-30"
-  },
-  "https://arxiv.org/abs/2610.37978": {
-   "title": "Solitary movement style predicts collective foraging while whom to follow emerges only in company",
-   "source": "arXiv q-bio.NC",
-   "published": "2026-10-30T04:00:00+00:00",
-   "summary": "arXiv:2610.37978v1 Announce Type: cross Abstract: How far can behaviour inside a group, and the group's performance, be predicted from members measured while alone? We tested this on three public datasets of human collective foraging (621, 128 and 1,133 participants). A low-dimensional individual representation estimated from private-phase movement was mapped onto behaviour inside the group through a mapping learned on other participants. Private information processing was stable between the two halves of a session (split-half reliability, the correlation between the halves, 0.60--0.83) and predicted behaviour inside the group with correlations of 0.30--0.66. Selective social learning, follo",
-   "first_seen": "2026-10-30"
-  },
-  "https://arxiv.org/abs/2610.38172": {
-   "title": "Data Amount Heterogeneity Improves Performance in Federated Learning for Neuroimaging",
-   "source": "arXiv q-bio.NC",
-   "published": "2026-10-30T04:00:00+00:00",
-   "summary": "arXiv:2610.38172v1 Announce Type: cross Abstract: Federated Learning (FL) allows for secure analysis of distributed data without data sharing. We and others have successfully applied FL to neuroimaging tasks, such as Alzheimer's disease classification from structural magnetic resonance imaging (MRI). FL trains a deep learning model locally at each site, encrypts the local model parameters and sends them to a federation controller that aggregates the local models under homomorphic encryption, the resulting community model is sent back to the sites for further training, and the process repeats for a number of rounds. FL often achieves learning performance (e.g., accuracy) close to centralized ",
-   "first_seen": "2026-10-30"
-  },
-  "https://arxiv.org/abs/2610.38558": {
-   "title": "REVBRAIN: Real-time Probabilistic EEG Forecasting Using Residual Vector Quantization",
-   "source": "arXiv q-bio.NC",
-   "published": "2026-10-30T04:00:00+00:00",
-   "summary": "arXiv:2610.38558v1 Announce Type: cross Abstract: Real-time forecasting of resting-state EEG signals is required by applications like brain-state-dependent stimulation, where computer generated actions are coupled with ongoing neural oscillations. Recently, the deep learning model WaveNet was proposed for the forecasting task. It shows superior accuracy compared to the prevailing method, the linear autoregressive (AR) model, and provides a built-in uncertainty measure due to its probabilistic modeling framework. However, inference using WaveNet is too slow for real-time use due to its sample-by-sample autoregressive operation: a single forecast requires evaluating the model tens or hundreds ",
-   "first_seen": "2026-10-30"
-  },
-  "https://arxiv.org/abs/2610.40280": {
-   "title": "Latent Prediction Yields Cross-Subject Alignable Representations in Sensory-Evoked fMRI",
-   "source": "arXiv q-bio.NC",
-   "published": "2026-10-30T04:00:00+00:00",
-   "summary": "arXiv:2610.40280v1 Announce Type: cross Abstract: Decoding sensory-evoked functional magnetic resonance imaging (fMRI) data is a central analytical tool in cognitive neuroscience. Here we ask whether self-supervised learning (SSL), which has been scarcely explored in this domain, can yield representations that support strong downstream performance. To do so, we adapt a joint embedding predictive architecture (JEPA) to train participant-specific encoders on brain data alone. The encoders never see the stimulus images or any representation derived from them. Applied to the Natural Scenes Dataset (NSD), we evaluate our learned brain embeddings on the downstream tasks of brain captioning and ima",
-   "first_seen": "2026-10-30"
-  },
-  "https://arxiv.org/abs/2610.40511": {
-   "title": "A Low-Rank Space Captures Linear Alignment Between LLM and Human Neural Activity During Naturalistic Language Listening",
-   "source": "arXiv q-bio.NC",
-   "published": "2026-10-30T04:00:00+00:00",
-   "summary": "arXiv:2610.40511v1 Announce Type: cross Abstract: Large language models (LLMs) are increasingly used as computational models of human language processing, yet it remains unclear which components of their representations drive alignment with neural activity. Here, we use ridge reduced-rank regression to identify the brain-predictive subspace of LLM representations: the representational directions that support linear prediction of neural responses. Across three naturalistic language-listening datasets spanning intracranial electrophysiology and fMRI, and six model conditions spanning autoregressive, bidirectional masked, and randomly initialized language models, we find that full linear encodi",
-   "first_seen": "2026-10-30"
-  },
-  "https://arxiv.org/abs/2606.14649": {
-   "title": "Prospective Coding and Path Integration Emerge as Equilibrium Solutions of Self-Organizing Neural Networks with Firing-Rate Adaptation",
-   "source": "arXiv q-bio.NC",
-   "published": "2026-10-30T04:00:00+00:00",
-   "summary": "arXiv:2606.14649v3 Announce Type: replace Abstract: Continuous Attractor Neural Networks (CANNs) traditionally rely on pre-wired recurrent connectivity to model spatial representations, path integration, and anticipatory dynamics. However, the biological mechanisms through which this structured connectivity emerges via learning remain relatively unexplored. This work presents a theoretical framework revealing how continuous attractor connectivity and its computational properties self-organize through Hebbian plasticity, firing-rate adaptation, and global inhibition. We show that translationally invariant inputs naturally drive the emergence of stable, Gaussian-profiled feedforward weights. C",
-   "first_seen": "2026-10-30"
-  },
-  "https://arxiv.org/abs/2607.16517": {
-   "title": "Emergent topological structure in spontaneous brain-organoid activity",
-   "source": "arXiv q-bio.NC",
-   "published": "2026-10-30T04:00:00+00:00",
-   "summary": "arXiv:2607.16517v2 Announce Type: replace Abstract: Neural activity is widely held to organize on low-dimensional structure embedded in a high-dimensional state space. Persistent homology reads such structure directly from the pattern of pairwise correlations, without assuming in advance which variables are relevant. We apply persistent homology to microelectrode-array (MEA) recordings of spontaneous activity from human (Lancaster) and mouse (Pasca) cortical organoids, spanning 25-197 sorted units, and ask whether topological data analysis resolves structure at the node counts that neural recordings actually deliver. Building weighted networks in correlation space and characterizing them by ",
-   "first_seen": "2026-10-30"
-  },
-  "https://arxiv.org/abs/2609.11530": {
-   "title": "pyAvalanches: A Python Package for Analyzing Spatiotemporal Propagation in Neuronal Avalanches",
-   "source": "arXiv q-bio.NC",
-   "published": "2026-10-30T04:00:00+00:00",
-   "summary": "arXiv:2609.11530v2 Announce Type: replace Abstract: The analysis of neuronal avalanches offers insights into brain dynamics utilizing the framework of criticality, but the reproducibility and comparability of studies are limited by the use of fragmented, lab-specific scripts. To address this issue, we introduce pyAvalanches, an open-source Python package providing a standardized, end-to-end pipeline for avalanche analysis from electrophysiological recordings (e.g., electroencephalography-EEG). Starting from the detection of neuronal avalanches the package provides their core statistical characterization, including size and duration distributions. Beyond this, the main aim of pyAvalanches is ",
-   "first_seen": "2026-10-30"
-  },
-  "https://www.nature.com/articles/s41592-026-03289-2": {
-   "title": "Spatial single-cell mapping of transcriptional differences across genetic backgrounds in mouse brains",
-   "source": "Nature Methods",
-   "published": "2026-10-30T00:00:00+00:00",
-   "summary": "Nature Methods, Published online: 30 October 2026; doi:10.1038/s41592-026-03289-2 ATLAS is a highly scalable tissue profiling method that leverages existing atlas data and in silico decoding to generate imputed cell maps.",
-   "first_seen": "2026-10-30"
-  },
-  "https://www.nature.com/articles/s41380-026-03952-2": {
-   "title": "Polygenic dissection of suicidal thoughts and behaviours in high-risk mood-disorder cohorts",
-   "source": "Molecular Psychiatry",
-   "published": "2026-10-30T00:00:00+00:00",
-   "summary": "Molecular Psychiatry, Published online: 30 October 2026; doi:10.1038/s41380-026-03952-2 Polygenic dissection of suicidal thoughts and behaviours in high-risk mood-disorder cohorts",
-   "first_seen": "2026-10-30"
-  },
-  "https://www.nature.com/articles/s41380-026-03935-3": {
-   "title": "Mitochondrial complex IV disruption is a detrimental pathology conferring ssusceptibility to alzheimer’s disease",
-   "source": "Molecular Psychiatry",
-   "published": "2026-10-30T00:00:00+00:00",
-   "summary": "Molecular Psychiatry, Published online: 30 October 2026; doi:10.1038/s41380-026-03935-3 Mitochondrial complex IV disruption is a detrimental pathology conferring ssusceptibility to alzheimer’s disease",
-   "first_seen": "2026-10-30"
-  },
-  "https://www.nature.com/articles/s41380-026-03948-y": {
-   "title": "Tryptophan metabolism within the gut–brain axis in depression: mechanisms, association with heterogeneity, and therapeutic opportunities",
-   "source": "Molecular Psychiatry",
-   "published": "2026-10-29T00:00:00+00:00",
-   "summary": "Molecular Psychiatry, Published online: 29 October 2026; doi:10.1038/s41380-026-03948-y Tryptophan metabolism within the gut–brain axis in depression: mechanisms, association with heterogeneity, and therapeutic opportunities",
-   "first_seen": "2026-10-30"
-  },
-  "https://www.nature.com/articles/s41380-026-03939-z": {
-   "title": "Evolutionary neuropharmacology of serotonergic psychedelics: a cross-species perspective on mechanisms, consciousness, and therapeutic potential",
-   "source": "Molecular Psychiatry",
-   "published": "2026-10-28T00:00:00+00:00",
-   "summary": "Molecular Psychiatry, Published online: 28 October 2026; doi:10.1038/s41380-026-03939-z Evolutionary neuropharmacology of serotonergic psychedelics: a cross-species perspective on mechanisms, consciousness, and therapeutic potential",
-   "first_seen": "2026-10-30"
-  },
-  "https://www.nature.com/articles/s41380-026-03906-8": {
-   "title": "Multivariate genome-wide association study of post-traumatic stress disorder, alcohol use, and alcohol use disorders",
-   "source": "Molecular Psychiatry",
-   "published": "2026-10-28T00:00:00+00:00",
-   "summary": "Molecular Psychiatry, Published online: 28 October 2026; doi:10.1038/s41380-026-03906-8 Multivariate genome-wide association study of post-traumatic stress disorder, alcohol use, and alcohol use disorders",
-   "first_seen": "2026-10-30"
-  },
-  "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.71935?af=R": {
-   "title": "APOE ε4 gene dose drives a canonical and predictable topography of amyloid deposition",
-   "source": "Alzheimer's & Dementia",
-   "published": "2026-10-30T04:16:55+00:00",
-   "summary": "Alzheimer's &Dementia, Volume 22, Issue 10, October 2026.",
-   "first_seen": "2026-10-30"
-  },
-  "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.71926?af=R": {
-   "title": "ARRDC4 drives Tau pathology via USP14‐mediated deubiquitination and acts as a novel therapeutic target in Alzheimer's disease",
-   "source": "Alzheimer's & Dementia",
-   "published": "2026-10-30T04:13:20+00:00",
-   "summary": "Alzheimer's &Dementia, Volume 22, Issue 10, October 2026.",
-   "first_seen": "2026-10-30"
-  },
-  "https://doi.org/10.1007/s00401-026-03101-7": {
-   "title": "CSF cytology: core principles, diagnostic pitfalls and emerging digital tools including artificial intelligence and telecytology",
-   "source": "Acta Neuropathologica",
-   "published": "2026-10-30T12:26:40+00:00",
-   "summary": "Abstract Cerebrospinal fluid cytology remains a cornerstone of diagnostic evaluation in infectious, autoimmune, haemorrhagic, and neoplastic disorders of the central nervous system despite advances in neuroimaging, molecular diagnostics, and digital technologies. This narrative review summarises established principles of cerebrospinal fluid cytology, highlights methodological limitations and diagnostic pitfalls, and integrates emerging developments, including automated cell counting, artificial intelligence, and telecytology. Pre-analytical factors are critical determinants of diagnostic accuracy. Delayed sample processing promotes pH-dependent autolysis and substantial cell loss, whereas ra",
-   "first_seen": "2026-10-30"
-  },
-  "https://doi.org/10.1007/s00401-026-03051-0": {
-   "title": "SNP rs11618521 modifies transcription factor NANOG-mediated expression of KPNA3 and the age at onset of spinocerebellar ataxia type 3",
-   "source": "Acta Neuropathologica",
-   "published": "2026-10-30T11:51:35+00:00",
-   "summary": "Abstract Intranuclear localization of the affected protein ataxin-3 is critical for the pathogenesis of spinocerebellar ataxia type 3 (SCA3). The nuclear–cytoplasmic transporter karyopherin alpha 3 (KPNA3) has been demonstrated to play an essential role in the pathophysiology of this disorder. In this study, we characterized the single nucleotide polymorphism (SNP) rs11618521, located in the KPNA3 promoter, as a genetic modifier of the age at onset in SCA3 and a regulator of the KPNA3 promoter activity. Moreover, we identified the transcription factor Nanog homeobox (NANOG) as a key regulator exerting allele-specific modulatory effects on the KPNA3 promoter activity, thereby modulating expre",
-   "first_seen": "2026-10-30"
-  },
-  "https://doi.org/10.1093/brain/awag337": {
-   "title": "Neuropathy and myopathy: an under-recognized phenotypic convergence in rare genetic disorders",
-   "source": "Brain",
-   "published": "2026-10-30T01:42:43+00:00",
-   "summary": "",
-   "first_seen": "2026-10-30"
-  },
-  "https://doi.org/10.1093/brain/awag384": {
-   "title": "Reply: Cerebral hypoperfusion, not amyloid, initiates the brain-first subtype in Lewy body dementia",
-   "source": "Brain",
-   "published": "2026-10-28T12:53:38+00:00",
-   "summary": "",
-   "first_seen": "2026-10-30"
-  },
-  "https://doi.org/10.1093/brain/awag383": {
-   "title": "Cerebral hypoperfusion, not amyloid, initiates the brain-first subtype in Lewy body dementia",
-   "source": "Brain",
-   "published": "2026-10-28T12:53:37+00:00",
-   "summary": "",
-   "first_seen": "2026-10-30"
-  },
-  "https://doi.org/10.1002/ana.78400": {
-   "title": "Prediction of First and Recurrent Falls in Parkinson's Disease",
-   "source": "Annals of Neurology",
-   "published": "2026-10-30T09:07:37+00:00",
-   "summary": "Objective To develop and externally validate prediction models for next‐year falls in Parkinson's disease (PD), and to evaluate the incremental value of imaging and fluid biomarkers. Methods We developed models in Parkinson's Progression Markers Initiative (PPMI) to predict next‐year falls with external validation in University of Pennsylvania (UPenn) cohorts. We evaluated incident falls among visits without current or prior falls and recurrent falls among visits with current falls. We calculated area under the receiver operating characteristic curve (AUROC), area under the precision‐recall curve (AUPRC), and development‐derived risk strata. Results The incident model, comprising Movement Di",
-   "first_seen": "2026-10-30"
-  },
-  "https://www.nature.com/articles/d41586-026-03548-4": {
-   "title": "Daily briefing: The three red flags of suspicious journals",
-   "source": "Nature",
-   "published": "2026-10-29T00:00:00+00:00",
-   "summary": "Nature, Published online: 29 October 2026; doi:10.1038/d41586-026-03548-4 These warning signs suggest a journal might be engaging in dubious publishing activities. Plus, the brain clears out faulty neurons at birth and whether a giant ‘sunshade’ could cool Earth.",
-   "first_seen": "2026-10-30"
-  },
-  "https://elifesciences.org/articles/107045": {
-   "title": "Compensation of hyperexcitability with simulation-based inference",
-   "source": "eLife",
-   "published": "2026-10-30T00:00:00+00:00",
-   "summary": "The activity of healthy neuronal networks is tightly regulated, and a shift toward hyperexcitability can cause various problems, such as epilepsies, memory deficits, and motor disorders. Numerous cellular, synaptic, and intrinsic mechanisms of hyperexcitability and compensatory mechanisms to restore healthy activity have been proposed. However, quantifying multiple compensatory mechanisms and their dependence on specific pathophysiological mechanisms has proven challenging, even in computational models. We use simulation-based inference to quantify the interactions of putative compensatory mechanisms in a spiking neuronal network model. Various parameters of the model can compensate for the ",
-   "first_seen": "2026-10-30"
-  },
-  "https://elifesciences.org/articles/102095": {
-   "title": "Distinct gradients of cortical architecture capture visual representations and behavior across the lifespan",
-   "source": "eLife",
-   "published": "2026-10-30T00:00:00+00:00",
-   "summary": "The microstructure of cells within the human cerebral cortex varies across the cortical ribbon, where changes in cytoarchitecture and myeloarchitecture are thought to endow each region of the cortex with its unique function. While fine-scale relative to a cell, these changes at the population level impact architectural properties of the cortex measurable in vivo by noninvasive MRI, such as the thickness and myelin content of the cortex. This raises the question of whether or not we can use these in vivo architectural measures to understand cortical organization, function, and development more broadly. Using the human visual cortex as a test bed, we demonstrated two architectural gradients, o",
-   "first_seen": "2026-10-30"
-  },
-  "https://elifesciences.org/articles/108212": {
-   "title": "Oxytocin neurons signal state-dependent transitions from rest to thermogenesis and behavioral arousal",
-   "source": "eLife",
-   "published": "2026-10-30T00:00:00+00:00",
-   "summary": "Core body temperature (Tb) is defended within narrow limits through thermoregulatory behaviors like huddling, nesting, and physical activity, as well as autonomic responses like brown fat thermogenesis. While Tb displays regulated fluctuations across different behavioral states and rest/arousal cycles, the neural control of these transitions remains poorly understood. Here, we investigate the relationship between oxytocin neurons of the paraventricular hypothalamus (PVN OT ) and behavioral and autonomic thermoeffector pathways across physiological states in mice. First, we show that PVN OT neurons are activated during social thermoregulation. We then demonstrate that in vivo PVN OT calcium d",
-   "first_seen": "2026-10-30"
-  },
-  "https://elifesciences.org/articles/112062": {
-   "title": "Whole-brain mapping of spinal-projecting neurons in larval zebrafish",
-   "source": "eLife",
-   "published": "2026-10-29T00:00:00+00:00",
-   "summary": "To elicit voluntary movements and integrative reflexes underlying behavior, the brain sends command signals to the spinal cord via specialized long-range descending neurons, known as spinal-projecting neurons (SPNs). The vast and widespread distribution of SPNs, combined with their complex long-distance connectivity, poses a significant challenge for mapping their anatomical organization and associating specific populations with distinct functions. Here, we took advantage of the transparency and genetic accessibility of larval zebrafish to uncover the fundamental principles of SPN anatomical organization in a teleost. Using an optical backfilling method relying on photoactivable GFP, we gene",
-   "first_seen": "2026-10-30"
-  },
-  "https://arxiv.org/abs/2610.39704": {
-   "title": "Confidence Filtering in Video-Based Gait Assessment: Measurement Error versus Selection Shift",
-   "source": "arXiv q-bio.QM",
-   "published": "2026-10-30T04:00:00+00:00",
-   "summary": "arXiv:2610.39704v1 Announce Type: cross Abstract: Video-based gait assessment often keeps only high-confidence pose observations, which can lower measurement error but change the movement assessed. We compared confidence selection with budget-matched random selection in a Parkinson-related cohort (n = 96) and an NF2-related replication cohort (n = 18). In the Parkinson-related cohort, confidence selection produced a small but consistent shift in the observed movement summary (+0.05 SD, 95% CI 0.03 to 0.07), while held-out Mini-BESTest error stayed flat (-0.04 points, -0.13 to 0.05); a policy preserving motion-group proportions reduced the shift, while NF2 showed no shift and its predictor di",
-   "first_seen": "2026-10-30"
-  },
-  "https://arxiv.org/abs/2610.40167": {
-   "title": "Beyond $\\chi^2$: Ensemble null tests for reliable scientific discovery",
-   "source": "arXiv q-bio.QM",
-   "published": "2026-10-30T04:00:00+00:00",
-   "summary": "arXiv:2610.40167v1 Announce Type: cross Abstract: Unrecognized systematic errors can survive standard checks and undermine scientific discoveries. Null tests and experimental controls can expose these failures, but averaging measurements or reducing them to scalar statistics can hide important structure. We propose ensemble null tests that compare multivariate distributions with references from observations or simulations. We demonstrate their benefits across science. In cosmic microwave background simulations, they detect systematic effects missed by conventional $\\chi^2$ tests. In Gaia data, they detect velocity asymmetry as sensitively as an informed search. In a CRISPR screen, they expos",
-   "first_seen": "2026-10-30"
-  },
-  "https://arxiv.org/abs/2610.37994": {
-   "title": "Towards Generalizing Pretrained All-Atom Representations to Unified Binder Design",
-   "source": "arXiv cs.LG",
-   "published": "2026-10-30T04:00:00+00:00",
-   "summary": "arXiv:2610.37994v1 Announce Type: new Abstract: PairFormer-based all-atom models demonstrate strong capabilities in biomolecular binder design. However, existing methods often use all-atom representations for modality-specific binder design, such as protein and peptide design. In contrast, recent geometric latent diffusion models pursue unified binder design by representing molecular blocks from different modalities in a shared latent space. These complementary strengths motivate us to investigate how to generalize the use of pretrained all-atom representations to unified binder design. We introduce PairFuse, a parameter-efficient method that enables this generalization through representatio",
-   "first_seen": "2026-10-30"
-  },
-  "https://arxiv.org/abs/2610.38517": {
-   "title": "AtomSteer: Test-Time Constraint Steering for Atomistic Generative Models",
-   "source": "arXiv cs.LG",
-   "published": "2026-10-30T04:00:00+00:00",
-   "summary": "arXiv:2610.38517v1 Announce Type: new Abstract: Diffusion and flow matching models offer scalable approaches to generating crystalline materials, molecular conformers, and protein-ligand complexes. However, satisfying crystallographic symmetry, structural geometry, and accurate stereochemistry remains challenging. Satisfying these requirements calls for corrections that preserve the geometry already captured by the pretrained model. In this work, we propose AtomSteer, a test-time inference framework for steering pretrained atomistic generative models with structural constraints. During sampling, AtomSteer corrects intermediate structure predictions with bounded local projections, graph-rigid",
-   "first_seen": "2026-10-30"
-  },
-  "https://arxiv.org/abs/2610.39050": {
-   "title": "BASILISC: Bayesian Alignment of Siamese-Integrated Latents for Inferring Single-cell Correspondence",
-   "source": "arXiv cs.LG",
-   "published": "2026-10-30T04:00:00+00:00",
-   "summary": "arXiv:2610.39050v1 Announce Type: new Abstract: Single-cell assays study the genome one cell at a time. Unimodal assays measure one molecular layer, the newer multimodal assays measure several. Most data are single-modality, so integrating them relies on models trained on multimodal assays, where the cell correspondence across modalities is known. These models return a matching, but rarely a confidence measure. We present BASILISC (Bayesian Alignment of Siamese-Integrated Latents for Inferring Single-cell Correspondence), a framework for matching single-cell representations with uncertainty on the correspondence itself. A BASILISC model is a probabilistic siamese network over the two modalit",
-   "first_seen": "2026-10-30"
-  },
-  "https://arxiv.org/abs/2610.39891": {
-   "title": "TACFormer: Transformer-Based Generative Model for Target-Conditioned De Novo PROTAC Design",
-   "source": "arXiv cs.LG",
-   "published": "2026-10-30T04:00:00+00:00",
-   "summary": "arXiv:2610.39891v1 Announce Type: new Abstract: Targeted protein degradation (TPD) represents a fundamental shift in drug discovery, moving beyond traditional target inhibition toward the event-driven removal of disease-causing proteins. A prominent strategy for TPD is the use of proteolysis-targeting chimeras (PROTACs), heterobifunctional molecules that selectively route a protein of interest (POI) to the ubiquitin-proteasome system for degradation. While PROTAC design still relies heavily on trial-and-error synthesis and experimental testing, deep generative models offer a promising means to explore PROTAC chemical space in silico and generate novel molecules. However, many existing genera",
-   "first_seen": "2026-10-30"
-  },
-  "https://arxiv.org/abs/2610.39580": {
-   "title": "Learning Kolmogorov Backward Operators for Spectral Analysis and Forecasting: A Data-Driven Variational Galerkin Framework",
-   "source": "arXiv cs.LG",
-   "published": "2026-10-30T04:00:00+00:00",
-   "summary": "arXiv:2610.39580v1 Announce Type: cross Abstract: For a time-homogeneous Markov process, the fixed-lag solution operator \\( (T_\\tau f)(x)=\\mathbb E[f(X_{t+\\tau})\\mid X_t=x] \\) of the Kolmogorov backward equation evolves observables linearly and deterministically, even when the dynamics are stochastic. We approximate this operator using a two-stage method where we first approximate this operator directly from data, without knowledge of the governing equation (e.g., Fourier Neural Operator), and then compress the Galerkin projection onto a finite-dimensional observable space that is fixed in advance or selected variationally. The error analysis traces the learning error of the estimator, the s",
-   "first_seen": "2026-10-30"
-  },
-  "https://arxiv.org/abs/2610.20906": {
-   "title": "Task-Centric Multimodal Learning for Cognitive Impairment Detection",
-   "source": "arXiv cs.LG",
-   "published": "2026-10-30T04:00:00+00:00",
-   "summary": "arXiv:2610.20906v2 Announce Type: replace Abstract: Dementia affects millions of older adults worldwide, yet early detection remains difficult outside clinical settings. Traditional models primarily rely on text or voice-based responses, capturing only a limited view of human cognition despite the inherently multimodal nature of human expression. This work proposes a contactless, multimodal screening framework that leverages video, audio, and text signals collected during structured voice-based interactions with Amazon Alexa. By incorporating these modalities, our approach captures a more holistic representation of human behavior encompassing speech patterns, vocal characteristics, facial ex",
-   "first_seen": "2026-10-30"
-  },
-  "https://arxiv.org/abs/2603.22399": {
-   "title": "Latent Style-based Quantum Wasserstein GAN for Drug Design",
-   "source": "arXiv cs.LG",
-   "published": "2026-10-30T04:00:00+00:00",
-   "summary": "arXiv:2603.22399v2 Announce Type: replace-cross Abstract: The development of new drugs is a time-consuming and expensive process, with average costs estimated to be up to around $2.5 billion. The first step in this process is the design of the new drug, for which de novo drug design, assisted by artificial intelligence, has blossomed in recent years and has revolutionized the field. In particular, generative artificial intelligence has delivered promising results in drug discovery and development, reducing costs and time to solution. However, classical generative models, such as generative adversarial networks (GANs), can be difficult to train and are prone to mode collapse. Quantum computin",
-   "first_seen": "2026-10-30"
-  },
-  "https://arxiv.org/abs/2610.04510": {
-   "title": "ManifoldCache: Training-Free Diffusion Acceleration via Constraint Manifold Caching",
-   "source": "arXiv cs.LG",
-   "published": "2026-10-30T04:00:00+00:00",
-   "summary": "arXiv:2610.04510v2 Announce Type: replace-cross Abstract: Diffusion models for structured scientific generation must produce samples satisfying hard geometric constraints imposed by physics, chemistry, or biology, yet inference in these settings is prohibitively slow, demanding hundreds to thousands of neural-function evaluations per sample. We unify eight state-of-the-art models spanning medical volumetrics, molecular conformations, protein backbone design, crystal structure prediction, and multi-view 3D scenes under a single abstraction, Constraint-Manifold Diffusion Models (CMDMs), in which the target distribution is supported on a manifold defined by an externally specified constraint ma",
-   "first_seen": "2026-10-30"
-  },
-  "https://www.science.org/doi/abs/10.1126/science.aeb9095?af=R": {
-   "title": "Intrinsic gestational timing governs human cerebellar development after preterm birth",
-   "source": "Science",
-   "published": "2026-10-29T06:00:08+00:00",
-   "summary": "Science, Volume 394, Issue 6823, Page 549-555, October 2026.",
-   "first_seen": "2026-10-30"
-  },
-  "https://www.science.org/doi/abs/10.1126/science.aed2525?af=R": {
-   "title": "Stimulated protein degradation to promote mitochondrial function and neuronal survival",
-   "source": "Science",
-   "published": "2026-10-29T07:00:00+00:00",
-   "summary": "Science, Volume 394, Issue 6823, October 2026.",
-   "first_seen": "2026-10-30"
-  },
-  "https://www.science.org/doi/abs/10.1126/science.aeg1125?af=R": {
-   "title": "Whole-body single-cell atlas of an adult vertebrate, Danionella cerebrum",
-   "source": "Science",
-   "published": "2026-10-29T07:00:00+00:00",
-   "summary": "Science, Volume 394, Issue 6823, October 2026.",
-   "first_seen": "2026-10-30"
-  },
-  "https://www.science.org/doi/abs/10.1126/science.aem4864?af=R": {
-   "title": "Untangling time and prematurity in brain development",
-   "source": "Science",
-   "published": "2026-10-29T06:00:08+00:00",
-   "summary": "Science, Volume 394, Issue 6823, Page 485-486, October 2026.",
-   "first_seen": "2026-10-30"
-  },
-  "https://www.cell.com/cell/fulltext/S0092-8674(26)01198-0?rss=yes": {
-   "title": "Guardians at the gate: cMAF keeps the brain’s vasculature in check",
-   "source": "Cell",
-   "published": "2026-10-29T00:00:00+00:00",
-   "summary": "In this issue of Cell, Brioschi et al. identify cellular musculoaponeurotic fibrosarcoma (cMAF) as a key regulator of brain perivascular macrophages that supports cerebrovascular function through insulin-like growth factor 1 (IGF1) production. This cMAF-IGF1 program is enhanced in Alzheimer’s disease (AD), potentially reflecting a protective response that is lost in APOE4 carriers.",
-   "first_seen": "2026-10-30"
-  },
-  "https://www.cell.com/cell-reports/fulltext/S2211-1247(26)01285-4?rss=yes": {
-   "title": "ALS-linked FUS mutation impairs GEMIN5-dependent mRNA recruitment to neuronal late endosomes",
-   "source": "Cell Reports",
-   "published": "2026-10-29T00:00:00+00:00",
-   "summary": "Setti, Stufera Mecarelli et al. report that RAB7A-positive endosomes selectively load mRNAs enriched for axonal-synaptic functions in motor neurons. This process is mediated by GEMIN5, which promotes endosomal recruitment by binding 5′UTR sequences. Endosome-mediated RNA transport is disrupted by the ALS-associated FUSP525L mutation, highlighting a novel vulnerable axis in neurodegeneration.",
-   "first_seen": "2026-10-30"
-  },
-  "https://www.biorxiv.org/content/10.64898/2026.10.26.761842v1?rss=1": {
-   "title": "The Alzheimer's disease-associated rs28834970 variant in PTK2B impairs electrical activity and regulates Tau phosphorylation and APP processing in human neuronal cultures",
-   "source": "bioRxiv Genetics",
-   "published": "2026-10-30T00:00:00+00:00",
-   "summary": "Background: Genome-wide association studies have identified the PTK2B gene, which encodes Proline-rich tyrosine kinase 2 (PYK2), as a genetic risk factor for Alzheimer's disease (AD). However, its role in AD aetiology remains to be understood, as a complex contribution to amyloid {beta} (A{beta}) toxicity, tauopathy and neuronal dysfunction is suggested by contradictory evidence. Determining how the causal variant among AD-associated PTK2B variants impairs PYK2 function to trigger AD hallmarks could bring clarification. Methods: We combined in silico prediction tools with luciferase reporter assays in neuroblastoma cells to prioritize potential AD-associated PTK2B functional variants. We gen",
-   "first_seen": "2026-10-30"
-  },
-  "https://www.biorxiv.org/content/10.64898/2026.10.28.762573v1?rss=1": {
-   "title": "STRIPAK associates with Rabex5-Rabaptin5 to promote Rab5-dependent early endosome formation and EGFR transport",
-   "source": "bioRxiv Cell Biology",
-   "published": "2026-10-30T00:00:00+00:00",
-   "summary": "His Domain Protein Tyrosine Phosphatase (HD-PTP) is required for multivesicular body (MVB) formation and endosome maturation, with Rab5-GTP levels raised upon HD-PTP depletion (Parkinson et al., 2021. doi: 10/1242/jcs.259192). Mass Spectrometry-based interactomics revealed that HD-PTP depletion increased association of Rabaptin5, a component of the early endosome Rabex5-Rabaptin5 Rab5-GEF, with multiple components of STRIPAK (striatin-interacting phosphatase and kinase). Native IPs and co-expression studies confirmed association between STRIPAK and Rabex5-Rabaptin5, including Strip1-Rabex5 and SLMAP-Rabaptin5 interactions. Consistent with functional Rabaptin5-STRIPAK links, co-depletion of S",
-   "first_seen": "2026-10-30"
-  },
-  "https://www.biorxiv.org/content/10.64898/2026.10.27.760061v1?rss=1": {
-   "title": "COG5-mediated Golgi organization coordinates neural progenitor fate during human brain development",
-   "source": "bioRxiv Cell Biology",
-   "published": "2026-10-29T00:00:00+00:00",
-   "summary": "Apical radial glial cells (aRGs) are highly polarized epithelial cells that drive human cortical development through tightly regulated lineage progression. A distinctive feature of aRGs is their non-canonical Golgi organization, raising the possibility that specialized intracellular trafficking and secretory processes contribute to progenitor behaviour. However, how Golgi architecture contributes to human corticogenesis remains poorly understood. Here, we investigate this question in the context of COG5 deficiency, a rare congenital disorder of glycosylation associated with neurodevelopmental defects, using patient-derived fibroblasts and brain organoids, N-glycomics, glycolipidomics, and si",
-   "first_seen": "2026-10-30"
-  },
-  "https://www.biorxiv.org/content/10.64898/2026.10.28.762664v1?rss=1": {
-   "title": "Single-nucleus transcriptomics links telencephalic cell signatures to ocean acidification effects on social behaviour in a coral reef fish",
-   "source": "bioRxiv Molecular Biology",
-   "published": "2026-10-30T00:00:00+00:00",
-   "summary": "Mutualistic interactions are fundamental to the health and stability of reef ecosystems. While elevated CO2 has been implicated in impairments in interaction behaviours, how this environmental change alters cellular states and intercellular communication in the brain remains unresolved. Here, by analysing the single-nucleus RNA profile of ~66,000 telencephalic nuclei from a keystone mutualist, the cleaner wrasse (Labroides dimidiatus), interacting under ambient or elevated CO2 conditions, we identify highly cell type specific neural responses to elevated CO2. We highlight a substantial depletion in Oligodendrocyte Precursor Cells (OPCs), notably linked to oligodendrocyte myelination and neur",
-   "first_seen": "2026-10-30"
-  },
-  "https://www.biorxiv.org/content/10.64898/2026.10.28.762406v1?rss=1": {
-   "title": "Carboxymethyl Dextran Coated Iron Oxide Magnetic Nanoparticles as Vehicles for CRISPR Ribonucleoproteins",
-   "source": "bioRxiv Molecular Biology",
-   "published": "2026-10-29T00:00:00+00:00",
-   "summary": "The efficient and safe intracellular delivery of CRISPR ribonucleoproteins (RNPs) remains a major challenge for the development of genome editing strategies. Magnetic iron oxide nanoparticles (MNPs) offer an attractive and biocompatible delivery platform. However, their use for the delivery of functional CRISPR RNPs remains comparatively underexplored. Here, we developed carboxymethyl dextran (CMD)-coated MNPs as non-viral carriers for Cas9 and Cas12a RNPs. Nanocomplexes were formed through electrostatic interactions, without the need for chemical coupling reagents or additional surface functionalization. Both RNPs efficiently associated with MNPs, and the resulting nanocomplexes exhibited s",
-   "first_seen": "2026-10-30"
-  },
-  "https://www.biorxiv.org/content/10.64898/2026.10.23.761370v1?rss=1": {
-   "title": "IG-28 enables identification and quantification of high-confidence isoforms from large bulk and single-cell full-length cDNA datasets",
-   "source": "bioRxiv Bioinformatics",
-   "published": "2026-10-29T00:00:00+00:00",
-   "summary": "The technology to sequence full-length transcriptomes from bulk and single-cell samples has rapidly advanced. As a result, full-length cDNA datasets now reach billions of reads in size which is beyond the capability of most established isoform identification tools. Here, we introduce IG-28 which addresses this challenge with its capability to process and analyze large fl-cDNA datasets fast and using minimal computational resources. In contrast to its predecessor Mandalorion, IG-28 is not limited to bulk fl-cDNA but is capable of parsing, processing, and analyzing single-cell fl-cDNA datasets. It does so in a lightweight, flexible manner, integrating seamlessly with established scRNA-seq anal",
-   "first_seen": "2026-10-30"
-  },
-  "https://www.biorxiv.org/content/10.64898/2026.10.28.762506v1?rss=1": {
-   "title": "Agentic Discovery Transfer Enables Cross-Cancer Discovery at Scale",
-   "source": "bioRxiv Bioinformatics",
-   "published": "2026-10-29T00:00:00+00:00",
-   "summary": "Cancer research generates tens of thousands of studies each year, yet whether a published finding holds in another cancer type or patient population is rarely tested, because doing so is labor-intensive and difficult to scale. We define this task as discovery transfer and present SMART, a multi-agent large language model framework for discovery transfer in single-cell RNA-sequencing (scRNA-seq) studies. Given a source manuscript and a target scRNA-seq dataset, SMART extracts major clinical and mechanistic findings, generates and executes analyses for the testable findings, and reports which findings transfer and suggests follow-up. Applied to 121 studies across six cancer types, SMART identi",
-   "first_seen": "2026-10-30"
-  },
-  "https://www.biorxiv.org/content/10.64898/2026.10.28.762238v1?rss=1": {
-   "title": "Scooby-2: fine-tuning AlphaGenome for single-cell genomic track prediction",
-   "source": "bioRxiv Bioinformatics",
-   "published": "2026-10-29T00:00:00+00:00",
-   "summary": "Sequence-to-function models predict genomic tracks from DNA sequence. AlphaGenome has been shown to outperform previous models, including Borzoi, on most track-prediction and variant-effect benchmarks. However, like its predecessors, it predicts tracks only for predefined, mostly bulk-derived cell types and tissues. While Scooby has extended Borzoi to single-cell resolution, a single-cell adaptation of AlphaGenome is still lacking. We present Scooby-2, which combines AlphaGenome with a cell-specific decoder to predict single-cell RNA-seq coverage and chromatin-accessibility genomic tracks from DNA sequence. The package provides the implementation, the parameter-efficient fine-tuning setup, t",
-   "first_seen": "2026-10-30"
-  },
-  "https://arxiv.org/abs/2610.37919": {
-   "title": "SciGame: Let Agents Play the Scientific Discovery Games in the Real and Counterfactual World",
-   "source": "arXiv cs.AI",
-   "published": "2026-10-30T04:00:00+00:00",
-   "summary": "arXiv:2610.37919v1 Announce Type: new Abstract: Large language model agents are increasingly used for scientific discovery. However, existing benchmarks mix law inference with programming, score data fitting instead of prediction on unseen inputs, and do not separate empirical evidence from pretrained priors. We introduce SciGame, a controlled benchmark that converts scientific literature into structured scientific cards. Each card yields a pair of Original and dimensionally consistent Counterfactual environments with the same task interface. SciGame contains a Historical collection of canonical laws and a live Temporal collection curated from papers published after model knowledge cutoffs. ",
-   "first_seen": "2026-10-30"
-  },
-  "https://arxiv.org/abs/2610.40556": {
-   "title": "Advancing Clinical Genomic Analysis with a Skill-Centred Agent",
-   "source": "arXiv cs.AI",
-   "published": "2026-10-30T04:00:00+00:00",
-   "summary": "arXiv:2610.40556v1 Announce Type: new Abstract: Clinical genomic analysis requires experts to integrate evolving guidelines, databases, and computational evidence. As sequencing has become increasingly accessible, this complex and labor-intensive process has become a major bottleneck to the timely use of genomic information in clinical decision-making. To fill this gap, we developed ClinGeX, a large-language-model agent that composes 105 curated executable skills through task-specific retrieval and dependency-aware orchestration. On 223 temporally held-out benchmark cases, ClinGeX achieved 71.7\\% macro-averaged task-level concordance with expert reference classifications, compared with 45.7\\",
-   "first_seen": "2026-10-30"
-  },
-  "https://arxiv.org/abs/2610.38850": {
-   "title": "Autonomous Quantum Measurement with Agentic AI",
-   "source": "arXiv cs.AI",
-   "published": "2026-10-30T04:00:00+00:00",
-   "summary": "arXiv:2610.38850v1 Announce Type: cross Abstract: Quantum materials exhibit diverse electronic and functional phenomena, but their characterization requires extensive experimental expertise, iterative decision-making and accumulated laboratory knowledge that is difficult to document and transfer. Here we introduce Quantum Agent (QUANTA), an agentic artificial intelligence (AI) framework for autonomous quantum-materials characterization. Using a widely adopted Physical Property Measurement System (PPMS) as an experimental platform, QUANTA combines retrieval augmentation using scientific literature, experimental protocols and prior measurements with specialized agents for experimental planning",
-   "first_seen": "2026-10-30"
-  },
   "https://www.biorxiv.org/content/10.64898/2026.10.29.762784v1?rss=1": {
    "title": "Multimodal profiling and intersectional genetics reveal CA1 border inhibitory neuron diversity and postnatal emergence of retrosplenial connectivity",
    "source": "bioRxiv Neuroscience",
@@ -8616,61 +8084,460 @@
    "published": "2026-11-13T00:00:00+00:00",
    "summary": "Nature Communications, Published online: 13 November 2026; doi:10.1038/s41467-026-79500-x Neurons initially adapt to mitochondrial damage, but why this defence fails is unclear. Here, the authors show that TSPO maintains glutamate-supported mitochondrial energy production in parkin-deficient neurons, and loss of this defence marks the transition from adaptation to neurodegeneration.",
    "first_seen": "2026-11-13"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.11.12.766275v1?rss=1": {
+   "title": "Microglial Stim1/Stim2 deletion reduces calcium signaling but promotes infarct expansion after ischemic stroke",
+   "source": "bioRxiv Neuroscience",
+   "published": "2026-11-13T00:00:00+00:00",
+   "summary": "Microglia respond to ischemic stroke with calcium transients carried by calcium release-activated calcium (CRAC) channels, gated by the endoplasmic reticulum sensors Stim1 and Stim2. Since CRAC signaling drives pro-inflammatory responses in immune cells, blocking it in microglia should protect the ischemic brain. We have examined this hypothesis in 15-month-old mice lacking Stim1 and Stim2 in microglia (Cx3cr1-CreERT2; Stim cKO). In vivo two-photon imaging confirmed that cKO microglia produced one-third smaller calcium transients during cortical spreading depolarizations. We then followed distal middle cerebral artery occlusion (dMCAo) with multiparametric MRI at 9.4 T. Six hours after occlu",
+   "first_seen": "2026-11-14"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.11.12.766160v1?rss=1": {
+   "title": "Inactivation of tissue-nonspecific alkaline phosphatase reduces phosphatidylcholine amounts in the brain of infant mice",
+   "source": "bioRxiv Neuroscience",
+   "published": "2026-11-13T00:00:00+00:00",
+   "summary": "Hypophosphatasia is a rare disease caused by dysfunctions of tissue-nonspecific alkaline phosphatase (TNAP). TNAP is expressed in numerous tissues, notably the brain, and patients with hypophosphatasia exhibit neurological symptoms, including epilepsy in the most severe forms of the disease. TNAP knockout (KO) mouse models have provided a wealth of information regarding TNAP functions. Specifically, metabolomic studies focusing on the aqueous fraction of the brain of TNAP KO mice identified numerous molecules whose amounts were altered as a direct or indirect consequence of TNAP inactivation. Among these molecules, several are involved either directly (e.g., vitamin B6) or indirectly (e.g., ",
+   "first_seen": "2026-11-14"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.11.11.765971v1?rss=1": {
+   "title": "Nucleus reuniens gates selective hippocampal-prefrontal interactions during NREM sleep",
+   "source": "bioRxiv Neuroscience",
+   "published": "2026-11-13T00:00:00+00:00",
+   "summary": "Memory consolidation requires functional synchrony between the hippocampus (HC) and the medial prefrontal cortex (mPFC). The nucleus reuniens (RE) is a structural and functional hub between HC and mPFC. Here, we used in vivo electrophysiology to monitor the hippocampal-thalamic-prefrontal network in rats during non-rapid eye movement (NREM) sleep. We identified ripple-like activity in the RE (120 Hz peak frequency, 45 ms oscillatory duration) that occurred most frequently during NREM sleep and was associated with robust recruitment of thalamic neural spiking. RE ripple activity was phase-locked to both hippocampal sharp wave-ripples (SWR) and mPFC ripples. Although ripples were independently",
+   "first_seen": "2026-11-14"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.11.12.766143v1?rss=1": {
+   "title": "Repeated self-administered EEG recordings enable longitudinal measurement of brain activity at home",
+   "source": "bioRxiv Neuroscience",
+   "published": "2026-11-13T00:00:00+00:00",
+   "summary": "Mobile electroencephalography (EEG) offers new opportunities to investigate brain activity outside the laboratory, but the quality and reliability of self-administered recordings remain important concerns. Here, we evaluated whether repeated at-home recordings using a four-channel consumer EEG device could provide meaningful electrophysiological measurements and characterized the stability of these measures across sessions. Five participants completed repeated recordings across multiple days, including resting-state measurements and an auditory oddball task performed with and without concurrent cognitive load. The recordings captured established spectral signatures of physiological state and",
+   "first_seen": "2026-11-14"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.11.11.765993v1?rss=1": {
+   "title": "Electrophysiology of multisite direct electrical stimulation in the human brain",
+   "source": "bioRxiv Neuroscience",
+   "published": "2026-11-13T00:00:00+00:00",
+   "summary": "Human cognition and neurological disorders reflect properties of distributed networks, yet how best to engage these networks therapeutically remains unknown. Multisite stimulation is a principled strategy for engaging brain networks, but a key translational barrier is understanding how a network combines concurrent inputs from multiple nodes. Here, we investigated the electrophysiology of simultaneous multisite direct electrical stimulation in 20 participants implanted with stereo-EEG electrodes. Synchronized dual-site stimulation engaged a larger effective network than single-site stimulation. Linear superposition explained most responses, but distinct nonlinear responses were also observed",
+   "first_seen": "2026-11-14"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.11.11.766020v1?rss=1": {
+   "title": "Amyloidosis and tauopathy progressively disrupt near-critical dynamics in selectively vulnerable circuits",
+   "source": "bioRxiv Neuroscience",
+   "published": "2026-11-13T00:00:00+00:00",
+   "summary": "Mechanistically distinct neurodegenerative diseases result in similar cognitive deficits, and pathology is often concentrated in a set of circuits known to be selectively vulnerable. Selective vulnerability is an intrinsic property of a circuit: in APP/PS1 mice, where plaques are global, functional disruptions are confined to circuits within the default mode network. What characterizes the dynamics of vulnerable circuits from those of spared circuits is unknown. We asked whether the distinguishing property is the proximity of population dynamics to criticality, a homeostatic set-point of network activity that determines computational capacity. We recorded single units simultaneously in three",
+   "first_seen": "2026-11-14"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.11.11.766000v1?rss=1": {
+   "title": "Satellite glial translatome reprograms to favor mitochondrial and vesicular signaling under pelvic pain conditions",
+   "source": "bioRxiv Neuroscience",
+   "published": "2026-11-13T00:00:00+00:00",
+   "summary": "Sensory satellite glial cells actively contribute to inflammatory and neuropathic pain, but their roles in pelvic pain remain unclear. This study examined how the active translating mRNAs in sensory SGCs change during pelvic pain symptoms using translating ribosome affinity purification followed by RNA sequencing (TRAP-seq) in a chronic pelvic pain (CPP) mouse model. Our data showed that SGCs exhibit sex-specific translatome patterns at baseline, which were reprogrammed in CPP conditions under the control of eukaryotic translation initiation factor 4E (Eif4e). In CPP conditions, sensory SGCs exhibit increased translation of mitochondrial and vesicular genes and suppression of immune genes in",
+   "first_seen": "2026-11-14"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.11.11.765947v1?rss=1": {
+   "title": "A Variational Principle for the Emergence of Neural Geometry Underlying Bayesian-Like Behavior",
+   "source": "bioRxiv Neuroscience",
+   "published": "2026-11-13T00:00:00+00:00",
+   "summary": "Neural population geometry constrains how task variables are represented and read out into behavior. We propose a variational principle in which learning balances task accuracy and representational smoothness under stimulus-dependent weighting. This balance links stimulus statistics to the shape of a latent neural coordinate. For magnitude estimation, the principle predicts distortions near the edges of bounded ensembles, global affine contraction for Gaussian ensembles, and warping toward high-probability regions for bimodal ensembles. We test the bounded-uniform case in recurrent neural networks trained to reproduce time intervals. Their learned geometries occupy three regimes as the bound",
+   "first_seen": "2026-11-14"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.11.12.766291v1?rss=1": {
+   "title": "Zdhhc17/Hip14 functions in neurons to control behavior via DHHC-dependent and independent mechanisms",
+   "source": "bioRxiv Neuroscience",
+   "published": "2026-11-13T00:00:00+00:00",
+   "summary": "To navigate a complex sensory environment, animals filter out inconsequential sensory inputs and habituate to familiar stimuli. By establishing innate response thresholds and modifying them through habituation, animals can focus on key sensory stimuli while ignoring irrelevant ones. Huntingtin-interacting protein 14 (Hip14), also known as zDHHC17, is a palmitoyl acyltransferase (PAT) that regulates both of these sensory filtering processes. Larval zebrafish lacking Hip14 are hypersensitive to acoustic stimuli and cannot regulate their responses to repeated acoustic stimuli via habituation. Yet how Hip14 regulates these behaviors, and whether it does so through different mechanisms, is unknow",
+   "first_seen": "2026-11-14"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.11.12.766118v1?rss=1": {
+   "title": "Neural dynamics track the approach to physical exhaustion",
+   "source": "bioRxiv Neuroscience",
+   "published": "2026-11-13T00:00:00+00:00",
+   "summary": "Physical exhaustion has long been described through its cardiorespiratory and metabolic cost, while the neural dynamics of its approach remain largely unexplored. Here we recorded high-density electroencephalography in 28 trained cyclists during a maximal incremental test to characterise how neural dynamics change towards exhaustion. As physiological strain rose, oscillatory power shifted to lower frequencies, neural activity became more regular and predictable, and functional coupling extended to longer timescales. Participant-specific models built on neural dynamics tracked proximity to exhaustion with accuracy comparable to cardiorespiratory measures. Over the final minutes, neural featur",
+   "first_seen": "2026-11-14"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.11.12.766132v1?rss=1": {
+   "title": "Neuronal Aralar/AGC1 deficiency impairs social behavior through dopaminergic and redox dysfunction and is rescued by β-hydroxybutyrate",
+   "source": "bioRxiv Neuroscience",
+   "published": "2026-11-13T00:00:00+00:00",
+   "summary": "Background: Pathogenic variants in SLC25A12/AGC1 (Aralar) have been linked to autism spectrum disorder (ASD), yet the mechanisms connecting neuronal metabolic dysfunction to altered social behavior remain poorly understood. Aralar is a key component of the malate-aspartate shuttle, supporting neuronal oxidative metabolism and lactate utilization. Here, we investigated the consequences of postnatal neuronal Aralar deletion and the therapeutic potential of {beta}-hydroxybutyrate (BHB). Methods: We generated neuron-specific Aralar knockout mice (Neu Aralar-KO) using CamKII-Cre, producing efficient recombination in cortex, hippocampus, and striatum. Behavioral, transcriptomic, neurochemical, mor",
+   "first_seen": "2026-11-14"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.11.11.765968v1?rss=1": {
+   "title": "TRACE: Trajectory Reconstruction and Clustering From Sparse Evidence For Disease Subtyping and Staging",
+   "source": "bioRxiv Neuroscience",
+   "published": "2026-11-13T00:00:00+00:00",
+   "summary": "Chronic progressive diseases often follow heterogeneous courses, with individuals differing in the pattern and timing of biomarker abnormalities. However, observed data are typically sparse and predominantly cross-sectional, with limited follow-up covering only short segments of disease progression. Reconstructing heterogeneous trajectories from such data requires disentangling variation along disease trajectories from subtype heterogeneity while inferring individuals' unknown subtype assignments and disease stages. Existing approaches may confound disease stage with subtype, scale poorly as the number of biomarkers increases, or fail to effectively integrate cross-sectional and longitudinal",
+   "first_seen": "2026-11-14"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.11.11.765847v1?rss=1": {
+   "title": "Selective ultrasonic suppression of pathological brain hyperactivity via an endogenous CAV3-NCX1 axis",
+   "source": "bioRxiv Neuroscience",
+   "published": "2026-11-13T00:00:00+00:00",
+   "summary": "Selective suppression of pathological hyperactivity is a major therapeutic challenge across brain disorders. Ultrasound stimulation can modulate neural activity, yet the molecular basis of its inhibitory effects and its ability to selectively inhibit hyperactive rather than basally active cells remain unclear. Here, we identify the caveolin-3 (CAV3)-sodium-calcium exchanger-1 (NCX1) complex as a previously unknown mediator of state-dependent ultrasound-induced neural inhibition. Prolonged ultra-low-intensity ultrasound stimulation engages NCX1-mediated Ca2+ extrusion in hyperactive neurons and astrocytes, sparing cells with basal activity. NCX1 is both necessary and sufficient for this inhib",
+   "first_seen": "2026-11-14"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.11.11.766003v1?rss=1": {
+   "title": "Non-invasive temporal interference stimulation targeting the hippocampus enhances fast motor memory consolidation",
+   "source": "bioRxiv Neuroscience",
+   "published": "2026-11-13T00:00:00+00:00",
+   "summary": "Converging neuroimaging evidence indicates that the hippocampus is involved in motor sequence learning (MSL) and its consolidation at multiple timescales. However, direct evidence for a causal role of the hippocampus in these processes in healthy humans remains scarce, partly due to the inability of conventional non-invasive brain stimulation techniques to reach this deep brain structure. Here, we used temporal interference stimulation (TIS) - a technique enabling non-invasive stimulation targeted toward deep brain regions - to probe the functional role of the hippocampus in MSL and its consolidation. In two separate experiments, sixty-four young healthy adults (36 females) received, in with",
+   "first_seen": "2026-11-14"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.11.11.765955v1?rss=1": {
+   "title": "State-Dependent Stimulation for Seizure Termination in a Morris-Lecar Network: A Reinforcement Learning Approach",
+   "source": "bioRxiv Neuroscience",
+   "published": "2026-11-13T00:00:00+00:00",
+   "summary": "The efficacy of neurostimulation for seizure termination depends not only on the stimulus itself but also on the dynamical state of the epileptic network. Here, we develop a dynamical-systems-informed reinforcement-learning framework that learns when to deliver a predefined pulse to terminate seizure-like activity. We simulate a sparsely connected network of 100 extended three-dimensional Morris-Lecar neurons. Bifurcation analysis of the single-neuron model identifies bistable regimes and provides a mechanistic basis for considering transitions between resting and oscillatory activity. The learning agent uses semi-gradient Q-learning with tile coding and receives a two-dimensional time-delay",
+   "first_seen": "2026-11-14"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.11.11.765942v1?rss=1": {
+   "title": "Combining non-linear and spectral cardiac variability metrics differentiates rat alcohol drinking with and without challenge",
+   "source": "bioRxiv Neuroscience",
+   "published": "2026-11-13T00:00:00+00:00",
+   "summary": "Alcohol Use Disorder (AUD) remains a substantial global challenge, with notable individual and sex differences. Heart rate variability (HRV) offers a potential link into the autonomic system underlying alcohol drinking. While simpler, time-domain HRV metrics have been explored, non-linear indicators could provide unique insights into more complex states like compulsive drinking, intake that persists despite negative consequences. We examined heart rate traces from male and female rats during intake of alcohol-only and alcohol+10mg/L quinine, a putative compulsive drinking model. In particular, we re-analyzed previously published findings, but newly focused on several non-linear HRV metrics: ",
+   "first_seen": "2026-11-14"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.11.12.766099v1?rss=1": {
+   "title": "Impaired cholinergic modulation of striatal spiny projection neurons in repetitive behaviors associated with TSHZ3-linked autism spectrum disorder",
+   "source": "bioRxiv Neuroscience",
+   "published": "2026-11-13T00:00:00+00:00",
+   "summary": "Alterations in central cholinergic systems are implicated in autism spectrum disorder (ASD). We previously identified TSHZ3 as an ASD-linked gene and provided evidence, from transgenic mouse models, supporting the view that striatal cholinergic interneurons (SCINs) are key players in the core ASD trait represented by repetitive behaviors (RBs). Indeed, conditional deletion of Tshz3 in cholinergic neurons (Chat-cKO model) results in RBs associated with reduced SCIN firing activity and decreased striatal cholinergic tone. Here we tackled the resulting adaptations in the striatal circuitry underlying RBs in Chat-cKO, focusing on the two populations of striatal projection neurons (SPNs) that exp",
+   "first_seen": "2026-11-14"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.11.11.765952v1?rss=1": {
+   "title": "Direction of oscillatory networks in the human medial temporal lobe reverses across verbal working memory phases",
+   "source": "bioRxiv Neuroscience",
+   "published": "2026-11-13T00:00:00+00:00",
+   "summary": "Working memory (WM) requires neural circuits to change how they interact as information is encoded, maintained and used. Directional oscillatory interactions in the medial temporal lobe (MTL) contribute to memory processing, but how these interactions are spatially organized during verbal WM remains unclear. Here, we analyzed intracranial electroencephalogram and neuronal spiking recorded from the human MTL during a verbal Sternberg task. Theta- and gamma-band activities in MTL showed predominant directionality in the posterior-to-anterior axis during WM encoding, but this direction was reversed to anterior-to-posterior during retrieval. Theta activities reflecting the WM load were more prev",
+   "first_seen": "2026-11-14"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.11.11.765960v1?rss=1": {
+   "title": "Daily light exposure differences between extreme chronotypes persist after alignment to habitual sleep timing",
+   "source": "bioRxiv Neuroscience",
+   "published": "2026-11-13T00:00:00+00:00",
+   "summary": "Purpose: Morning and evening chronotypes may receive light at different clock times, thereby providing differently timed signals to the circadian pacemaker. Prior studies have suggested phase-specific exposure patterns that could counter further advances in early types and delays in late types. We examined whether photoperiod modifies these exposure patterns in a way that could reasonably counteract timing extremes. Methods: We analysed near-eye melanopic equivalent daylight illuminance (EDI) in 140 participants from an international cohort across seven countries (778 participant-days; 35,949 half-hour observations). We compared four quartiles of midsleep on free days corrected for sleep deb",
+   "first_seen": "2026-11-14"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.11.11.766005v1?rss=1": {
+   "title": "The Xist locus on the X chromosome of males regulates cognition and metabolism despite minimal expression",
+   "source": "bioRxiv Neuroscience",
+   "published": "2026-11-13T00:00:00+00:00",
+   "summary": "The long non-coding RNA Xist is the master regulator of X chromosome inactivation (XCI) in females, but its functional significance in males, where Xist expression is normally minimal, is unknown. Here we investigated whether the Xist locus influences male physiology and brain function across the lifespan using mice carrying a targeted Xist deletion ({Delta}Xist). Xist deletion produced a small further reduction in the very low, residual Xist signal in aged male hippocampus. Metabolically, Xist deletion lowered fasting blood glucose in old, not young, males, without affecting body weight. In the brain, Xist deletion modestly improved spatial memory at 24 hours in the Morris water maze in you",
+   "first_seen": "2026-11-14"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.11.11.765944v1?rss=1": {
+   "title": "Single-nucleus RNA-seq atlas of 5xFAD mouse brain maps cell-type-specific transcriptional disruption and preferential rolipram rescue in VIP interneurons",
+   "source": "bioRxiv Neuroscience",
+   "published": "2026-11-13T00:00:00+00:00",
+   "summary": "Background: Alzheimer's disease is characterized by progressive synaptic dysfunction and inhibitory circuit disruption across multiple brain cell types. Rolipram, a selective phosphodiesterase 4 (PDE4) inhibitor that elevates intracellular cyclic AMP (cAMP), activates proteasome, and produces robust procognitive effects in AD mouse models. Still, the cell-type-specific transcriptional mechanisms underlying these effects remain uncharacterized. Methods: We profiled 29,664 nuclei from 5xFAD and wild-type (WT) mouse right hemisphere across four conditions: WT Vehicle, WT Rolipram, 5xFAD Vehicle, and 5xFAD Rolipram (0.03 mg/kg/day, 30-day subcutaneous osmotic pump) using the Parse Biosciences Ev",
+   "first_seen": "2026-11-14"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.11.12.766276v1?rss=1": {
+   "title": "Probabilistic mapping of brain connections without random sampling",
+   "source": "bioRxiv Neuroscience",
+   "published": "2026-11-13T00:00:00+00:00",
+   "summary": "For two decades, most tractography has mapped brain connections by sampling millions of pathways probabilistically. Sampling makes results non-deterministic and costly to store. We show that it is unnecessary: modeling tractography as an absorbing Markov chain gives the expected result of infinitely many streamlines. This approach is more reliable than streamline-based tractography across test--retest scans. It readily maps tracts in clinical-grade data and neonates, around tumors and along small pathways. MPAT is available as open-source software at https://github.com/rokemlab/mpat .",
+   "first_seen": "2026-11-14"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.11.12.766152v1?rss=1": {
+   "title": "State-dependent structure-function coupling reflects dynamic engagement of the brain's structural scaffold",
+   "source": "bioRxiv Neuroscience",
+   "published": "2026-11-13T00:00:00+00:00",
+   "summary": "Functional brain organization is shaped by the brain's anatomical scaffold, yet how structure-function coupling varies across cognitive states remains unclear. Across 723 adults from two independent cohorts, we examined coupling using diffusion and functional magnetic resonance imaging. In the primary cohort, coupling was strongest during movie-watching, intermediate during rest, and weakest during working memory, declining further with increasing working-memory load. The movie-rest difference replicated in an independent sample, challenging the primacy of rest for revealing anatomical constraints. State effects were superimposed on a stable unimodal-to-transmodal cortical hierarchy, with mo",
+   "first_seen": "2026-11-14"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.11.12.766120v1?rss=1": {
+   "title": "Excitatory neurons downregulate synaptic proteins before motor onset and glia reduce neuronal support in Huntington disease mice",
+   "source": "bioRxiv Neuroscience",
+   "published": "2026-11-13T00:00:00+00:00",
+   "summary": "Background: Huntington's disease burdens protein homeostasis and affects neurons and glia differently across brain regions, but how these two main cell populations respond as the disease progresses remains unresolved. Whole-tissue proteomes mix these cell types and hide how the proteome of each changes. We therefore measured the proteome of each cell type separately at different disease stages. Methods: We metabolically labelled cell-type-specific proteomes in living R6/1 mice and wild-type littermates for 15 days at different disease stages. We examined cortical and hippocampal excitatory neurons at 1.5, 3 and 7 months, cerebellar inhibitory neurons at 3 and 7 months, and cortical, striatal",
+   "first_seen": "2026-11-14"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.11.12.766278v1?rss=1": {
+   "title": "Identifying aligned tensor decompositions across heterogeneous neural datasets",
+   "source": "bioRxiv Neuroscience",
+   "published": "2026-11-13T00:00:00+00:00",
+   "summary": "Large-scale neural recordings increasingly span many sessions, brain regions and animals, but differences in neuronal sampling make it difficult to identify and interpret shared patterns. We introduce Neuralign, a tensor- based model that jointly aligns and decomposes recordings into components, each pairing a shared temporal pattern with its expression in individual trials and neurons, without requiring matched neurons, matched trials or behavioural labels. In simulations, pooling recordings improved recovery of shared components; in recurrent networks, Neuralign distinguished related from distinct task solutions. In the macaque motor cortex, label-free components recovered the ring-like or",
+   "first_seen": "2026-11-14"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.11.11.765965v1?rss=1": {
+   "title": "Neural and Experiential Dynamics of High-Ventilation Breathwork Mirror Psychedelic States",
+   "source": "bioRxiv Neuroscience",
+   "published": "2026-11-13T00:00:00+00:00",
+   "summary": "High-ventilation breathwork (HVB) is a simple breathing technique that nevertheless frequently triggers experiences resembling psychedelic states. While recent studies have begun to pinpoint physiological and neural changes involved in altered states of consciousness (ASCs) evoked by HVB, the interplay between neural and experiential dynamics throughout an HVB session remains unclear. Here we tracked neural activity (via 64-channel EEG recordings) as well as subjective experience depth and content in 25 experienced HVB practitioners across resting-state recordings interleaved throughout a naturalistic HVB session. We find that neural dynamics evoked by HVB emulate the most robust neural sign",
+   "first_seen": "2026-11-14"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.11.10.765768v1?rss=1": {
+   "title": "Single-Session HRV Biofeedback Alters Neural Activity but Not Subjective Anxiety",
+   "source": "bioRxiv Neuroscience",
+   "published": "2026-11-13T00:00:00+00:00",
+   "summary": "Anxiety and stress are among the most prevalent mental health concerns worldwide, yet barriers to effective treatment remain high. Biofeedback-based approaches offer a promising, low-cost complement to traditional interventions. The present study examined whether real-time heart rate variability (HRV) biofeedback enhances the efficacy of paced breathing for reducing state anxiety, and whether self-reported and neural measures of anxiety relief converge. Healthy adults completed a speeded Stroop task for stress induction, followed by a ten-minute paced breathing exercise. Participants were randomly assigned to an HRV biofeedback condition, in which real-time cardiac variability was displayed,",
+   "first_seen": "2026-11-14"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.11.11.765941v1?rss=1": {
+   "title": "Mitochondrial dysfunction activates a translational stress response that drives diabetic pain",
+   "source": "bioRxiv Neuroscience",
+   "published": "2026-11-13T00:00:00+00:00",
+   "summary": "Neuropathic pain is common and debilitating among diabetics. The reactive glycolytic metabolite methylglyoxal (MGO) is strongly associated with painful diabetic neuropathy. MGO triggers pain through activation of the integrated stress response (ISR). The underlying molecular mechanisms are unclear. Here, we show that general control nonderepressible 2 (GCN2) kinase acts as a conserved sensor that bridges glycolytic and mitochondrial dysfunction to pain hypersensitivity. In human sensory neurons derived from dorsal root ganglion (DRG), MGO increased eIF2 phosphorylation and suppressed global translation. These effects were blocked upon inhibition of GCN2. Unbiased ribosome profiling of mouse ",
+   "first_seen": "2026-11-14"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.11.11.766012v1?rss=1": {
+   "title": "Aging limits the reduction of reactive muscle activity to perturbations but spares the retrieval of context-specific patterns with practice",
+   "source": "bioRxiv Neuroscience",
+   "published": "2026-11-13T00:00:00+00:00",
+   "summary": "Moving smoothly through a changing environment requires immediate reactive responses to maintain balance at an environmental transition, and learned, context-specific responses to efficiently meet the new environmental demands. People use both the reactive and context-specific responses to adapt to new environment and to re-adapt more rapidly on subsequent re-encounters. While re-adaptation slows with older age, the underlying muscular mechanisms are unknown. We hypothesized that practice would reduce reactive recruitment and increase context-specific recruitment and that both changes would be smaller in older adults. To test this, younger and older adults practiced split-belt walking (one b",
+   "first_seen": "2026-11-14"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.11.12.766115v1?rss=1": {
+   "title": "A Dual Effort Choice paradigm reveals pharmacological divergence between intrinsic and extrinsic motivation within the same task environment",
+   "source": "bioRxiv Neuroscience",
+   "published": "2026-11-13T00:00:00+00:00",
+   "summary": "Motivation loss is a transdiagnostic symptom, prevalent across neuropsychiatric and neurodegenerative diseases. Current treatments fail to effectively treat this symptom domain, giving it significant clinical importance. The fields of neuroscience and drug development have primarily focused on extrinsic motivation, whereby an animal must perform an action to receive an external food or water-based reward. However, many of our everyday activities are facilitated by intrinsic motivation, where completing an action is inherently rewarding. By utilising tasks focused only on extrinsic motivation, we may miss critical neurobiological and therapeutic differences between motivation types. Previous ",
+   "first_seen": "2026-11-14"
+  },
+  "https://www.medrxiv.org/content/10.64898/2026.11.13.26367865v1?rss=1": {
+   "title": "PSEN1 loss-of-function variants do not cause early-onset Alzheimer's disease",
+   "source": "medRxiv Neurology",
+   "published": "2026-11-13T00:00:00+00:00",
+   "summary": "PSEN1 variants are the most common cause of familial early-onset Alzheimer's disease (EOAD), but it is debated whether they act through a loss- or gain-of-function. Following a recent report of a duo with EOAD carrying a predicted loss-of-function (LoF) stop-gain variant (p.K109*) in PSEN1, we sought to determine whether PSEN1 LoF variants, as a class, cause EOAD. We identified 45 carriers of PSEN1 LoF variants predicted to trigger nonsense-mediated decay in the Alzheimer's Disease Sequencing Project, UK Biobank, and BioVU databases. None of these carriers had a recorded case of early-onset dementia, and 17 were older than 65 years at last follow-up with no dementia or AD reported. Re-analys",
+   "first_seen": "2026-11-14"
+  },
+  "https://www.medrxiv.org/content/10.64898/2026.11.12.26367908v1?rss=1": {
+   "title": "Monocyte-to-lymphocyte and Platelet-to-lymphocyte ratios in Neuromyelitis Optica Spectrum Disorders: systematic review and meta-analysis",
+   "source": "medRxiv Neurology",
+   "published": "2026-11-13T00:00:00+00:00",
+   "summary": "Background: Neuromyelitis Optica Spectrum Disorders (NMOSD) are a group of neuroinflammatory conditions that affect the nervous system. MLR and PLR are simple inflammatory biomarkers and are studied in many autoimmune and demyelinating diseases. In this study, we investigate the available evidence to determine whether MLR and PLR are higher in NMOSD patients than in healthy subjects. Methods: Systematic review and meta-analysis of studies measuring levels of PLR and/or MLR in both NMOSD patients and healthy controls were conducted. Mean difference (MD) and 95% confidence interval (CI) were used to measure the difference in levels of MLR and PLR between patients and healthy subjects. Results:",
+   "first_seen": "2026-11-14"
+  },
+  "https://www.medrxiv.org/content/10.64898/2026.11.11.26367881v1?rss=1": {
+   "title": "Age and body-mass index account for part of the sex differences in cerebral venous thrombosis",
+   "source": "medRxiv Neurology",
+   "published": "2026-11-13T00:00:00+00:00",
+   "summary": "Background. Women with cerebral venous thrombosis are younger than men and more often present with headache, but the cohorts reporting these differences did not account for age or body-mass index, both of which differ by sex. Methods. Single-center cohort of 219 consecutive adults with confirmed cerebral venous thrombosis admitted in Zurich in 2001-2021. Presentation, imaging and laboratory findings were compared between women and men, and every difference was re-estimated at equal age and body-mass index. Secondary analyses compared functional outcome, residual symptoms and return to work by sex, with an audit of incomplete follow-up. Results. Women (132, 60.3%) were younger (47.3 versus 54",
+   "first_seen": "2026-11-14"
+  },
+  "https://www.medrxiv.org/content/10.64898/2026.11.11.26367859v1?rss=1": {
+   "title": "DxToniaNet: A Neural Network for Estimating the Severity of Leg Dystonia in Children with Cerebral Palsy",
+   "source": "medRxiv Neurology",
+   "published": "2026-11-13T00:00:00+00:00",
+   "summary": "Importance: Leg dystonia affects 50-80% of children with cerebral palsy (CP), but severity assessment remains subjective and time-consuming. Objective tools are urgently needed to quantify leg dystonia severity in clinical care and clinical trials. Objective: To develop and validate a deep neural network (DxToniaNet) for leg dystonia severity estimation using 2D clinical video recordings. Design, Setting, and Participants: We retrospectively analyzed video recordings of 298 children with cerebral palsy undergoing a seated hand open-close task as part of routine clinical care (Center 1: 193 videos, 720p/30fps; Center 2: 105 videos, 4K/60fps). Videos were rated for leg dystonia severity by a g",
+   "first_seen": "2026-11-14"
+  },
+  "https://www.medrxiv.org/content/10.64898/2026.11.12.26367778v1?rss=1": {
+   "title": "Unraveling the Lifespan Trajectory of White Matter Hypointensity on T1-weighted MR Images and Clinical Application in Various Brain Disorders",
+   "source": "medRxiv Neurology",
+   "published": "2026-11-13T00:00:00+00:00",
+   "summary": "White matter hypointensity on T1-weighted MRI (T1-WMHypo), a putative marker of white matter pathophysiological changes, has been less systematically investigated than the widely studied T2-weighted fluid-attenuated inversion recovery (T2-FLAIR) hyperintensity lesions. Here, we built the lifespan normative reference and assessed the clinical significance of T1-WMHypo across various brain disorders using a large multicenter dataset. We first established lifespan normative reference for T1-WMHypo volume by 34,148 healthy individuals (aged 4-85 years). Then, in 7,587 patients across 21 neurological and psychiatric disorders, normative reference-derived deviations revealed disease-specific patte",
+   "first_seen": "2026-11-14"
+  },
+  "https://www.nature.com/articles/s41583-026-01092-8": {
+   "title": "The neuroscience of delirium: a perfect storm for acute brain dysfunction",
+   "source": "Nature Reviews Neuroscience",
+   "published": "2026-11-13T00:00:00+00:00",
+   "summary": "Nature Reviews Neuroscience, Published online: 13 November 2026; doi:10.1038/s41583-026-01092-8 Delirium is a highly prevalent, but much neglected, acute neuropsychiatric syndrome strongly associated with dementia. In this Review, Cunningham and Kimchi detail the neurophysiological and neuroanatomical basis of delirium and the metabolic and neuroinflammatory mechanisms that may drive it.",
+   "first_seen": "2026-11-14"
+  },
+  "https://www.nature.com/articles/s41380-026-03938-0": {
+   "title": "Vagus-Hepatic-Creatine axis modulates manic-like behaviors via hippocampal MMP19 upregulation in bipolar disorder",
+   "source": "Molecular Psychiatry",
+   "published": "2026-11-13T00:00:00+00:00",
+   "summary": "Molecular Psychiatry, Published online: 13 November 2026; doi:10.1038/s41380-026-03938-0 Vagus-Hepatic-Creatine axis modulates manic-like behaviors via hippocampal MMP19 upregulation in bipolar disorder",
+   "first_seen": "2026-11-14"
+  },
+  "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.72005?af=R": {
+   "title": "Caregiver well-being after multisite implementation of the Care Ecosystem",
+   "source": "Alzheimer's & Dementia",
+   "published": "2026-11-14T04:27:22+00:00",
+   "summary": "Alzheimer's &Dementia, Volume 22, Issue 11, November 2026.",
+   "first_seen": "2026-11-14"
+  },
+  "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.71981?af=R": {
+   "title": "Tau conveys intrinsic hyperactivity of VTA dopamine neurons but an inability to sustain burst firing",
+   "source": "Alzheimer's & Dementia",
+   "published": "2026-11-14T04:03:43+00:00",
+   "summary": "Alzheimer's &Dementia, Volume 22, Issue 11, November 2026.",
+   "first_seen": "2026-11-14"
+  },
+  "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.71983?af=R": {
+   "title": "Prognostic value of plasma brain-derived phosphorylated Tau",
+   "source": "Alzheimer's & Dementia",
+   "published": "2026-11-14T03:53:38+00:00",
+   "summary": "Alzheimer's &Dementia, Volume 22, Issue 11, November 2026.",
+   "first_seen": "2026-11-14"
+  },
+  "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.71985?af=R": {
+   "title": "Tau ubiquitination and phosphorylation in relation to Alzheimer's disease in older adults",
+   "source": "Alzheimer's & Dementia",
+   "published": "2026-11-14T03:51:13+00:00",
+   "summary": "Alzheimer's &Dementia, Volume 22, Issue 11, November 2026.",
+   "first_seen": "2026-11-14"
+  },
+  "https://doi.org/10.1186/s13024-026-01016-1": {
+   "title": "TREM2c·3G>A promotes aberrant microglial-endothelial signaling, impairs BBB integrity, and enhances Aβ and Tau accumulation",
+   "source": "Molecular Neurodegeneration",
+   "published": "2026-11-13T17:04:59+00:00",
+   "summary": "Abstract We identified a novel start-codon mutation in TREM2 ( TREM2 c·3G>A , M1I) that causes complete loss of TREM2 expression and is associated with early-onset Alzheimer’s disease (AD) in humans. This mutation triggers profound blood-brain barrier (BBB) impairment in both humans and mice, positioning BBB impairment as an early trigger rather than a downstream consequence of neurodegeneration in AD. Mechanistically, TREM2 deficiency causes NF-κB-driven upregulation of microglial CCL2, which activates CCR2 on endothelial cells and induces tight junction internalization. The resulting BBB compromise permits the leakage of peripheral pathological proteins, including β2-microglobulin, acceler",
+   "first_seen": "2026-11-14"
+  },
+  "https://doi.org/10.1093/brain/awag405": {
+   "title": "Guam disease features chronic traumatic encephalopathy-like tau seeds in brain and spinal cord",
+   "source": "Brain",
+   "published": "2026-11-13T12:53:31+00:00",
+   "summary": "Abstract Amyotrophic lateral sclerosis/parkinsonism-dementia complex (ALS/PDC) is a fatal neurodegenerative disorder that was once hyperendemic in the island of Guam (Mariana Islands, US) and a few other Pacific locales. Despite extensive investigations into its origins, the etiology of ALS/PDC remains unclear. ALS/PDC is, at the neuropathology level, characterized by tau-dominant multiple proteinopathy in brain and spinal cord. It was recently reported that Guam ALS/PDC brain extracts exhibit tau seeding activity in fluorescence resonance energy transfer (FRET)-based biosensor cells. To build upon those findings and explore the nature of tau seeds in ALS/PDC in more detail, we used an alani",
+   "first_seen": "2026-11-14"
+  },
+  "https://www.nature.com/articles/s41467-026-79602-6": {
+   "title": "Enhancer-driven gene regulatory network of human forebrain development provides insights into autism",
+   "source": "Nature Communications",
+   "published": "2026-11-14T00:00:00+00:00",
+   "summary": "Nature Communications, Published online: 14 November 2026; doi:10.1038/s41467-026-79602-6 The authors construct a gene regulatory network showing the potential role of specific enhancer elements in driving lineage imbalance in autism, explaining why forebrain organoids from autism probands show heterogeneity in the generation of excitatory neurons.",
+   "first_seen": "2026-11-14"
+  },
+  "https://www.nature.com/articles/s41598-026-77303-0": {
+   "title": "A swap-adversarial framework for domain generalization in pre- and post-stimulation Parkinsonian state classification",
+   "source": "Scientific Reports (Neuroscience)",
+   "published": "2026-11-14T00:00:00+00:00",
+   "summary": "",
+   "first_seen": "2026-11-14"
+  },
+  "https://www.nature.com/articles/s41598-026-62812-9": {
+   "title": "Spontaneous emergence of action decisions and slow ramping in a deep brain-constrained model of frontotemporal areas",
+   "source": "Scientific Reports (Neuroscience)",
+   "published": "2026-11-14T00:00:00+00:00",
+   "summary": "",
+   "first_seen": "2026-11-14"
+  },
+  "https://www.cell.com/cell-reports/fulltext/S2211-1247(26)01400-2?rss=yes": {
+   "title": "G3BP1-mediated RNA-RNA interactions regulate stress granule assembly",
+   "source": "Cell Reports",
+   "published": "2026-11-13T00:00:00+00:00",
+   "summary": "Xia et al. present a high-quality dataset providing valuable insights into the stress granule transcriptome, G3BP1 biology, and RNA partitioning. The study highlights potential mechanisms for granule formation, such as RNA-RNA interactions. The findings provide important insights, particularly the identification of RNA-binding motifs and their correlations with stress granule partitioning.",
+   "first_seen": "2026-11-14"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.11.12.762002v1?rss=1": {
+   "title": "LRPPRC gene replacement therapy preserves cardiac function and prevents premature death in a mouse model of mitochondrial disease",
+   "source": "bioRxiv Genetics",
+   "published": "2026-11-13T00:00:00+00:00",
+   "summary": "Pathogenic variants in LRPPRC disrupt mitochondrial gene expression, causing severe and incurable mitochondrial disease with neurological involvement accompanied by hepatopathy or cardiomyopathy. The development for gene therapy for LRPPRC-linked disease is hindered by the large LRPPRC coding sequence exceeding AAV cargo capacity when combined with classical regulatory elements. Here, we engineered compact single rAAV9 vectors expressing human or mouse LRPPRC and administered them intravenously to heart and skeletal muscle-specific Lrpprc knockout mice. This approach restored cardiac LRPPRC expression, preserved oxidative phosphorylation (OXPHOS) function, prevented cardiomyopathy and marked",
+   "first_seen": "2026-11-14"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.11.12.765297v1?rss=1": {
+   "title": "Single-AAV-mediated cardiomyocyte-specific adenine base editing ameliorates cardiac hypertrophy in vivo",
+   "source": "bioRxiv Molecular Biology",
+   "published": "2026-11-13T00:00:00+00:00",
+   "summary": "Hypertrophic cardiomyopathy (HCM) is the most common inherited cardiac disorder, frequently accompanied by cardiac hypercontractility, diastolic dysfunction, heart failure and sudden cardiac death. The disease is predominantly caused by pathogenic variants in genes encoding sarcomeric proteins and current therapeutic strategies largely focus on symptom management. Adeno-associated virus-based (AAV) delivery of base editing tools has emerged as an alternative strategy that acts directly on the genetic cause of disease. However, canonical SpCas9-based editors are too large to package into a single-AAV vector which mandates dual-AAV approaches that require higher overall vector doses with eleva",
+   "first_seen": "2026-11-14"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.11.11.766029v1?rss=1": {
+   "title": "Chimera: Cross-Species Single-Cell Generative Modeling of Expression Deployment Relative to Protein Conservation",
+   "source": "bioRxiv Bioinformatics",
+   "published": "2026-11-13T00:00:00+00:00",
+   "summary": "A protein's sequence says what a gene could do in another species; the cells of that species say what it does there. Comparative genomics measures the first. Chimera measures the second, a gene's deployment, on the same genes and reports the difference. It aligns single-cell atlases across species in one generative model and returns, for every one-to-one ortholog, the evidence in the counts for a shared expression pattern, and {Delta}[a], the position of that evidence above or below what the protein's identity predicts. This difference is not sequence constraint under another name: across eight tissues, protein identity tracks dN/dS, whereas {Delta}[a] tracks neither. A gene therefore has tw",
+   "first_seen": "2026-11-14"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.11.11.765961v1?rss=1": {
+   "title": "Phylospatial optimal transport for single-cell and spatial transcriptomics data integration",
+   "source": "bioRxiv Bioinformatics",
+   "published": "2026-11-13T00:00:00+00:00",
+   "summary": "The spatial organization of evolving cell populations in tumors influences how they progress and respond to treatment. Spatially resolved transcriptomics data may be used to examine the locations of these diverse cell states in tumor sections. However, these technologies often lack single-cell resolution and instead capture groups of cells in spatial spots, making it difficult to resolve cancer clones. In contrast, dissociated single-cell transcriptomics data are better suited for obtaining cell lineages, but do not capture the locations of the cells in the tissue. Here, we introduce SpOTr, an optimal transport approach that leverages the concordance between the evolutionary tree and the spa",
+   "first_seen": "2026-11-14"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.11.11.765945v1?rss=1": {
+   "title": "DynamicsPLM: A Dynamics-Enriched Small Protein Language Model for Protein Variant Effect Prediction",
+   "source": "bioRxiv Bioinformatics",
+   "published": "2026-11-13T00:00:00+00:00",
+   "summary": "Predicting how mutations impact protein function and stability remains a key challenge in computational biology. Current state-of-the-art protein language models (PLMs) primarily scale parameter size on sequence corpora to capture evolutionary constraints but remain blind to the explicit physical dynamics of folded proteins. Conversely, models trained strictly on physical dynamics neglect critical evolutionary sequence statistics. In this paper, we bridge this gap by introducing DynamicsPLM, a highly parameter-efficient 35-million-parameter model that unifies evolutionary and biophysical representation learning. Utilizing a second-stage, multi-task continual pretraining strategy on over 60,0",
+   "first_seen": "2026-11-14"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.11.12.766125v1?rss=1": {
+   "title": "Graph-guided flow matching enables biologically informed prediction at single-cell resolution",
+   "source": "bioRxiv Bioinformatics",
+   "published": "2026-11-13T00:00:00+00:00",
+   "summary": "Perturb-seq enables systematic interrogation of massively parallel genetic perturbations at single-cell resolution, yet exhaustive characterization of the full perturbation space remains impractical. Here, we present Graph-guided Flow Matching (GFM), a generative framework that integrates biological knowledge graphs with latent flow matching to predict post-perturbation single-cell transcriptomes. Across multiple large-scale Perturb-seq datasets, GFM outperforms a strong linear baseline and current deep-learning models in predicting unseen single-gene perturbations, while training up to 30x faster and remaining robust with limited training data. GFM also demonstrates competitive performance ",
+   "first_seen": "2026-11-14"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.11.12.766045v1?rss=1": {
+   "title": "MAUDE-Py: A Python Implementation for Analyzing Sorting-Based Pooled CRISPR Screens",
+   "source": "bioRxiv Bioinformatics",
+   "published": "2026-11-13T00:00:00+00:00",
+   "summary": "The Python programming language is gaining popularity in bioinformatics owing to its versatility in computing-heavy applications. An area of particular interest where computational power can be leveraged is analyzing and interpreting pooled CRISPR screens. Here, we replicate the core functionality of an existing platform, Mean Alterations Using Discrete Expression (MAUDE), in Python (MAUDE-Py) to analyze pooled CRISPR screens. Our tool complements the original R MAUDE software as a robust and user-friendly Python package that integrates with existing CRISPR analysis workflows. While preserving the core probabilistic framework of MAUDE, MAUDE-Py introduces notable enhancements. These enhancem",
+   "first_seen": "2026-11-14"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.11.11.765989v1?rss=1": {
+   "title": "Structural characterization of Posaconazole- parechovirus A3 capsid interaction using molecular simulations and cell infection assays",
+   "source": "bioRxiv Bioinformatics",
+   "published": "2026-11-13T00:00:00+00:00",
+   "summary": "Parechovirus-A3 (PeV-A3) is a major cause of central nervous system infections in neonates, associated with meningoencephalitis and neurodevelopmental delays. Yet there are no specific antivirals against PeV-A3 infection. A newer clade of PeV-A3 has emerged post COVID-19, and our preliminary data shows that infants are not immune to the emerging variants, underscoring the need for a focused therapeutic discovery. Posaconazole (POS) is seen to attenuate PeV-A3 entry and infection, but the mechanistic understanding of drug-capsid interaction remains unknown. To this end, we combined mechanistic interrogation of drug-capsid interactions and conformational dynamics, with experimental infection a",
+   "first_seen": "2026-11-14"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.11.12.766149v1?rss=1": {
+   "title": "Spatial multi-omic profiling of non-autonomous transcriptomic and epigenomic responses to genetic perturbation",
+   "source": "bioRxiv Bioinformatics",
+   "published": "2026-11-13T00:00:00+00:00",
+   "summary": "Multicellular organisms develop and maintain differentiated cell states through a combination of cell-autonomous and non-autonomous regulatory mechanisms, including signal transduction pathways mediated by ligands, receptors, and kinases. Genetic perturbation through CRISPR pooled screening is widely used to study cell-autonomous regulatory mechanisms, but the challenges of cellular-resolution in situ measurement have limited the study of non-autonomous regulatory mechanisms. We developed Perturb-Tags, a spatial multi-omic technique for pooled CRISPR screening that tags nuclei with spatial barcodes, allowing joint measurement of single-nucleus gene expression, CRISPR guide RNAs, chromatin ac",
+   "first_seen": "2026-11-14"
+  },
+  "https://www.biorxiv.org/content/10.64898/2026.11.11.766060v1?rss=1": {
+   "title": "Rejuvenation rankings from CRISPRi screens change with the aging cohort and track cell growth programs",
+   "source": "bioRxiv Bioinformatics",
+   "published": "2026-11-13T00:00:00+00:00",
+   "summary": "Ranking gene knockdowns by how well they reverse an aging expression signature is a common way to find rejuvenation targets, but the stability of these rankings has not been tested. We built TRACE, an open-source set of tests, to score 18,746 knockdown profiles from five CRISPR interference (CRISPRi) screens in four human cell lines. Rankings built from fibroblasts of 111 donors and from Genotype-Tissue Expression (GTEx) fibroblasts were unrelated ({rho} = -0.05). In an exploratory test, the 200 strongest age genes of the first cohort changed in the opposite direction in GTEx ({rho} = -0.55), but this was not significant after correction and shrank when GTEx batch was modeled. Raw scores fol",
+   "first_seen": "2026-11-14"
   }
  },
  "feed_status": {
   "Nature Neuroscience": "0 new of 8",
-  "bioRxiv Neuroscience": "0 new of 30",
-  "medRxiv Neurology": "0 new of 30",
-  "arXiv q-bio.NC": "0 new of 22",
+  "bioRxiv Neuroscience": "30 new of 30",
+  "medRxiv Neurology": "5 new of 30",
+  "arXiv q-bio.NC": "no entries (HTTP 200)",
   "Nature Medicine": "0 new of 8",
   "Nature Genetics": "0 new of 8",
   "Nature Aging": "0 new of 8",
-  "Nature Reviews Neuroscience": "0 new of 8",
+  "Nature Reviews Neuroscience": "1 new of 8",
   "Nature Reviews Neurology": "0 new of 8",
   "Nature Methods": "0 new of 8",
   "Nature Biotechnology": "0 new of 8",
-  "Molecular Psychiatry": "0 new of 8",
+  "Molecular Psychiatry": "1 new of 8",
   "Nature Machine Intelligence": "0 new of 8",
   "Neuron": "0 new of 15",
   "Cell Stem Cell": "0 new of 19",
   "Stem Cell Reports": "0 new of 12",
-  "Alzheimer's & Dementia": "0 new of 23",
+  "Alzheimer's & Dementia": "4 new of 27",
   "Lancet Neurology": "0 new of 19",
   "Acta Neuropathologica": "0 new of 2 (via Crossref)",
-  "Molecular Neurodegeneration": "0 new of 3 (via Crossref)",
-  "Brain": "0 new of 5 (via Crossref)",
+  "Molecular Neurodegeneration": "1 new of 2 (via Crossref)",
+  "Brain": "1 new of 5 (via Crossref)",
   "JAMA Neurology": "0 new of 100 (via Crossref)",
   "Annals of Neurology": "0 new of 100 (via Crossref)",
-  "Neurobiology of Aging": "0 new of 95 (via Crossref)",
-  "Alzheimer's Research & Therapy": "0 new of 5 (via Crossref)",
+  "Neurobiology of Aging": "0 new of 100 (via Crossref)",
+  "Alzheimer's Research & Therapy": "0 new of 3 (via Crossref)",
   "Nature Reviews Drug Discovery": "0 new of 8",
   "Nature Biomedical Engineering": "0 new of 8",
   "Molecular Therapy": "0 new of 7 (via Crossref)",
   "Journal of Clinical Investigation": "0 new of 100 (via Crossref)",
-  "Cell Reports Medicine": "0 new of 7 (via Crossref)",
+  "Cell Reports Medicine": "0 new of 5 (via Crossref)",
   "Nature": "0 new of 75",
   "Nature Communications": "1 new of 8",
-  "Scientific Reports (Neuroscience)": "0 new of 30",
+  "Scientific Reports (Neuroscience)": "2 new of 30",
   "eLife": "0 new of 100",
   "bioRxiv Genomics": "0 new of 30",
-  "arXiv q-bio.GN": "0 new of 6",
-  "arXiv q-bio.QM": "0 new of 13",
-  "arXiv cs.LG": "10 new of 611",
+  "arXiv q-bio.GN": "no entries (HTTP 200)",
+  "arXiv q-bio.QM": "no entries (HTTP 200)",
+  "arXiv cs.LG": "no entries (HTTP 200)",
   "Science": "0 new of 44",
   "Science Translational Medicine": "0 new of 7",
   "Cell": "0 new of 24",
-  "Cell Reports": "0 new of 135",
-  "bioRxiv Genetics": "1 new of 30",
+  "Cell Reports": "1 new of 143",
+  "bioRxiv Genetics": "2 new of 30",
   "bioRxiv Cell Biology": "1 new of 30",
-  "bioRxiv Molecular Biology": "2 new of 30",
-  "bioRxiv Bioinformatics": "3 new of 30",
-  "arXiv cs.AI": "3 new of 537",
-  "arXiv stat.ML": "1 new of 96",
+  "bioRxiv Molecular Biology": "3 new of 30",
+  "bioRxiv Bioinformatics": "10 new of 30",
+  "arXiv cs.AI": "no entries (HTTP 200)",
+  "arXiv stat.ML": "no entries (HTTP 200)",
   "American Journal of Human Genetics": "0 new of 14",
   "Cell Genomics": "0 new of 14",
-  "Genome Research": "0 new of 2 (via Crossref)",
-  "Genome Biology": "0 new of 4 (via Crossref)"
+  "Genome Research": "0 new of 100 (via Crossref)",
+  "Genome Biology": "0 new of 5 (via Crossref)"
  },
- "updated": "Fri Nov 13, 6:28 AM PST"
+ "updated": "Sat Nov 14, 5:23 AM PST"
 }
