@@ -8165,7 +8165,7 @@
  },
  "feed_status": {
   "Nature Neuroscience": "0 new of 8",
-  "bioRxiv Neuroscience": "1 new of 30",
+  "bioRxiv Neuroscience": "0 new of 30",
   "medRxiv Neurology": "0 new of 30",
   "arXiv q-bio.NC": "no entries (HTTP 200)",
   "Nature Medicine": "0 new of 8",
@@ -8187,7 +8187,7 @@
   "Brain": "0 new of 2 (via Crossref)",
   "JAMA Neurology": "0 new of 100 (via Crossref)",
   "Annals of Neurology": "0 new of 100 (via Crossref)",
-  "Neurobiology of Aging": "1 new of 1 (via Crossref)",
+  "Neurobiology of Aging": "0 new of 1 (via Crossref)",
   "Alzheimer's Research & Therapy": "0 new of 100 (via Crossref)",
   "Nature Reviews Drug Discovery": "0 new of 8",
   "Nature Biomedical Engineering": "0 new of 8",
@@ -8196,7 +8196,7 @@
   "Cell Reports Medicine": "0 new of 3 (via Crossref)",
   "Nature": "0 new of 75",
   "Nature Communications": "0 new of 8",
-  "Scientific Reports (Neuroscience)": "3 new of 30",
+  "Scientific Reports (Neuroscience)": "0 new of 30",
   "eLife": "0 new of 50",
   "bioRxiv Genomics": "0 new of 30",
   "arXiv q-bio.GN": "no entries (HTTP 200)",
@@ -8217,5 +8217,5 @@
   "Genome Research": "0 new of 100 (via Crossref)",
   "Genome Biology": "0 new of 4 (via Crossref)"
  },
- "updated": "Sun Nov 15, 5:24 AM PST"
+ "updated": "Sun Nov 15, 6:16 AM PST"
 }
