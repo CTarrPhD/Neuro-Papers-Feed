@@ -8095,7 +8095,7 @@
  },
  "feed_status": {
   "Nature Neuroscience": "0 new of 8",
-  "bioRxiv Neuroscience": "2 new of 30",
+  "bioRxiv Neuroscience": "0 new of 30",
   "medRxiv Neurology": "0 new of 30",
   "arXiv q-bio.NC": "no entries (HTTP 200)",
   "Nature Medicine": "0 new of 8",
@@ -8110,7 +8110,7 @@
   "Neuron": "0 new of 15",
   "Cell Stem Cell": "0 new of 19",
   "Stem Cell Reports": "0 new of 12",
-  "Alzheimer's & Dementia": "1 new of 51",
+  "Alzheimer's & Dementia": "0 new of 51",
   "Lancet Neurology": "0 new of 23",
   "Acta Neuropathologica": "0 new of 100 (via Crossref)",
   "Molecular Neurodegeneration": "0 new of 1 (via Crossref)",
@@ -8118,7 +8118,7 @@
   "JAMA Neurology": "0 new of 100 (via Crossref)",
   "Annals of Neurology": "0 new of 100 (via Crossref)",
   "Neurobiology of Aging": "0 new of 2 (via Crossref)",
-  "Alzheimer's Research & Therapy": "1 new of 5 (via Crossref)",
+  "Alzheimer's Research & Therapy": "0 new of 5 (via Crossref)",
   "Nature Reviews Drug Discovery": "0 new of 8",
   "Nature Biomedical Engineering": "0 new of 8",
   "Molecular Therapy": "0 new of 17 (via Crossref)",
@@ -8127,8 +8127,8 @@
   "Nature": "0 new of 75",
   "Nature Communications": "0 new of 8",
   "Scientific Reports (Neuroscience)": "0 new of 30",
-  "eLife": "1 new of 28",
-  "bioRxiv Genomics": "1 new of 30",
+  "eLife": "1 new of 50",
+  "bioRxiv Genomics": "0 new of 30",
   "arXiv q-bio.GN": "no entries (HTTP 200)",
   "arXiv q-bio.QM": "no entries (HTTP 200)",
   "arXiv cs.LG": "no entries (HTTP 200)",
@@ -8139,7 +8139,7 @@
   "bioRxiv Genetics": "0 new of 30",
   "bioRxiv Cell Biology": "0 new of 30",
   "bioRxiv Molecular Biology": "0 new of 30",
-  "bioRxiv Bioinformatics": "2 new of 30",
+  "bioRxiv Bioinformatics": "1 new of 30",
   "arXiv cs.AI": "no entries (HTTP 200)",
   "arXiv stat.ML": "no entries (HTTP 200)",
   "American Journal of Human Genetics": "0 new of 14",
@@ -8147,5 +8147,5 @@
   "Genome Research": "0 new of 100 (via Crossref)",
   "Genome Biology": "0 new of 14 (via Crossref)"
  },
- "updated": "Sun Nov 22, 11:54 AM PST"
+ "updated": "Sun Nov 22, 12:26 PM PST"
 }
